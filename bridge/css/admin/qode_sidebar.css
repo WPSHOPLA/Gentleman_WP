@@ -1,0 +1,47 @@
+.sidebar-qode-custom{
+	position: relative;
+}
+
+.qode-delete-button{
+	height:24px;
+	width: 24px;
+	position: absolute;
+	z-index: 100;
+	top: 11px;
+	right: 32px;
+	background: transparent url(images/delete.png) no-repeat top left;
+}
+
+.qode-delete-button:hover{
+	background: transparent url(images/delete.png) no-repeat bottom left;
+	cursor: pointer;
+}
+
+.activate_spinner{
+	display: block !important;
+	position: absolute;
+	top: 10px;
+	right: 4px;
+	background-color: #ECECEC;
+}
+
+.qode-add-widget{
+	background-color: #FCFCFC;
+	border: 1px solid #DFDFDF;
+	padding:10px;
+	text-align: center;
+	margin: 12px 0px;
+}
+
+#wpwrap .qode-add-widget .button{
+	margin-top:15px;
+}
+
+.qode-add-widget .input_wrap { 
+	display: block;
+	position: relative;
+}
+
+.qode-add-widget .input_wrap input{ 
+	width: 100%;
+}

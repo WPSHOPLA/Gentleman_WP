@@ -1,0 +1,3 @@
+<button type="submit" <?php qode_inline_style($button_styles); ?> <?php qode_class_attribute($button_classes); ?> <?php echo qode_get_inline_attrs($button_data); ?> <?php echo qode_get_inline_attrs($button_custom_attrs); ?>>
+    <span class="qode-btn-text"><?php echo esc_html($text); ?></span><?php echo qode_icon_collections()->renderIconHTML($icon, $icon_pack, array('icon_attributes' => array('class' => 'qode-button-v2-icon-holder-inner'))); ?>
+</button>

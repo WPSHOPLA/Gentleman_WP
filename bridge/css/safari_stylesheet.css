@@ -1,0 +1,7 @@
+.boxed .carousel-inner{
+    margin-left: 0px;
+}
+
+.right_side_menu_opened.boxed .carousel-inner{
+    margin-left: -270px;
+}

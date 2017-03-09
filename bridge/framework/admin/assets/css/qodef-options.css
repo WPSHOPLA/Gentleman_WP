@@ -1,0 +1,451 @@
+/* ==========================================================================
+   General markup styles
+   ========================================================================== */
+/* line 9, scss/qodef-options.scss */
+.qodef-options-page table th {
+  font-weight: 400;
+}
+
+/* ==========================================================================
+   General typography styles
+   ========================================================================== */
+/* line 19, scss/qodef-options.scss */
+.qodef-options-page h1, .qodef-options-page h2, .qodef-options-page h3, .qodef-options-page h4, .qodef-options-page h5, .qodef-options-page h6 {
+  line-height: 1.5em;
+  margin-top: 0;
+  padding: 0;
+}
+/* line 27, scss/qodef-options.scss */
+.qodef-options-page a:hover, .qodef-options-page a:focus {
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Page general styles
+   ========================================================================== */
+/* line 37, scss/qodef-options.scss */
+.qodef-options-page {
+  margin: 20px 20px 0 2px;
+}
+/* line 40, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-header {
+  padding: 20px 20px;
+  background-color: #40454a;
+  color: #fff;
+}
+/* line 45, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-header img.qodef-header-logo {
+  width: 30px;
+}
+/* line 49, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-header .qodef-page-title {
+  color: #fff;
+  padding: 0;
+  margin: 0 0 0 20px;
+  line-height: 35px;
+}
+/* line 58, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper {
+  border: 1px solid #dddddd;
+  -webkit-box-shadow: 0 4px 4px -4px #cccccc;
+  -moz-box-shadow: 0 4px 4px -4px #cccccc;
+  box-shadow: 0 4px 4px -4px #cccccc;
+  background:#e9ebec;
+}
+/* line 62, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-title {
+  margin-bottom: 20px;
+	color:#40454A;
+	font-size: 21px
+}
+/* line 66, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-section-title {
+  background-color: #f7f7f8;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  margin: -10px -20px 0;
+  border-bottom:1px solid #dbdee0;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 1
+}
+
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-section-subtitle {
+    color: #a2a9af;
+    margin: 30px 0 15px;
+    font-size: 14px;
+    position: relative;
+    text-transform: uppercase;
+    padding-left: 12px;
+}
+
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-section-subtitle:before {
+    content: '';
+    position: absolute;
+    left: -20px;
+    top: -7px;
+    width: 0;
+    height: 0;
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-left: 18px solid #dbdee0;
+}
+
+@media only screen and (max-width: 900px) {
+  /* line 77, scss/qodef-options.scss */
+  .qodef-options-page .qodef-page-content-wrapper .qodef-page-content .qodef-tabs-wrapper.vertical .qodef-tabs-navigation-wrapper {
+    width: 40px;
+  }
+}
+/* line 87, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .qodef-tabs-wrapper.vertical .qodef-tabs-navigation-wrapper .nav-tabs li > a > i {
+  width: auto;
+  font-size: 15px
+}
+@media only screen and (max-width: 900px) {
+  /* line 92, scss/qodef-options.scss */
+  .qodef-options-page .qodef-page-content-wrapper .qodef-page-content .qodef-tabs-wrapper.vertical .qodef-tabs-navigation-wrapper .nav-tabs li span {
+    display: none;
+  }
+}
+@media only screen and (max-width: 900px) {
+  /* line 102, scss/qodef-options.scss */
+  .qodef-options-page .qodef-page-content-wrapper .qodef-page-content .qodef-tabs-wrapper.vertical .qodef-tabs-content {
+    margin-left: 38px;
+  }
+}
+/* line 115, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section-holder {
+  margin-bottom: 30px;
+  border: 1px solid #dbdee0;
+  padding: 10px 20px;
+  background:#fff;
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+  box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+.qodef-tabs-wrapper.vertical.left .nav-tabs > li > a {
+  color:#7c848d;
+  font-weight: 400;
+  padding-left:10px;
+}
+/* line 119, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section {
+  border-bottom: 1px solid #ececec;
+  display: table;
+  width: 100%;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section:last-child {
+	border-bottom: none;
+}
+.qodef-page-form-section-holder .qodef-page-form-container-holder {
+	border-bottom: 1px solid #ececec;
+	border-left: 3px solid #b2b8bd;
+/*	margin-left: 10px;*/
+}
+.qodef-page-form-section-holder .qodef-page-form-container-holder .qodef-page-form-container-holder {
+	border-left: none;
+	margin-left: 0;
+/*	padding-left:30px;*/
+}
+.qodef-page-form-section-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-section{ 
+	padding-left:40px;
+	background:#edf0f1
+}
+.qodef-page-form-section-holder .qodef-page-form-container-holder .qodef-page-form-section {
+	padding-left: 20px;
+	background: #F2F4F5;
+}
+/* line 128, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section > .qodef-field-desc {
+  width: 20%;
+  padding: 15px 20px 15px 0;
+  display: table-cell;
+  height: 100%;
+  vertical-align: middle;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section > .qodef-field-desc h4 {
+  margin-bottom: 0;
+  color:#34383c
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section > .qodef-field-desc p {
+  font-style: italic;
+  color:#a2a9af;
+  margin-top:0;
+  margin-bottom: 0
+}
+/* line 136, scss/qodef-options.scss */
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section .qodef-section-content {
+  padding: 20px 0;
+  display: table-cell;
+  width: 80%;
+  height: 100%;
+  vertical-align: middle;
+}
+/* line 143, scss/qodef-options.scss */
+/*.qodef-options-page .qodef-page-content-wrapper .qodef-page-content div.qodef-page-form .qodef-page-form-section .qodef-section-content .container-fluid {
+  padding-right: 0;
+}*/
+/* line 150, scss/qodef-options.scss */
+
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-buttom-section-holder {
+  display: table;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section-inner {
+  display: table-cell;
+  vertical-align: middle;
+  padding:10px 20px;
+  line-height: 0;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section-inner ul {
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section-inner li:first-child {
+  margin-left: 0;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section-inner li {
+  display: inline-block;
+  margin: 0 3px 3px 0;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section-inner li a {
+  color:#7c848d;
+	background-color:#fff;
+	padding:5px 10px;
+	border-radius: 5px;
+	border: 1px solid #dbdee0;
+}
+ .btn.btn-primary {
+  border-radius:5px;
+  border:1px solid #25729a;
+  background-color: #3093c7; 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#3093c7), to(#236694));
+  background-image: -webkit-linear-gradient(top, #3093c7, #236694);
+  background-image: -moz-linear-gradient(top, #3093c7, #236694);
+  background-image: -ms-linear-gradient(top, #3093c7, #236694);
+  background-image: -o-linear-gradient(top, #3093c7, #236694);
+  background-image: linear-gradient(to bottom, #3093c7, #236694);
+  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#3093c7, endColorstr=#236694);
+}
+.btn.btn-primary:hover {
+  border:1px solid #1c5675;
+  background-color: #26759e; background-image: -webkit-gradient(linear, left top, left bottom, from(#26759e), to(#133d5b));
+  background-image: -webkit-linear-gradient(top, #26759e, #133d5b);
+  background-image: -moz-linear-gradient(top, #26759e, #133d5b);
+  background-image: -ms-linear-gradient(top, #26759e, #133d5b);
+  background-image: -o-linear-gradient(top, #26759e, #133d5b);
+  background-image: linear-gradient(to bottom, #26759e, #133d5b);
+  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#26759e, endColorstr=#133d5b);
+}
+.btn.btn-default {
+	border-radius:5px;
+}
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .qodef-page-form{
+	position: relative;
+}
+
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section{
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+}
+
+.qodef-options-page .qodef-page-content-wrapper .qodef-page-content .form-button-section.flow {
+  position: fixed;
+	left: auto;
+  z-index: 9999;
+  margin-right: auto;
+  background: #f3f3f3;
+  background: rgba(243,243,243,.9);
+  -moz-box-shadow: 0 -3px 10px rgba(0,0,0,.1);
+  -webkit-box-shadow: 0 -3px 10px rgba(0,0,0,.1);
+  box-shadow: 0 -3px 10px rgba(0,0,0,.1);
+  border: 1px solid #E2E2E2;
+}
+.qodef-input-change {
+  opacity: 0;
+  background-color:#fff6c8;
+  background-color:rgba(255, 246, 200, 0.5);
+  height: 0;
+  padding: 0 20px;
+  transition: all .3s linear;
+  -webkit-transition: all .3s linear;
+  }
+.qodef-input-change.yes {
+  opacity: 1;
+  padding:20px;
+  line-height:0;
+  height: 30px;
+  border-bottom: 1px solid #F1EBC7;
+}
+.qodef-changes-saved {
+  opacity: 0;
+  background-color:#cbeebc;
+  background-color:rgba(203, 238, 188, 0.5);
+  height: 0;
+  padding: 0 20px;
+  transition: all .3s linear;
+  -webkit-transition: all .3s linear;
+}
+.qodef-changes-saved.yes {
+  opacity: 1;
+  padding:20px;
+  line-height:0;
+  height: 30px;
+  border-bottom: 1px solid #cfe2c7;
+}
+.field.switch {
+  margin-top: 0
+}
+
+/* page qodef_page_info */
+.qodef-page-info {
+	margin-top:20px;
+}
+.qodef-page-info .qodef-page-title {
+	margin-bottom: 20px;
+	color: #40454A;
+	font-size: 21px;
+}
+.qodef-page-info .qodef-page-section-title {
+	background-color: #f7f7f8;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	margin: -10px -20px 0 !important;
+	border-bottom: 1px solid #dbdee0;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 1;
+}
+.qodef-page-info .qodef-page-form .qodef-page-form-section-holder {
+	margin-bottom: 30px;
+	border: 1px solid #dbdee0;
+	padding: 10px 20px;
+	background: #fff;
+	-webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.05);
+}
+.qodef-page-info div.qodef-page-form .qodef-page-form-section {
+	border-bottom: 1px solid #ececec;
+	display: table;
+	width: 100%;
+}
+.qodef-page-info div.qodef-page-form .qodef-page-form-section > .qodef-field-desc {
+	width: 20%;
+	padding: 15px 20px 15px 0;
+	display: table-cell;
+	height: 100%;
+	vertical-align: middle;
+}
+.qodef-page-info div.qodef-page-form .qodef-page-form-section > .qodef-field-desc h4 {
+	margin-bottom: 0;
+	color: #34383c;
+}
+.qodef-page-info div.qodef-page-form .qodef-page-form-section > .qodef-field-desc p {
+	font-style: italic;
+	color: #a2a9af;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.qodef-page-info div.qodef-page-form .qodef-page-form-section .qodef-section-content {
+	padding: 20px 0;
+	display: table-cell;
+	width: 80%;
+	height: 100%;
+	vertical-align: middle;
+}
+.qodef-page-info .qodef-field-description {
+	margin-bottom: 10px;
+	display: block;
+}
+.qodef-page-info .form-button-section {
+	padding: 20px 0;
+}
+.qodef-page-info .alert {
+	display:inline-block
+}
+.qodef-page-info .alert ul {
+	/*display: inline-block;*/
+	list-style: disc;
+	margin-left:40px;
+}
+.qodef-page-info .progress-bar-wrapper {
+	margin: 30px 20px 30px 0;
+	display: inline-block;
+}
+.qodef-page-info .qode-progress-bar-wrapper  {
+	margin: auto 0;
+	width: auto;
+}
+progress[value] {
+	/* Reset the default appearance */
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+
+	/* Get rid of default border in Firefox. */
+	border: none;
+
+	/* Dimensions */
+	width: 250px;
+	height: 10px;
+}
+progress[value]::-webkit-progress-bar {
+	background-color: #eee;
+	border-radius: 2px;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+/* IE10 */
+progress {
+	color: #78cd51;
+}
+
+/* Firefox */
+progress::-moz-progress-bar {
+	background: #7fb76c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7fb76c 0%, #3c763d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7fb76c), color-stop(100%,#3c763d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #7fb76c 0%,#3c763d 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fb76c', endColorstr='#3c763d',GradientType=0 ); /* IE6-9 */
+}
+
+/* Chrome */
+progress::-webkit-progress-value {
+	background: #7fb76c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7fb76c 0%, #3c763d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7fb76c), color-stop(100%,#3c763d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #7fb76c 0%,#3c763d 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fb76c', endColorstr='#3c763d',GradientType=0 ); /* IE6-9 */
+}
+
+/* Polyfill */
+progress[aria-valuenow]:before  {
+	background: #7fb76c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7fb76c 0%, #3c763d 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7fb76c), color-stop(100%,#3c763d)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7fb76c 0%,#3c763d 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #7fb76c 0%,#3c763d 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7fb76c', endColorstr='#3c763d',GradientType=0 ); /* IE6-9 */
+
+}
+.qodef-page-info div.progress-value {
+	display: inline-block;
+	margin: 30px 0;
+}
+@media screen and (max-width: 782px) {
+	#wpbody select {
+		height: auto !important;
+		font-size: 13px;
+	}
+}

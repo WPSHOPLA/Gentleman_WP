@@ -1,0 +1,137 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">qode_carousel-image</custom-field>
+        <custom-field action="copy">qode_carousel-item-link</custom-field>
+        <custom-field action="copy">qode_carousel-hover-image</custom-field>
+        <custom-field action="copy">qode_show-sidebar</custom-field>
+        <custom-field action="copy">qode_header_border_transparency_per_page</custom-field>
+        <custom-field action="copy">qode_show-posts-per-page</custom-field>
+        <custom-field action="copy">qode_responsive-title-image</custom-field>
+        <custom-field action="translate">qode_page_subtitle</custom-field>
+        <custom-field action="copy">qode_show-page-title</custom-field>
+        <custom-field action="copy">qode_page_title_style</custom-field>
+        <custom-field action="copy">qode_enable_content_bottom_area</custom-field>
+        <custom-field action="ignore">qode_choose_content_bottom_sidebar</custom-field>
+        <custom-field action="copy">qode_page_title_position</custom-field>
+        <custom-field action="copy">qode_title-image</custom-field>
+        <custom-field action="copy">qode_title-height</custom-field>
+        <custom-field action="copy">qode_title_text_shadow</custom-field>
+        <custom-field action="copy">qode_enable_breadcrumbs</custom-field>
+        <custom-field action="copy">qode_page_title_font_size</custom-field>
+        <custom-field action="copy">qode_fixed-title-image</custom-field>
+        <custom-field action="copy">qode_animate-page-title</custom-field>
+        <custom-field action="copy">_post_restored_from</custom-field>
+        <custom-field action="translate">qode_revolution-slider</custom-field>
+        <custom-field action="copy">qode_page_subtitle_color</custom-field>
+        <custom-field action="copy">qode_separator_bellow_title</custom-field>
+        <custom-field action="copy">qode_choose-sidebar</custom-field>
+        <custom-field action="copy">qode_header-style</custom-field>
+        <custom-field action="copy">qode_header_color_transparency_per_page</custom-field>
+        <custom-field action="copy">qode_page_scroll_amount_for_sticky</custom-field>
+        <custom-field action="copy">qode_page-title-color</custom-field>
+        <custom-field action="copy">qode_title_separator_color</custom-field>
+        <custom-field action="copy">qode_header_color_per_page</custom-field>
+        <custom-field action="copy">qode_page_background_color</custom-field>
+        <custom-field action="copy">qode_page-title-background-color</custom-field>
+        <custom-field action="translate">qode_portfolios</custom-field>
+        <custom-field action="copy">qode_portfolio_date</custom-field>
+        <custom-field action="copy">qode_portfolio_images</custom-field>
+        <custom-field action="copy">qode_choose-portfolio-single-view</custom-field>
+        <custom-field action="copy">qode_choose-portfolio-list-page</custom-field>
+        <custom-field action="copy">qode_portfolio_type_masonry_style</custom-field>
+        <custom-field action="copy">qode_choose-number-of-portfolio-columns</custom-field>
+        <custom-field action="copy">qode_hide-featured-image</custom-field>
+        <custom-field action="copy">qode_slide-video-webm</custom-field>
+        <custom-field action="copy">qode_slide-video-image</custom-field>
+        <custom-field action="copy">qode_slide-background-type</custom-field>
+        <custom-field action="translate">qode_slide-text</custom-field>
+        <custom-field action="copy">qode_slide-content-alignment</custom-field>
+        <custom-field action="copy">qode_slide-content-top</custom-field>
+        <custom-field action="copy">qode_slide-content-width</custom-field>
+        <custom-field action="translate">qode_slide-button-label</custom-field>
+        <custom-field action="translate">qode_slide-button-link</custom-field>
+        <custom-field action="translate">qode_slide-button-label2</custom-field>
+        <custom-field action="translate">qode_slide-button-link2</custom-field>
+        <custom-field action="copy">qode_slide-content-left</custom-field>
+        <custom-field action="copy">qode_slide-video-mp4</custom-field>
+        <custom-field action="copy">qode_slide-video-ogv</custom-field>
+        <custom-field action="copy">qode_slide-video-overlay</custom-field>
+        <custom-field action="copy">qode_slide-video-overlay-image</custom-field>
+        <custom-field action="copy">qode_slide-image</custom-field>
+        <custom-field action="copy">qode_slide-thumbnail</custom-field>
+        <custom-field action="copy">qode_slide-title-color</custom-field>
+        <custom-field action="copy">qode_slide-text-color</custom-field>
+        <custom-field action="copy">qode_slide-separate-text-graphic</custom-field>
+        <custom-field action="copy">qode_slide-graphic-alignment</custom-field>
+        <custom-field action="copy">qode_slide-graphic-width</custom-field>
+        <custom-field action="copy">qode_slide-graphic-top</custom-field>
+        <custom-field action="copy">qode_slide-graphic-right</custom-field>
+        <custom-field action="copy">qode_slide-thumbnail-animation</custom-field>
+        <custom-field action="copy">qode_slide-graphic-left</custom-field>
+        <custom-field action="copy">qode_slide-hide-title-shadow</custom-field>
+        <custom-field action="copy">qode_slide-hide-shadow</custom-field>
+        <custom-field action="copy">qode_slide-header-style</custom-field>
+        <custom-field action="copy">qode_slide-title-font-size</custom-field>
+        <custom-field action="copy">qode_slide-title-line-height</custom-field>
+        <custom-field action="copy">qode_testimonial-author</custom-field>
+        <custom-field action="translate">qode_testimonial-text</custom-field>
+        <custom-field action="translate">qode_testimonial-company_position</custom-field>
+        <custom-field action="translate">qode_testimonial_website</custom-field>
+        <custom-field action="copy">qode_slide-text-field-type</custom-field>
+        <custom-field action="translate">qode_seo_title</custom-field>
+        <custom-field action="translate">qode_seo_description</custom-field>
+        <custom-field action="copy">qode_post_style_masonry_date_image</custom-field>
+        <custom-field action="copy">qode_enable_image_animation</custom-field>
+        <custom-field action="copy">qode_enable_image_animation_type</custom-field>
+        <custom-field action="copy">qode_slide-content-animation</custom-field>
+        <custom-field action="copy">qode_slide-title-font-family</custom-field>
+        <custom-field action="copy">qode_slide-separator-after-title</custom-field>
+        <custom-field action="copy">qode_slide-border-around-title</custom-field>
+        <custom-field action="copy">qode_slide-subtitle-position</custom-field>
+        <custom-field action="copy">qode_slide-subtitle-font-family</custom-field>
+        <custom-field action="copy">qode_slide-text-font-family</custom-field>
+        <custom-field action="copy">qode_slide_svg_drawing</custom-field>
+        <custom-field action="copy">qode_slide_general_animation</custom-field>
+        <custom-field action="copy">qode_slide_title_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_subtitle_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_graphic_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_text_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_button1_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_button2_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_separator_bottom_animation_scroll</custom-field>
+        <custom-field action="copy">qode_slide_svg_animation_scroll</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">portfolio_page</custom-type>
+        <custom-type translate="1">testimonials</custom-type>
+        <custom-type translate="1">slides</custom-type>
+        <custom-type translate="1">carousels</custom-type>
+	    <custom-type translate="1">masonry_gallery</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_category</taxonomy>
+        <taxonomy translate="1">portfolio_tag</taxonomy>
+        <taxonomy translate="1">testimonials_category</taxonomy>
+        <taxonomy translate="1">slides_category</taxonomy>
+        <taxonomy translate="1">carousels_category</taxonomy>
+	    <taxonomy translate="1">masonry_gallery_category</taxonomy>
+        <taxonomy translate="0">publisher</taxonomy>
+    </taxonomies>
+    <admin-texts>
+        <key name="qode_options_proya">
+            <key name="meta_keywords" />
+            <key name="meta_description" />
+            <key name="side_area_title" />
+            <key name="email_subject" />
+            <key name="contact_heading_above" />
+            <key name="contact_section_above_form_title" />
+            <key name="contact_section_above_form_subtitle" />
+            <key name="404_title" />
+            <key name="404_subtitle" />
+            <key name="404_text" />
+            <key name="404_backlabel" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+

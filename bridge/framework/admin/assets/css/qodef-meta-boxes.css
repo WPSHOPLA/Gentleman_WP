@@ -1,0 +1,184 @@
+/* line 2, scss/qodef-meta-boxes.scss */
+.qodef-meta-box .qodef-meta-box-holder {
+    width: 100%;
+}
+/* line 6, scss/qodef-meta-boxes.scss */
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section th {
+    width: 250px;
+}
+/* line 9, scss/qodef-meta-boxes.scss */
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section th p {
+    font-weight: 400;
+    color: #9e9e9e;
+}
+/* line 16, scss/qodef-meta-boxes.scss */
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section .qodef-field-desc h4 {
+    margin-bottom: 0;
+    line-height: 1.5em;
+    margin-top: 0;
+    padding: 0;
+}
+.qodef-meta-box .qodef-portfolio-media, .qodef-meta-box .qodef-portfolio-additional-item {
+    background:#fff;
+	margin-bottom: 5px;
+}
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section {
+	border-bottom: 1px solid #ececec;
+	display: table;
+	width: 100%;
+}
+.qodef-meta-box .qodef-meta-box-holder .qodef-portfolio-media .qodef-page-form-section, .qodef-meta-box .qodef-meta-box-holder .qodef-portfolio-additional-item .qodef-page-form-section {
+	border-bottom: none;
+	display: table;
+	width: 100%;
+}
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section .qodef-field-desc{
+    width: 20%;
+    padding: 15px 20px 15px 0;
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    color: #34383c
+}
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section .qodef-field-desc p {
+    color:#a2a9af;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.qodef-meta-box .qodef-meta-box-holder .qodef-page-form-section .qodef-section-content{
+    padding: 20px 0;
+    display: table-cell;
+    width: 80%;
+    height: 100%;
+    vertical-align: middle;
+}
+.qodef-meta-box .qodef-portfolio-toggle-holder {
+    display: table;
+    width: 100%;
+	border:1px solid #dbdee0;
+	position: relative;
+	cursor:pointer;
+}
+.qodef-meta-box .qodef-portfolio-toggle {
+    display: table-cell;
+    vertical-align: middle;
+    background: #f7f7f8;
+    color: #34383c;
+    height: 40px;
+    padding: 0 10px;
+}
+.qodef-portfolio-media .qodef-portfolio-toggle-content, .qodef-portfolio-additional-item .qodef-portfolio-toggle-content {
+	border: 1px solid #dbdee0;
+	border-top: none;
+}
+.qodef-meta-box .qodef-portfolio-toggle .number {
+    display: inline-block;
+    background-color:#7c848d;
+    color:#fff;
+    width: 30px;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+.qodef-meta-box .qodef-portfolio-toggle.qodef-portfolio-control {
+    text-align: right;
+	padding-right: 40px;
+	color:#aaa;
+	font-size:14px
+}
+.qodef-meta-box .qodef-portfolio-toggle.qodef-portfolio-control a {
+    color:#aaa;
+}
+.qodef-meta-box .qodef-portfolio-toggle.qodef-portfolio-control a.remove-portfolio-media, .qodef-meta-box .qodef-portfolio-toggle.qodef-portfolio-control a.remove-portfolio-item {
+position: absolute;
+	right: 0;
+	top: 0;
+	padding:13px 11px 14px 5px;
+	line-height:0;
+}
+.qodef-portfolio-add {
+    padding-top: 10px;
+}
+.qodef-portfolio-add a:first-child {
+    margin-right: 10px;
+}
+.qodef-portfolio-add a:last-child {
+    margin-right: 10px;
+}
+.qodef-portfolio-add i {
+    margin-right:5px;
+}
+ .btn.btn-primary {
+  border-radius:5px;
+  -webkit-border-radius:5px;
+  -moz-border-radius:5px;
+  border:1px solid #25729a;
+  background-color: #3093c7; 
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#3093c7), to(#236694));
+  background-image: -webkit-linear-gradient(top, #3093c7, #236694);
+  background-image: -moz-linear-gradient(top, #3093c7, #236694);
+  background-image: -ms-linear-gradient(top, #3093c7, #236694);
+  background-image: -o-linear-gradient(top, #3093c7, #236694);
+  background-image: linear-gradient(to bottom, #3093c7, #236694);
+  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#3093c7, endColorstr=#236694);
+}
+.btn.btn-primary:hover {
+  border:1px solid #1c5675;
+  background-color: #26759e; background-image: -webkit-gradient(linear, left top, left bottom, from(#26759e), to(#133d5b));
+  background-image: -webkit-linear-gradient(top, #26759e, #133d5b);
+  background-image: -moz-linear-gradient(top, #26759e, #133d5b);
+  background-image: -ms-linear-gradient(top, #26759e, #133d5b);
+  background-image: -o-linear-gradient(top, #26759e, #133d5b);
+  background-image: linear-gradient(to bottom, #26759e, #133d5b);
+  filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#26759e, endColorstr=#133d5b);
+}
+.qodef-meta-box-hidden {
+	display: none;
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder {
+	border-bottom: 1px solid #ececec;
+	border-left: 3px solid #b2b8bd;
+/*	margin-left: 10px;*/
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder .qodef-page-form-container-holder {
+	border-left: none;
+	margin-left: 0;
+/*	padding-left:30px;*/
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-section{ 
+	padding-left:40px;
+	background:#edf0f1
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-section{
+	background:#e8eced
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-container-holder .qodef-page-form-section:last-child {
+	border-bottom: none;
+}
+.qodef-meta-box-holder .qodef-page-form-container-holder .qodef-page-form-section {
+	padding-left: 20px;
+	background: #F2F4F5;
+}
+
+.qodef-page .qodef-page-section-subtitle {
+    color:#a2a9af;
+    margin: 30px 0 15px;
+    font-size: 14px;
+    position: relative;
+    text-transform: uppercase;
+    padding-left: 12px;
+}
+
+.qodef-page .qodef-page-section-subtitle:before {
+    content: '';
+    position: absolute;
+    left: -12px;
+    top: -10px;
+    width: 0;
+    height: 0;
+    border-top: 18px solid transparent;
+    border-bottom: 18px solid transparent;
+    border-left: 18px solid #dbdee0;
+}

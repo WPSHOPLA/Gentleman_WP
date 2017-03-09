@@ -1,0 +1,4 @@
+/* line 4, scss/qodef-page.scss */
+.qodef-page a:focus, .qodef-page a:hover {
+  text-decoration: none;
+}

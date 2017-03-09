@@ -1,0 +1,1 @@
+<?php echo qode_execute_shortcode('icons', $icon_parameters);

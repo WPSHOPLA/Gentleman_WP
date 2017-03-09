@@ -1,0 +1,3155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bridge v8.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-25 09:59:34+0000\n"
+"Last-Translator: admin <support@qodeinteractive.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:17
+#@ qode
+msgid "Back to homepage"
+msgstr ""
+
+#: blog-vertical-loop.php:58
+#: search.php:48
+#: search.php:69
+#: search.php:97
+#: templates/blog-structure.php:128
+#@ qode
+msgid "No posts were found."
+msgstr ""
+
+#: templates/blog_large_image-loop.php:55
+#: templates/blog_large_image-loop.php:98
+#: templates/blog_large_image-loop.php:152
+#: templates/blog_large_image-loop.php:189
+#: templates/blog_large_image-loop.php:226
+#: templates/blog_large_image-loop.php:272
+#: templates/blog_large_image_whole_post-loop.php:55
+#: templates/blog_large_image_whole_post-loop.php:98
+#: templates/blog_large_image_whole_post-loop.php:135
+#: templates/blog_large_image_whole_post-loop.php:191
+#: templates/blog_large_image_whole_post-loop.php:228
+#: templates/blog_large_image_whole_post-loop.php:274
+#: templates/blog_search-loop.php:35
+#: templates/blog_single-loop.php:53
+#: templates/blog_single-loop.php:90
+#: templates/blog_single-loop.php:122
+#: templates/blog_single-loop.php:176
+#: templates/blog_single-loop.php:209
+#: templates/blog_single-loop.php:252
+#: templates/blog_small_image-loop.php:55
+#: templates/blog_small_image-loop.php:99
+#: templates/blog_small_image-loop.php:143
+#: templates/blog_small_image-loop.php:196
+#: templates/blog_small_image-loop.php:240
+#: templates/blog_small_image-loop.php:286
+#@ qode
+msgid "in"
+msgstr ""
+
+#: templates/blog_large_image-loop.php:58
+#: templates/blog_large_image-loop.php:101
+#: templates/blog_large_image-loop.php:155
+#: templates/blog_large_image-loop.php:192
+#: templates/blog_large_image-loop.php:229
+#: templates/blog_large_image-loop.php:275
+#: templates/blog_large_image_whole_post-loop.php:58
+#: templates/blog_large_image_whole_post-loop.php:101
+#: templates/blog_large_image_whole_post-loop.php:138
+#: templates/blog_large_image_whole_post-loop.php:194
+#: templates/blog_large_image_whole_post-loop.php:231
+#: templates/blog_large_image_whole_post-loop.php:277
+#: templates/blog_search-loop.php:41
+#: templates/blog_single-loop.php:55
+#: templates/blog_single-loop.php:92
+#: templates/blog_single-loop.php:124
+#: templates/blog_single-loop.php:178
+#: templates/blog_single-loop.php:211
+#: templates/blog_single-loop.php:254
+#: templates/blog_small_image-loop.php:58
+#: templates/blog_small_image-loop.php:102
+#: templates/blog_small_image-loop.php:146
+#: templates/blog_small_image-loop.php:199
+#: templates/blog_small_image-loop.php:243
+#: templates/blog_small_image-loop.php:289
+#@ qode
+msgid "by"
+msgstr ""
+
+#: comments.php:2
+#: includes/shortcodes/shortcodes.php:1777
+#: includes/shortcodes/shortcodes.php:1949
+#: includes/shortcodes/shortcodes.php:1975
+#: includes/shortcodes/shortcodes.php:7163
+#: templates/blog_large_image-loop.php:63
+#: templates/blog_large_image-loop.php:106
+#: templates/blog_large_image-loop.php:160
+#: templates/blog_large_image-loop.php:197
+#: templates/blog_large_image-loop.php:234
+#: templates/blog_large_image-loop.php:280
+#: templates/blog_large_image_whole_post-loop.php:63
+#: templates/blog_large_image_whole_post-loop.php:106
+#: templates/blog_large_image_whole_post-loop.php:143
+#: templates/blog_large_image_whole_post-loop.php:199
+#: templates/blog_large_image_whole_post-loop.php:236
+#: templates/blog_large_image_whole_post-loop.php:282
+#: templates/blog_large_image_with_dividers-loop.php:83
+#: templates/blog_large_image_with_dividers-loop.php:138
+#: templates/blog_large_image_with_dividers-loop.php:204
+#: templates/blog_large_image_with_dividers-loop.php:252
+#: templates/blog_large_image_with_dividers-loop.php:301
+#: templates/blog_large_image_with_dividers-loop.php:358
+#: templates/blog_masonry-loop.php:50
+#: templates/blog_masonry-loop.php:74
+#: templates/blog_masonry-loop.php:91
+#: templates/blog_masonry-loop.php:128
+#: templates/blog_masonry-loop.php:145
+#: templates/blog_masonry-loop.php:176
+#: templates/blog_search-loop.php:46
+#: templates/blog_single-loop.php:59
+#: templates/blog_single-loop.php:96
+#: templates/blog_single-loop.php:128
+#: templates/blog_single-loop.php:182
+#: templates/blog_single-loop.php:215
+#: templates/blog_single-loop.php:258
+#: templates/blog_small_image-loop.php:63
+#: templates/blog_small_image-loop.php:107
+#: templates/blog_small_image-loop.php:151
+#: templates/blog_small_image-loop.php:204
+#: templates/blog_small_image-loop.php:248
+#: templates/blog_small_image-loop.php:294
+#: templates/blog_vertical-loop.php:83
+#: templates/blog_vertical-loop.php:153
+#: templates/blog_vertical-loop.php:224
+#: templates/blog_vertical-loop.php:296
+#: templates/blog_vertical-loop.php:369
+#: templates/blog_vertical-loop.php:442
+#@ qode
+msgid "Comments"
+msgstr ""
+
+#: comments.php:2
+#: includes/shortcodes/shortcodes.php:1774
+#: includes/shortcodes/shortcodes.php:1946
+#: includes/shortcodes/shortcodes.php:1972
+#: includes/shortcodes/shortcodes.php:7160
+#: templates/blog_large_image-loop.php:63
+#: templates/blog_large_image-loop.php:106
+#: templates/blog_large_image-loop.php:160
+#: templates/blog_large_image-loop.php:197
+#: templates/blog_large_image-loop.php:234
+#: templates/blog_large_image-loop.php:280
+#: templates/blog_large_image_whole_post-loop.php:63
+#: templates/blog_large_image_whole_post-loop.php:106
+#: templates/blog_large_image_whole_post-loop.php:143
+#: templates/blog_large_image_whole_post-loop.php:199
+#: templates/blog_large_image_whole_post-loop.php:236
+#: templates/blog_large_image_whole_post-loop.php:282
+#: templates/blog_large_image_with_dividers-loop.php:83
+#: templates/blog_large_image_with_dividers-loop.php:138
+#: templates/blog_large_image_with_dividers-loop.php:204
+#: templates/blog_large_image_with_dividers-loop.php:252
+#: templates/blog_large_image_with_dividers-loop.php:301
+#: templates/blog_large_image_with_dividers-loop.php:358
+#: templates/blog_masonry-loop.php:50
+#: templates/blog_masonry-loop.php:74
+#: templates/blog_masonry-loop.php:91
+#: templates/blog_masonry-loop.php:128
+#: templates/blog_masonry-loop.php:145
+#: templates/blog_masonry-loop.php:176
+#: templates/blog_search-loop.php:46
+#: templates/blog_single-loop.php:59
+#: templates/blog_single-loop.php:96
+#: templates/blog_single-loop.php:128
+#: templates/blog_single-loop.php:182
+#: templates/blog_single-loop.php:215
+#: templates/blog_single-loop.php:258
+#: templates/blog_small_image-loop.php:63
+#: templates/blog_small_image-loop.php:107
+#: templates/blog_small_image-loop.php:151
+#: templates/blog_small_image-loop.php:204
+#: templates/blog_small_image-loop.php:248
+#: templates/blog_small_image-loop.php:294
+#: templates/blog_vertical-loop.php:83
+#: templates/blog_vertical-loop.php:153
+#: templates/blog_vertical-loop.php:224
+#: templates/blog_vertical-loop.php:296
+#: templates/blog_vertical-loop.php:369
+#: templates/blog_vertical-loop.php:442
+#@ qode
+msgid "Comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:7285
+#: templates/blog_large_image-loop.php:76
+#: templates/blog_large_image-loop.php:119
+#: templates/blog_large_image-loop.php:173
+#: templates/blog_large_image-loop.php:293
+#: templates/blog_large_image_whole_post-loop.php:76
+#: templates/blog_large_image_whole_post-loop.php:119
+#: templates/blog_large_image_whole_post-loop.php:212
+#: templates/blog_large_image_whole_post-loop.php:295
+#: templates/blog_search-loop.php:64
+#: templates/blog_small_image-loop.php:76
+#: templates/blog_small_image-loop.php:120
+#: templates/blog_small_image-loop.php:217
+#: templates/blog_small_image-loop.php:307
+#@ qode
+msgid "Read More"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1905
+#: templates/blog_large_image-loop.php:90
+#: templates/blog_large_image_simple-loop.php:68
+#: templates/blog_large_image_whole_post-loop.php:90
+#: templates/blog_large_image_with_dividers-loop.php:102
+#: templates/blog_masonry-loop.php:64
+#: templates/blog_masonry_date_in_image-loop.php:86
+#: templates/blog_single-loop.php:82
+#@ qode
+msgid "Your browser don't support audio player"
+msgstr ""
+
+#: comments.php:2
+#@ qode
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:5
+#@ qode
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:29
+#@ qode
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments.php:42
+#@ qode
+msgid "Post A Comment"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+#@ qode
+msgid "Post A Reply to %s"
+msgstr ""
+
+#: comments.php:44
+#@ qode
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:45
+#: includes/import/class.wordpress-importer.php:286
+#@ qode
+#@ wordpress-importer
+msgid "Submit"
+msgstr ""
+
+#: contact-page.php:97
+#: contact-page.php:160
+#@ qode
+msgid "Contact Us"
+msgstr ""
+
+#: contact-page.php:187
+#@ qode
+msgid "This is a required field"
+msgstr ""
+
+#: contact-page.php:195
+#@ qode
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: contact-page.php:225
+#@ qode
+msgid "THANK YOU!"
+msgstr ""
+
+#: contact-page.php:225
+#@ qode
+msgid "Your email was successfully sent. We will contact you as soon as possible."
+msgstr ""
+
+#: contact-page.php:234
+#@ qode
+msgid "Invalid Captcha"
+msgstr ""
+
+#: contact-page.php:239
+#@ qode
+msgid "Email server problem"
+msgstr ""
+
+#: export/qode-export.php:299
+#@ qode
+msgid "Qode Export"
+msgstr ""
+
+#: extendvc/extend-vc.php:1963
+#@ qode
+msgid "Please insert margin in format: 0px 0px 1px 0px"
+msgstr ""
+
+#: extendvc/extend-vc.php:4268
+#: includes/nav_menu/edit_custom_walker.php:207
+#: includes/plugins/class-tgm-plugin-activation.php:1390
+#@ qode
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: functions.php:455
+#@ qode
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:1569
+#: header.php:451
+#: header.php:474
+#: header.php:497
+#: header.php:921
+#: header.php:943
+#: header.php:966
+#: header.php:1112
+#@ qode
+msgid "Search"
+msgstr ""
+
+#: includes/comment/comment.php:21
+#@ qode
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:143
+#: includes/import/class.wordpress-importer.php:194
+#: includes/import/class.wordpress-importer.php:198
+#: includes/import/class.wordpress-importer.php:207
+#@ wordpress-importer
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:178
+#@ wordpress-importer
+msgid "All done."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:178
+#@ wordpress-importer
+msgid "Have fun!"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:179
+#@ wordpress-importer
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:199
+#, php-format
+#@ wordpress-importer
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:215
+#, php-format
+#@ wordpress-importer
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:240
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:266
+#@ wordpress-importer
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:267
+#@ wordpress-importer
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:269
+#, php-format
+#@ wordpress-importer
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:279
+#@ wordpress-importer
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:282
+#@ wordpress-importer
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:299
+#@ wordpress-importer
+msgid "Import author:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:310
+#@ wordpress-importer
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:313
+#@ wordpress-importer
+msgid "as a new user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:321
+#@ wordpress-importer
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:323
+#@ wordpress-importer
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:324
+#@ wordpress-importer
+msgid "- Select -"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:374
+#, php-format
+#@ wordpress-importer
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:425
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:465
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:511
+#: includes/import/class.wordpress-importer.php:652
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:537
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:559
+#, php-format
+#@ wordpress-importer
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:618
+#, php-format
+#@ wordpress-importer
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:783
+#@ wordpress-importer
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:790
+#, php-format
+#@ wordpress-importer
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:856
+#@ wordpress-importer
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:869
+#@ wordpress-importer
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:913
+#@ wordpress-importer
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:919
+#, php-format
+#@ wordpress-importer
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:926
+#@ wordpress-importer
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:931
+#@ wordpress-importer
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:937
+#, php-format
+#@ wordpress-importer
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1038
+#@ wordpress-importer
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1045
+#, php-format
+#@ wordpress-importer
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1060
+#@ wordpress-importer
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/import/class.wordpress-importer.php:1061
+#@ wordpress-importer
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/import/parsers.php:42
+#: includes/import/parsers.php:77
+#: includes/import/parsers.php:85
+#@ wordpress-importer
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/import/parsers.php:43
+#@ wordpress-importer
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/import/parsers.php:89
+#: includes/import/parsers.php:94
+#: includes/import/parsers.php:284
+#: includes/import/parsers.php:473
+#@ wordpress-importer
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: framework/_qode-import.php:41
+#: framework/_qode-import.php:62
+#: includes/import/qode-import.php:41
+#: includes/import/qode-import.php:62
+#@ qode
+msgid "Content imported successfully"
+msgstr ""
+
+#: framework/_qode-import.php:59
+#: includes/import/qode-import.php:59
+#@ qode
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: framework/_qode-import.php:66
+#: includes/import/qode-import.php:66
+#@ qode
+msgid "Error loading files"
+msgstr ""
+
+#: framework/_qode-import.php:77
+#: includes/import/qode-import.php:77
+#@ qode
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: framework/_qode-import.php:96
+#: includes/import/qode-import.php:96
+#@ qode
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: framework/_qode-import.php:102
+#: includes/import/qode-import.php:102
+#@ qode
+msgid "Options imported successfully"
+msgstr ""
+
+#: framework/_qode-import.php:135
+#@ qode
+msgid "File doesn't exist"
+msgstr ""
+
+#: framework/_qode-import.php:179
+#: includes/import/qode-import.php:160
+#@ qode
+msgid "Qode Import"
+msgstr ""
+
+#: framework/_qode-import.php:199
+#@ qode
+msgid "Import"
+msgstr ""
+
+#: framework/_qode-import.php:255
+#: includes/import/qode-import.php:347
+#@ qode
+msgid "Import attachments"
+msgstr ""
+
+#: framework/_qode-import.php:282
+#: includes/import/qode-import.php:374
+#@ qode
+msgid "The import process may take some time. Please be patient."
+msgstr ""
+
+#: framework/_qode-import.php:293
+#: includes/import/qode-import.php:385
+#@ qode
+msgid "Important notes:"
+msgstr ""
+
+#: framework/_qode-import.php:295
+#: includes/import/qode-import.php:389
+#@ qode
+msgid "Please note that import process will take time needed to download all attachments from demo web site."
+msgstr ""
+
+#: framework/_qode-import.php:296
+#: includes/import/qode-import.php:390
+#@ qode
+msgid "If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: includes/nav_menu/edit_custom_walker.php:78
+#, php-format
+#@ qode
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: includes/nav_menu/edit_custom_walker.php:82
+#, php-format
+#@ qode
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:107
+#@ qode
+msgid "Move up"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:120
+#@ qode
+msgid "Move down"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:122
+#: includes/nav_menu/edit_custom_walker.php:124
+#@ qode
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:133
+#@ qode
+msgid "URL"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:140
+#@ qode
+msgid "Navigation Label"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:146
+#@ qode
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:153
+#@ qode
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:158
+#@ qode
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:164
+#@ qode
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:170
+#@ qode
+msgid "Description"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:172
+#@ qode
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:181
+#@ qode
+msgid "Anchor"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:192
+#@ qode
+msgid "Don't link"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:202
+#@ qode
+msgid "Don't show"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:217
+#@ qode
+msgid "Wide menu position"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:259
+#@ qode
+msgid "Icon"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:248
+#@ qode
+msgid "Only with \"wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:280
+#@ qode
+msgid "Custom widget area"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:291
+#@ qode
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:300
+#, php-format
+#@ qode
+msgid "Original: %s"
+msgstr ""
+
+#: framework/lib/qode.layout.php:692
+#: framework/lib/qode.layout.php:2085
+#: framework/lib/qode.layout.php:2136
+#: framework/lib/qode.layout.php:2246
+#: framework/lib/qode.layout.php:2298
+#: framework/lib/qode.layout.php:2572
+#: framework/lib/qode.layout.php:2642
+#: includes/nav_menu/edit_custom_walker.php:313
+#@ qode
+msgid "Remove"
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:314
+#: woocommerce/myaccount/my-orders.php:92
+#@ qode
+#@ woocommerce
+msgid "Cancel"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:161
+#: includes/plugins/envato-wordpress-toolkit.php:55
+#: includes/plugins/instagram-widget.php:58
+#: includes/plugins/layer-slider.php:65
+#: includes/plugins/visual-composer.php:55
+#@ tgmpa
+#@ qode
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:162
+#: includes/plugins/envato-wordpress-toolkit.php:56
+#: includes/plugins/instagram-widget.php:59
+#: includes/plugins/layer-slider.php:66
+#: includes/plugins/visual-composer.php:56
+#@ tgmpa
+#@ qode
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:163
+#: includes/plugins/envato-wordpress-toolkit.php:57
+#: includes/plugins/instagram-widget.php:60
+#: includes/plugins/layer-slider.php:67
+#: includes/plugins/visual-composer.php:57
+#, php-format
+#@ tgmpa
+#@ qode
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:164
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:165
+#: includes/plugins/envato-wordpress-toolkit.php:59
+#: includes/plugins/instagram-widget.php:62
+#: includes/plugins/layer-slider.php:69
+#: includes/plugins/visual-composer.php:59
+#, php-format
+#@ qode
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:166
+#: includes/plugins/envato-wordpress-toolkit.php:60
+#: includes/plugins/instagram-widget.php:63
+#: includes/plugins/layer-slider.php:70
+#: includes/plugins/visual-composer.php:60
+#, php-format
+#@ qode
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:167
+#: includes/plugins/envato-wordpress-toolkit.php:61
+#: includes/plugins/instagram-widget.php:64
+#: includes/plugins/layer-slider.php:71
+#: includes/plugins/visual-composer.php:61
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:168
+#: includes/plugins/envato-wordpress-toolkit.php:62
+#: includes/plugins/instagram-widget.php:65
+#: includes/plugins/layer-slider.php:72
+#: includes/plugins/visual-composer.php:62
+#, php-format
+#@ qode
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:169
+#: includes/plugins/envato-wordpress-toolkit.php:63
+#: includes/plugins/instagram-widget.php:66
+#: includes/plugins/layer-slider.php:73
+#: includes/plugins/visual-composer.php:63
+#, php-format
+#@ qode
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:170
+#: includes/plugins/envato-wordpress-toolkit.php:64
+#: includes/plugins/instagram-widget.php:67
+#: includes/plugins/layer-slider.php:74
+#: includes/plugins/visual-composer.php:64
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:171
+#: includes/plugins/envato-wordpress-toolkit.php:65
+#: includes/plugins/instagram-widget.php:68
+#: includes/plugins/layer-slider.php:75
+#: includes/plugins/visual-composer.php:65
+#, php-format
+#@ qode
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:172
+#: includes/plugins/envato-wordpress-toolkit.php:66
+#: includes/plugins/instagram-widget.php:69
+#: includes/plugins/layer-slider.php:76
+#: includes/plugins/visual-composer.php:66
+#, php-format
+#@ qode
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:173
+#: includes/plugins/envato-wordpress-toolkit.php:67
+#: includes/plugins/instagram-widget.php:70
+#: includes/plugins/layer-slider.php:77
+#: includes/plugins/visual-composer.php:67
+#@ qode
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/envato-wordpress-toolkit.php:68
+#: includes/plugins/instagram-widget.php:71
+#: includes/plugins/layer-slider.php:78
+#: includes/plugins/visual-composer.php:68
+#@ qode
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:175
+#: includes/plugins/envato-wordpress-toolkit.php:69
+#: includes/plugins/instagram-widget.php:72
+#: includes/plugins/layer-slider.php:79
+#: includes/plugins/visual-composer.php:69
+#@ tgmpa
+#@ qode
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:176
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:177
+#: includes/plugins/class-tgm-plugin-activation.php:1956
+#: includes/plugins/envato-wordpress-toolkit.php:70
+#: includes/plugins/instagram-widget.php:73
+#: includes/plugins/layer-slider.php:80
+#: includes/plugins/visual-composer.php:70
+#@ tgmpa
+#@ qode
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:179
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/qode-framework.php:415
+#: includes/plugins/class-tgm-plugin-activation.php:180
+#@ qode
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1167
+#: includes/plugins/class-tgm-plugin-activation.php:1348
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1170
+#: includes/plugins/class-tgm-plugin-activation.php:1351
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1175
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1178
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1178
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1181
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1183
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1372
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1388
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1389
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1391
+#: woocommerce/myaccount/my-orders.php:27
+#@ tgmpa
+#@ woocommerce
+msgid "Status"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1288
+#: includes/plugins/class-tgm-plugin-activation.php:1409
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1312
+#: includes/plugins/class-tgm-plugin-activation.php:1410
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/plugins/class-tgm-plugin-activation.php:1644
+#: includes/plugins/class-tgm-plugin-activation.php:178
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1940
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1941
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1942
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1943
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1944
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:1955
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2069
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2070
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2070
+#: includes/plugins/class-tgm-plugin-activation.php:2079
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2070
+#: includes/plugins/class-tgm-plugin-activation.php:2079
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2076
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2077
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2078
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2079
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2080
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:2081
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:532
+#: includes/plugins/class-tgm-plugin-activation.php:2173
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/plugins/envato-wordpress-toolkit.php:58
+#: includes/plugins/instagram-widget.php:61
+#: includes/plugins/layer-slider.php:68
+#: includes/plugins/visual-composer.php:58
+#@ qode
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/plugins/envato-wordpress-toolkit.php:71
+#: includes/plugins/instagram-widget.php:74
+#: includes/plugins/layer-slider.php:81
+#: includes/plugins/visual-composer.php:71
+#, php-format
+#@ qode
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:15
+#@ qode
+msgid "Home"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:122
+#@ qode
+msgid "Page"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:18
+#@ qode
+msgid "Portfolio"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:19
+#@ qode
+msgid "Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:20
+#@ qode
+msgid "New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:21
+#@ qode
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:22
+#@ qode
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:36
+#@ qode
+msgid "Testimonials"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:37
+#@ qode
+msgid "Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:38
+#@ qode
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:39
+#@ qode
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:40
+#@ qode
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:56
+#: includes/qode-custom-post-types.php:57
+#@ qode
+msgid "Qode Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:58
+#@ qode
+msgid "Slides"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:59
+#: includes/qode-custom-post-types.php:62
+#@ qode
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:60
+#@ qode
+msgid "Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:61
+#@ qode
+msgid "New Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:63
+#@ qode
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:80
+#: includes/qode-custom-post-types.php:81
+#@ qode
+msgid "Qode Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:82
+#@ qode
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:83
+#: includes/qode-custom-post-types.php:86
+#@ qode
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:84
+#@ qode
+msgid "Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:85
+#@ qode
+msgid "New Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:87
+#@ qode
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:125
+#: includes/qode-custom-post-types.php:135
+#@ qode
+msgid "Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:126
+#@ qode
+msgid "Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:127
+#@ qode
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:128
+#@ qode
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:129
+#@ qode
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:130
+#@ qode
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:131
+#@ qode
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:132
+#@ qode
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:133
+#@ qode
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:134
+#@ qode
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:173
+#: includes/qode-custom-post-types.php:183
+#@ qode
+msgid "Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:174
+#@ qode
+msgid "Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:175
+#@ qode
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:176
+#@ qode
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:177
+#@ qode
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:178
+#@ qode
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:179
+#@ qode
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:180
+#@ qode
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:181
+#@ qode
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:182
+#@ qode
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:200
+#: includes/qode-custom-post-types.php:210
+#@ qode
+msgid "Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:201
+#@ qode
+msgid "Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:202
+#@ qode
+msgid "Search Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:203
+#@ qode
+msgid "All Sliders"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:204
+#@ qode
+msgid "Parent Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:205
+#@ qode
+msgid "Parent Slider:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:206
+#@ qode
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:207
+#@ qode
+msgid "Update Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:208
+#@ qode
+msgid "Add New Slider"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:209
+#@ qode
+msgid "New Slider Name"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:225
+#: includes/qode-custom-post-types.php:235
+#@ qode
+msgid "Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:226
+#@ qode
+msgid "Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:227
+#@ qode
+msgid "Search Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:228
+#@ qode
+msgid "All Carousels"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:229
+#@ qode
+msgid "Parent Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:230
+#@ qode
+msgid "Parent Carousel:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:231
+#@ qode
+msgid "Edit Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:232
+#@ qode
+msgid "Update Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:233
+#@ qode
+msgid "Add New Carousel"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:234
+#@ qode
+msgid "New Carousel Name"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:10
+#@ qode
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:254
+#@ qode
+msgid "Slider shortcode"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:258
+#@ qode
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:288
+#@ qode
+msgid "Name"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:289
+#@ qode
+msgid "Shortcode"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:291
+#@ qode
+msgid "Slug"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:292
+#@ qode
+msgid "Posts"
+msgstr ""
+
+#: includes/qode-like.php:123
+#@ qode
+msgid "Like this"
+msgstr ""
+
+#: includes/qode-like.php:126
+#@ qode
+msgid "You already like this!"
+msgstr ""
+
+#: framework/qode-framework.php:189
+#: framework/qode-framework.php:250
+#@ qode
+msgid "Save Changes"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:52
+#: includes/qode-custom-taxonomy-field.php:82
+#: includes/qode-custom-taxonomy-field.php:112
+#: includes/qode-custom-taxonomy-field.php:142
+#: includes/qode-custom-taxonomy-field.php:172
+#: includes/qode-custom-taxonomy-field.php:202
+#: includes/qode-custom-taxonomy-field.php:232
+#: vc_templates/vc_text_separator.php:4
+#@ qode
+#@ js_composer
+msgid "Title"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:56
+#: includes/qode-custom-taxonomy-field.php:86
+#: includes/qode-custom-taxonomy-field.php:116
+#: includes/qode-custom-taxonomy-field.php:146
+#: includes/qode-custom-taxonomy-field.php:176
+#: includes/qode-custom-taxonomy-field.php:206
+#: includes/qode-custom-taxonomy-field.php:236
+#@ qode
+msgid "Subtitle"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:60
+#: includes/qode-custom-taxonomy-field.php:90
+#: includes/qode-custom-taxonomy-field.php:120
+#: includes/qode-custom-taxonomy-field.php:150
+#: includes/qode-custom-taxonomy-field.php:180
+#: includes/qode-custom-taxonomy-field.php:210
+#: includes/qode-custom-taxonomy-field.php:240
+#@ qode
+msgid "Text"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:1771
+#: includes/shortcodes/shortcodes.php:1943
+#: includes/shortcodes/shortcodes.php:1969
+#: includes/shortcodes/shortcodes.php:7157
+#@ qode
+msgid "No comment"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2619
+#: includes/shortcodes/shortcodes.php:2936
+#: includes/shortcodes/shortcodes.php:3285
+#: includes/shortcodes/shortcodes.php:3316
+#: templates/masonry-filter.php:28
+#@ qode
+msgid "All"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2924
+#: includes/shortcodes/shortcodes.php:3263
+#: includes/shortcodes/shortcodes.php:3730
+#: includes/shortcodes/shortcodes.php:3909
+#: includes/shortcodes/shortcodes.php:4991
+#: includes/shortcodes/shortcodes.php:6488
+#: includes/shortcodes/shortcodes.php:6634
+#: includes/shortcodes/shortcodes.php:7300
+#: includes/shortcodes/shortcodes.php:7529
+#@ qode
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3271
+#: includes/shortcodes/shortcodes.php:3738
+#: templates/blog-structure.php:136
+#: templates/blog-structure.php:141
+#@ qode
+msgid "Show more"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4373
+#@ qode
+msgid "Share"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:6469
+#@ qode
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:18
+#@ qode
+msgid "Custom Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:42
+#@ default
+msgid "Enter Name of the new Widget Area"
+msgstr ""
+
+#: includes/sidebar/qode-custom-sidebar.php:43
+#@ default
+msgid "Add Widget Area"
+msgstr ""
+
+#: js/default_dynamic.php:22
+#@ qode
+msgid "Comment has been sent!"
+msgstr ""
+
+#: searchform.php:3
+#@ qode
+msgid "Search Here"
+msgstr ""
+
+#: templates/portfolio-loop.php:231
+#: templates/portfolio-loop.php:409
+#: templates/portfolio-loop.php:589
+#: templates/portfolio-loop.php:808
+#: templates/portfolio-loop.php:1030
+#: templates/portfolio-loop.php:1216
+#: woocommerce/myaccount/my-orders.php:26
+#@ qode
+#@ woocommerce
+msgid "Date"
+msgstr ""
+
+#: templates/portfolio-loop.php:242
+#: templates/portfolio-loop.php:420
+#: templates/portfolio-loop.php:600
+#: templates/portfolio-loop.php:819
+#: templates/portfolio-loop.php:1041
+#: templates/portfolio-loop.php:1227
+#@ qode
+msgid "Category "
+msgstr ""
+
+#: templates/portfolio-loop.php:274
+#: templates/portfolio-loop.php:453
+#: templates/portfolio-loop.php:554
+#: templates/portfolio-loop.php:773
+#: templates/portfolio-loop.php:995
+#: templates/portfolio-loop.php:1181
+#@ qode
+msgid "About This Project"
+msgstr ""
+
+#: functions.php:1609
+#@ qode
+msgid "Archive"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:5
+#@ js_composer
+msgid "Section"
+msgstr ""
+
+#: vc_templates/vc_accordion_tab.php:45
+#: vc_templates/vc_tab.php:9
+#@ js_composer
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: vc_templates/vc_tabs.php:68
+#@ js_composer
+msgid "Previous slide"
+msgstr ""
+
+#: vc_templates/vc_tabs.php:68
+#@ js_composer
+msgid "Next slide"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:8
+#@ qode
+msgid "Call to Action Widget"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:97
+#@ qode
+msgid "Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:102
+#@ qode
+msgid "Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:107
+#@ qode
+msgid "Text Size:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:134
+#@ qode
+msgid "Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:154
+#@ qode
+msgid "Show Button:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:167
+#@ qode
+msgid "Button Text:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:202
+#@ qode
+msgid "Button Border Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:162
+#@ qode
+msgid "Button Link:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:172
+#@ qode
+msgid "Button Target:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:8
+#@ qode
+msgid "Menu Latest Posts"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:50
+#@ qode
+msgid "Posted in"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:51
+#@ qode
+msgid " by"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:83
+#: widgets/relate_posts_widget.php:75
+#@ qode
+msgid "Title:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:87
+#: widgets/relate_posts_widget.php:79
+#@ qode
+msgid "Number of posts:"
+msgstr ""
+
+#: widgets/latest_posts_menu.php:91
+#@ qode
+msgid "Category:"
+msgstr ""
+
+#: widgets/relate_posts_widget.php:8
+#@ qode
+msgid "Related Posts Widget"
+msgstr ""
+
+#: widgets/relate_posts_widget.php:15
+#@ qode
+msgid "Related Posts"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:8
+#@ qode
+msgid "Woocommerce Dropdown Cart"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:64
+#@ woocommerce
+msgid "No products in the cart."
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:74
+#@ woocommerce
+msgid "Cart"
+msgstr ""
+
+#: widgets/woocommerce-dropdown-cart.php:76
+#: woocommerce/cart/cart-totals.php:78
+#: woocommerce/cart/cart.php:30
+#: woocommerce/myaccount/my-orders.php:28
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:19
+#@ woocommerce
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:23
+#@ woocommerce
+msgid "Return To Shop"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:76
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+#@ woocommerce
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+#: woocommerce/checkout/form-coupon.php:26
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ woocommerce
+msgid "Have a coupon?"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:18
+#@ woocommerce
+msgid "Click here to enter your code"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:18
+#@ woocommerce
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+#@ woocommerce
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:24
+#@ woocommerce
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+#: woocommerce/myaccount/my-orders.php:84
+#@ woocommerce
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+#@ woocommerce
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+#: woocommerce/checkout/thankyou.php:70
+#@ woocommerce
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+#@ woocommerce
+msgid "Order:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+#@ woocommerce
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:48
+#@ woocommerce
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:53
+#@ woocommerce
+msgid "Payment method:"
+msgstr ""
+
+#: woocommerce/loop/add-to-cart.php:27
+#@ woocommerce
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:30
+#@ woocommerce
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:32
+#, php-format
+#@ woocommerce
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:34
+#, php-format
+#@ woocommerce
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "%1$d–%2$d of %3$d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:19
+#: woocommerce/single-product/sale-flash.php:19
+#@ woocommerce
+msgid "Sale"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:32
+#@ woocommerce
+msgid "New password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:35
+#: woocommerce/myaccount/form-lost-password.php:36
+#@ woocommerce
+msgid "Re-enter new password"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ woocommerce
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+#@ woocommerce
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+#@ woocommerce
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:28
+#: woocommerce/myaccount/form-login.php:45
+#@ woocommerce
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:28
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-lost-password.php:24
+#@ woocommerce
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:31
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:83
+#@ woocommerce
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:46
+#@ woocommerce
+msgid "Lost Password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:62
+#: woocommerce/myaccount/form-login.php:96
+#@ woocommerce
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+#@ woocommerce
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+#: woocommerce/woocommerce_configuration.php:77
+#@ woocommerce
+#@ qode
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:22
+#@ woocommerce
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+#@ woocommerce
+msgid "Enter a new password below."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:48
+#@ woocommerce
+msgid "Reset Password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+#@ woocommerce
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+#@ woocommerce
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+#@ woocommerce
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+#@ woocommerce
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+#@ woocommerce
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:42
+#@ woocommerce
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:25
+#@ woocommerce
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:77
+#, php-format
+#@ woocommerce
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:88
+#@ woocommerce
+msgid "View"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:16
+#@ woocommerce
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:16
+#@ woocommerce
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:225
+#@ woocommerce
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:226
+#@ woocommerce
+msgid "Search Products"
+msgstr ""
+
+#: 404.php:15
+#@ qode
+msgid "The page you are looking for does not exist. It may have been moved, or removed altogether. Perhaps you can return back to the site’s homepage and see if you can find what you are looking for."
+msgstr ""
+
+#: comments.php:46
+#@ qode
+msgid "Write your comment here..."
+msgstr ""
+
+#: comments.php:50
+#@ qode
+msgid "Your full name"
+msgstr ""
+
+#: comments.php:51
+#@ qode
+msgid "E-mail address"
+msgstr ""
+
+#: comments.php:52
+#: contact-page.php:128
+#@ qode
+msgid "Website"
+msgstr ""
+
+#: contact-page.php:79
+#@ qode
+msgid "Get in touch with us"
+msgstr ""
+
+#: contact-page.php:102
+#@ qode
+msgid "First Name *"
+msgstr ""
+
+#: contact-page.php:108
+#@ qode
+msgid "Last Name *"
+msgstr ""
+
+#: contact-page.php:114
+#: contact-page.php:122
+#@ qode
+msgid "Email *"
+msgstr ""
+
+#: contact-page.php:133
+#@ qode
+msgid "Message"
+msgstr ""
+
+#: extendvc/extend-vc.php:3744
+#@ default
+msgid "Select Yes if you want to use custom icon size and margin"
+msgstr ""
+
+#: includes/comment/comment.php:12
+#: templates/blog_large_image-loop.php:54
+#: templates/blog_large_image-loop.php:97
+#: templates/blog_large_image-loop.php:151
+#: templates/blog_large_image-loop.php:188
+#: templates/blog_large_image-loop.php:225
+#: templates/blog_large_image-loop.php:271
+#: templates/blog_large_image_whole_post-loop.php:54
+#: templates/blog_large_image_whole_post-loop.php:97
+#: templates/blog_large_image_whole_post-loop.php:134
+#: templates/blog_large_image_whole_post-loop.php:190
+#: templates/blog_large_image_whole_post-loop.php:227
+#: templates/blog_large_image_whole_post-loop.php:273
+#: templates/blog_search-loop.php:31
+#: templates/blog_single-loop.php:52
+#: templates/blog_single-loop.php:89
+#: templates/blog_single-loop.php:121
+#: templates/blog_single-loop.php:175
+#: templates/blog_single-loop.php:208
+#: templates/blog_single-loop.php:251
+#: templates/blog_small_image-loop.php:54
+#: templates/blog_small_image-loop.php:98
+#: templates/blog_small_image-loop.php:142
+#: templates/blog_small_image-loop.php:195
+#: templates/blog_small_image-loop.php:239
+#: templates/blog_small_image-loop.php:285
+#@ qode
+msgid "Posted at"
+msgstr ""
+
+#: includes/qode-like.php:76
+#: includes/qode-like.php:100
+#@ qode
+msgid " Likes"
+msgstr ""
+
+#: includes/qode-like.php:78
+#: includes/qode-like.php:102
+#@ qode
+msgid " Like"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2770
+#: includes/shortcodes/shortcodes.php:3111
+#: includes/shortcodes/shortcodes.php:3463
+#: includes/shortcodes/shortcodes.php:3515
+#: includes/shortcodes/shortcodes.php:3892
+#@ qode
+msgid "zoom"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2773
+#: includes/shortcodes/shortcodes.php:3114
+#: includes/shortcodes/shortcodes.php:3466
+#: includes/shortcodes/shortcodes.php:3518
+#: includes/shortcodes/shortcodes.php:3895
+#: templates/portfolio-related.php:38
+#@ qode
+msgid "view"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4519
+#@ qode
+msgid "Share on: "
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4531
+#: includes/shortcodes/shortcodes.php:4534
+#@ qode
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4555
+#: includes/shortcodes/shortcodes.php:4558
+#@ qode
+msgid "Share on Twitter"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4573
+#@ qode
+msgid "Share on Google+"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4585
+#@ qode
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4597
+#@ qode
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4610
+#@ qode
+msgid "Share on Pinterest"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:4623
+#@ qode
+msgid "Share on VK"
+msgstr ""
+
+#: js/default_dynamic.php:115
+#@ qode
+msgid "Loading new posts..."
+msgstr ""
+
+#: js/default_dynamic.php:119
+#@ qode
+msgid "No more posts"
+msgstr ""
+
+#: templates/blog_large_image-loop.php:54
+#: templates/blog_large_image-loop.php:97
+#: templates/blog_large_image-loop.php:151
+#: templates/blog_large_image-loop.php:188
+#: templates/blog_large_image-loop.php:225
+#: templates/blog_large_image-loop.php:271
+#: templates/blog_large_image_whole_post-loop.php:54
+#: templates/blog_large_image_whole_post-loop.php:97
+#: templates/blog_large_image_whole_post-loop.php:134
+#: templates/blog_large_image_whole_post-loop.php:190
+#: templates/blog_large_image_whole_post-loop.php:227
+#: templates/blog_large_image_whole_post-loop.php:273
+#: templates/blog_search-loop.php:31
+#: templates/blog_single-loop.php:52
+#: templates/blog_single-loop.php:89
+#: templates/blog_single-loop.php:121
+#: templates/blog_single-loop.php:175
+#: templates/blog_single-loop.php:208
+#: templates/blog_single-loop.php:251
+#: templates/blog_small_image-loop.php:54
+#: templates/blog_small_image-loop.php:98
+#: templates/blog_small_image-loop.php:142
+#: templates/blog_small_image-loop.php:195
+#: templates/blog_small_image-loop.php:239
+#: templates/blog_small_image-loop.php:285
+#@ qode
+msgid "h"
+msgstr ""
+
+#: functions.php:1580
+#@ qode
+msgid "404 - Page not found"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:81
+#@ qode
+msgid "Full Width:"
+msgstr ""
+
+#: framework/lib/qode.layout.php:965
+#: framework/lib/qode.layout.php:1005
+#: framework/lib/qode.layout.php:1111
+#: framework/lib/qode.layout.php:1166
+#: framework/lib/qode.layout.php:1276
+#: framework/lib/qode.layout.php:1331
+#: framework/lib/qode.layout.php:1386
+#: framework/lib/qode.layout.php:1441
+#: framework/lib/qode.layout.php:1496
+#: framework/lib/qode.layout.php:1551
+#: widgets/call_to_action_widget.php:83
+#: widgets/call_to_action_widget.php:91
+#: widgets/call_to_action_widget.php:156
+#@ qode
+msgid "Yes"
+msgstr ""
+
+#: framework/lib/qode.layout.php:967
+#: framework/lib/qode.layout.php:1007
+#: framework/lib/qode.layout.php:1113
+#: framework/lib/qode.layout.php:1168
+#: framework/lib/qode.layout.php:1278
+#: framework/lib/qode.layout.php:1333
+#: framework/lib/qode.layout.php:1388
+#: framework/lib/qode.layout.php:1443
+#: framework/lib/qode.layout.php:1498
+#: framework/lib/qode.layout.php:1553
+#: widgets/call_to_action_widget.php:84
+#: widgets/call_to_action_widget.php:92
+#: widgets/call_to_action_widget.php:157
+#@ qode
+msgid "No"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:89
+#@ qode
+msgid "Content In Grid:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:126
+#@ qode
+msgid "Type:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:128
+#@ qode
+msgid "Normal"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:129
+#@ qode
+msgid "With Icon"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:182
+#@ qode
+msgid "Button Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:187
+#@ qode
+msgid "Button Hover Text Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:192
+#@ qode
+msgid "Button Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:197
+#@ qode
+msgid "Button Hover Background Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:207
+#@ qode
+msgid "Button Hover Border Color:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:129
+#@ woocommerce
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:24
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:47
+#: woocommerce/cart/shipping-calculator.php:53
+#: woocommerce/cart/shipping-calculator.php:65
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:54
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:74
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:82
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:87
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/global/form-login.php:40
+#@ woocommerce
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/form-login.php:43
+#: woocommerce/myaccount/form-login.php:48
+#@ woocommerce
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:89
+#@ woocommerce
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:31
+#@ woocommerce
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/related.php:42
+#@ woocommerce
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:43
+#@ woocommerce
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:73
+#: woocommerce/woocommerce_configuration.php:84
+#@ qode
+msgid "First name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:74
+#: woocommerce/woocommerce_configuration.php:85
+#@ qode
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:75
+#: woocommerce/woocommerce_configuration.php:86
+#@ qode
+msgid "Company name"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:76
+#: woocommerce/woocommerce_configuration.php:87
+#@ qode
+msgid "Address"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:78
+#@ qode
+msgid "Phone"
+msgstr ""
+
+#: woocommerce/woocommerce_configuration.php:79
+#: woocommerce/woocommerce_configuration.php:88
+#@ qode
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: templates/portfolio-loop.php:266
+#: templates/portfolio-loop.php:444
+#: templates/portfolio-loop.php:624
+#: templates/portfolio-loop.php:843
+#: templates/portfolio-loop.php:1065
+#: templates/portfolio-loop.php:1251
+#@ qode
+msgid "Tags"
+msgstr ""
+
+#: contact-page.php:82
+#@ qode
+msgid "Say Hello! Don’t be shy."
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:22
+#@ qode
+msgid "Parallax effect"
+msgstr ""
+
+#: extendvc/extend-vc.php:7524
+#@ default
+msgid "Speed of slide animation in milliseconds"
+msgstr ""
+
+#: extendvc/extend-vc.php:1971
+#@ qode
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr ""
+
+#: functions.php:462
+#@ qode
+msgid "Fullscreen Navigation"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:149
+#: includes/qode-custom-post-types.php:159
+#@ qode
+msgid "Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:150
+#@ qode
+msgid "Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:151
+#@ qode
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:152
+#@ qode
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:153
+#@ qode
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:154
+#@ qode
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:155
+#@ qode
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:156
+#@ qode
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:157
+#@ qode
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:158
+#@ qode
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:139
+#@ qode
+msgid "Border Color:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:144
+#@ qode
+msgid "Padding Top (px):"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:149
+#@ qode
+msgid "Padding Bottom (px):"
+msgstr ""
+
+#: functions.php:1551
+#@ qode
+msgid "Author:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:112
+#@ qode
+msgid "Text Letter Spacing:"
+msgstr ""
+
+#: widgets/call_to_action_widget.php:117
+#@ qode
+msgid "Text Font Weight:"
+msgstr ""
+
+#: extendvc/extend-vc.php:8031
+#@ qode
+msgid "Qode Elements Holder"
+msgstr ""
+
+#: extendvc/extend-vc.php:8103
+#@ qode
+msgid "Qode Elements Holder Item"
+msgstr ""
+
+#: 404.php:14
+#@ qode
+msgid "The page you are looking for is not found"
+msgstr ""
+
+#: extendvc/extend-vc.php:3753
+#@ default
+msgid "Enter just number, omit px"
+msgstr ""
+
+#: extendvc/extend-vc.php:3763
+#@ default
+msgid "Enter just number, omit px. Applied only for circle or square icon type"
+msgstr ""
+
+#: extendvc/extend-vc.php:3773
+#@ default
+msgid "Spacing between icon and text (for left icon/margin position). Enter just number, omit px"
+msgstr ""
+
+#: functions.php:469
+#@ qode
+msgid "Left Top Navigation"
+msgstr ""
+
+#: functions.php:475
+#@ qode
+msgid "Right Top Navigation"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:3272
+#: includes/shortcodes/shortcodes.php:3739
+#: templates/blog-structure.php:137
+#@ qode
+msgid "Loading..."
+msgstr ""
+
+#: export/qode-export.php:319
+#@ qode
+msgid "Export"
+msgstr ""
+
+#: extendvc/extend-vc.php:8533
+#@ qode
+msgid "Qode Vertical Split Slider"
+msgstr ""
+
+#: extendvc/extend-vc.php:8547
+#@ qode
+msgid "Left Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:8562
+#@ qode
+msgid "Right Sliding Panel"
+msgstr ""
+
+#: extendvc/extend-vc.php:8577
+#@ qode
+msgid "Slide Content Item"
+msgstr ""
+
+#: extendvc/extend-vc.php:9046
+#@ js_composer
+msgid "Content"
+msgstr ""
+
+#: framework/_qode-import.php:192
+#: includes/import/qode-import.php:173
+#@ qode
+msgid "Bridge — One-Click Import"
+msgstr ""
+
+#: framework/lib/qode.layout.php:689
+#: framework/lib/qode.layout.php:690
+#: framework/lib/qode.layout.php:2082
+#: framework/lib/qode.layout.php:2083
+#: framework/lib/qode.layout.php:2133
+#: framework/lib/qode.layout.php:2134
+#: framework/lib/qode.layout.php:2243
+#: framework/lib/qode.layout.php:2244
+#: framework/lib/qode.layout.php:2295
+#: framework/lib/qode.layout.php:2296
+#: framework/lib/qode.layout.php:2569
+#: framework/lib/qode.layout.php:2570
+#: framework/lib/qode.layout.php:2639
+#: framework/lib/qode.layout.php:2640
+#@ default
+msgid "Select Image"
+msgstr ""
+
+#: framework/lib/qode.layout.php:690
+#: framework/lib/qode.layout.php:1995
+#: framework/lib/qode.layout.php:2083
+#: framework/lib/qode.layout.php:2134
+#: framework/lib/qode.layout.php:2244
+#: framework/lib/qode.layout.php:2296
+#: framework/lib/qode.layout.php:2570
+#: framework/lib/qode.layout.php:2640
+#@ default
+msgid "Upload"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1056
+#@ qode
+msgid "On"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1058
+#@ qode
+msgid "Off"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1221
+#@ qode
+msgid "Image"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1223
+#@ qode
+msgid "Video"
+msgstr ""
+
+#: framework/lib/qode.layout.php:1997
+#@ default
+msgid "Remove All"
+msgstr ""
+
+#: functions.php:2141
+#@ qode
+msgid ""
+"Note that writing permissions aren't set for folders containing css and js files on your server.\n"
+"\t\t\t\t\tWe recommend setting writing permissions in order to optimize your site performance.\n"
+"\t\t\t\t\tFor further instructions, please refer to our <a target=\"_blank\" href=\"http://demo.qodeinteractive.com/bridge-new-help/#!/getting_started\">documentation</a>."
+msgstr ""
+
+#: header.php:1385
+#@ qode
+msgid "Search:"
+msgstr ""
+
+#: includes/import/qode-import.php:180
+#@ qode
+msgid "Demo Site"
+msgstr ""
+
+#: includes/import/qode-import.php:325
+#@ qode
+msgid "Import Type"
+msgstr ""
+
+#: includes/import/qode-import.php:387
+#@ qode
+msgid "Delete all menus from Appearance > Menus before importing a new demo."
+msgstr ""
+
+#: includes/import/qode-import.php:388
+#@ qode
+msgid "All options will be overwritten by the options for the demo you are importing."
+msgstr ""
+
+#: includes/nav_menu/edit_custom_walker.php:242
+#@ qode
+msgid "Icon Pack"
+msgstr ""
+
+#: includes/plugins/class-tgm-plugin-activation.php:174
+#@ qode
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/qode-custom-post-types.php:104
+#@ qode
+msgid "Masonry Gallery"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:105
+#@ qode
+msgid "Masonry Gallery Items"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:106
+#@ qode
+msgid "Masonry Gallery Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:107
+#@ qode
+msgid "New Masonry Gallery Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:108
+#@ qode
+msgid "Add New Masonry Gallery Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:109
+#@ qode
+msgid "Edit Masonry Gallery Item"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:249
+#: includes/qode-custom-post-types.php:259
+#@ taxonomy general name
+#@ qode
+msgid "Masonry Gallery Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:250
+#@ taxonomy singular name
+msgid "Masonry Gallery Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:251
+#@ qode
+msgid "Search Masonry Gallery Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:252
+#@ qode
+msgid "All Masonry Gallery Categories"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:253
+#@ qode
+msgid "Parent Masonry Gallery Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:254
+#@ qode
+msgid "Parent Masonry Gallery Category:"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:255
+#@ qode
+msgid "Edit Masonry Gallery Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:256
+#@ qode
+msgid "Update Masonry Gallery Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:257
+#@ qode
+msgid "Add New Masonry Gallery Category"
+msgstr ""
+
+#: includes/qode-custom-post-types.php:258
+#@ qode
+msgid "New Masonry Gallery Category Name"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:33
+#@ qode
+msgid "Advanced responsiveness"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:44
+#@ qode
+msgid "Breakpoint Coefficients 1 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:48
+#: includes/qode-custom-taxonomy-field.php:78
+#: includes/qode-custom-taxonomy-field.php:108
+#: includes/qode-custom-taxonomy-field.php:138
+#: includes/qode-custom-taxonomy-field.php:168
+#: includes/qode-custom-taxonomy-field.php:198
+#: includes/qode-custom-taxonomy-field.php:228
+#@ qode
+msgid "Graphic"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:64
+#: includes/qode-custom-taxonomy-field.php:94
+#: includes/qode-custom-taxonomy-field.php:124
+#: includes/qode-custom-taxonomy-field.php:154
+#: includes/qode-custom-taxonomy-field.php:184
+#: includes/qode-custom-taxonomy-field.php:214
+#: includes/qode-custom-taxonomy-field.php:244
+#@ qode
+msgid "Button"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:69
+#@ qode
+msgid "screen width > 1600px for 'set1' and 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:74
+#@ qode
+msgid "Breakpoint Coefficients 2 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:99
+#@ qode
+msgid "screen width = [1200px,1600px] for 'set1', screen width = [1300px,1600px] for 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:104
+#@ qode
+msgid "Breakpoint Coefficients 3 (values: 0-1, default value: 0.8)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:129
+#@ qode
+msgid "screen width = [900px,1200px] for 'set1', screen width = [1000px,1300px] for 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:134
+#@ qode
+msgid "Breakpoint Coefficients 4 (values: 0-1, default value: 0.7)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:159
+#@ qode
+msgid "screen width = [650px,900px] for 'set1', screen width = [768px,1000px] for 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:164
+#@ qode
+msgid "Breakpoint Coefficients 5 (values: 0-1, default value: 0.6)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:189
+#@ qode
+msgid "screen width = [500px,650px] for 'set1', screen width = [567px,768px] for 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:194
+#@ qode
+msgid "Breakpoint Coefficients 6 (values: 0-1, default value: 0.5)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:219
+#@ qode
+msgid "screen width = [320px,500px] for 'set1', screen width = [320px,567px] for 'set2'"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:224
+#@ qode
+msgid "Breakpoint Coefficients 7 (values: 0-1, default value: 0.4)"
+msgstr ""
+
+#: includes/qode-custom-taxonomy-field.php:249
+#@ qode
+msgid "screen width < 320px for 'set1' and 'set2'"
+msgstr ""
+
+#: includes/shortcodes/shortcodes.php:2852
+#: includes/shortcodes/shortcodes.php:3193
+#: includes/shortcodes/shortcodes.php:3240
+#: includes/shortcodes/shortcodes.php:3628
+#: includes/shortcodes/shortcodes.php:3676
+#@ qode
+msgid "Go to Project"
+msgstr ""
+
+#: templates/blog_single-loop.php:280
+#@ qode
+msgid "Tags:"
+msgstr ""
+
+#: templates/blog_vertical-loop.php:103
+#: templates/blog_vertical-loop.php:173
+#: templates/blog_vertical-loop.php:247
+#: templates/blog_vertical-loop.php:316
+#: templates/blog_vertical-loop.php:393
+#: templates/blog_vertical-loop.php:462
+#@ qode
+msgid "See More"
+msgstr ""
+
+#: templates/portfolio-loop.php:1169
+#@ qode
+msgid "Print page"
+msgstr ""
+
+#: templates/portfolio-related.php:19
+#@ qode
+msgid "Related Projects"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:47
+#@ woocommerce
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:49
+#@ woocommerce
+msgid "There are no shipping methods available. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:19
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:24
+#@ woocommerce
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:46
+#@ woocommerce
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:93
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+#: woocommerce/checkout/form-coupon.php:25
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:42
+#@ woocommerce
+msgid "Clear"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2742
+#@ qode
+msgid "You have successfully connected with your Instagram account. If you have any issues fetching data from Instagram try reconnecting."
+msgstr ""
+
+#: framework/lib/qode.layout.php:2749
+#@ qode
+msgid "Re-connect with Instagram"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2749
+#: framework/lib/qode.layout.php:2760
+#@ qode
+msgid "Connect with Instagram"
+msgstr ""
+
+#: framework/lib/qode.layout.php:2762
+#@ qode
+msgid "Connecting with Instagram will enable you to show your latest photos on your site"
+msgstr ""
+
+#: widgets/social_icon_widget.php:8
+#@ qode
+msgid "Qode Social Icon Widget"
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:45
+#@ qode
+msgid "Search results for \""
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:104
+#@ qode
+msgid "Posts tagged \""
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:109
+#@ qode
+msgid "Articles posted by "
+msgstr ""
+
+#: includes/qode-breadcrumbs.php:112
+#@ qode
+msgid "Error 404"
+msgstr ""
+

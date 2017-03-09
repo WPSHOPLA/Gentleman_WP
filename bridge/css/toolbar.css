@@ -1,0 +1,250 @@
+/* sticky toolbar -  start */
+
+.sticky_menu{
+    -ms-transform: translateY(100%);
+    -webkit-transform: translateY(100%);
+    transform: translateY(100%);
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
+    z-index:10001;
+    -webkit-transition: -webkit-transform 0.3s ease;
+    transition: transform 0.3s ease;
+}
+
+.sticky_menu.open {
+    -ms-transform: translateY(0%);
+    -webkit-transform: translateY(0%);
+    transform: translateY(0%);
+}
+
+.sticky_menu .info{
+    position:absolute;
+    left:0;
+    bottom:-1px;
+    color: #fff;
+    font-size:13px;
+    background-color: #222222;
+    -ms-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    height:27px;
+    width:94px;
+    text-align:center;
+    border:none;
+    -webkit-transform-origin:12px;
+    transform-origin: 12px;
+
+
+}
+
+.sticky_menu ul{
+    list-style: none;
+    display:inline-block;
+    width:100%;
+    vertical-align:middle;
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 30px 0 0 0;
+}
+
+.sticky_menu ul li{
+    float:left;
+    width: 33.33%;
+    box-sizing:border-box;
+}
+
+.sticky_menu ul li:first-child a,
+.sticky_menu ul li:last-child a{
+    border-right:none;
+    border-left:none;
+}
+
+.sticky_menu ul li a{
+    display:inline-block;
+    vertical-align:middle;
+    width:100%;
+    box-sizing:border-box;
+    padding:6px 25px 6px 6px;
+    color: #222;
+    border-left: 1px solid #f4f4f4;
+    border-right: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
+    -webkit-transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+    transition: color 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.sticky_menu ul li a:hover{
+    background-color: #1abc9c;
+    color: #fff;
+    border-color: #1abc9c;
+
+}
+
+.sticky_menu ul li a .thumb{
+    float:left;
+    margin: 0 25px 0 0;
+}
+
+.sticky_menu ul li a .thumb img{
+    display:block;
+}
+
+.sticky_menu ul li span.text{
+    line-height:50px;
+    float:left;
+    font-size:14px;
+    text-transform:uppercase;
+    font-family: 'Raleway', sans-serif;
+    font-weight:600;
+}
+
+
+.sticky_menu ul li .arrow_right-up{
+    font-size:14px;
+    line-height:50px;
+    float:right;
+}
+
+.sticky_close_bar{
+    background-color: #222222;
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.sticky_close_bar .left{
+    float: left;
+}
+
+.sticky_close_bar .right{
+    float: right;
+    margin-right: 30px;
+}
+
+.sticky_close_bar p,
+.sticky_close_bar a {
+    color: #fff;
+    font-size: 13px;
+    line-height: 30px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.sticky_close_bar .left p span {
+    color: #1abc9c;
+}
+
+.sticky_close_bar .left p span.icon_question_alt{
+    color: #fff;
+    margin: 0px 5px;
+}
+
+.sticky_close_bar .right span {
+    font-size: 15px;
+    margin-left: 5px;
+    float: right;
+    line-height: 30px;
+}
+
+@media only screen and (max-width: 1100px) {
+    .sticky_menu ul li a .thumb{
+        margin: 0 10px 0 0;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .sticky_menu ul li a .thumb{
+        width: 15%;
+    }
+    .sticky_menu ul li span.text{
+        font-size:11px;
+        line-height:43px;
+    }
+    .sticky_menu ul li .arrow_right-up{
+        line-height:43px;
+    }
+
+
+    .sticky_menu .info{
+        display:none;
+    }
+
+}
+
+
+@media only screen and (max-width: 850px) {
+
+    .sticky_close_bar p,
+    .sticky_close_bar a{
+        font-size:10px;
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .sticky_menu ul li a .thumb{
+        width: 10%;
+    }
+    .sticky_menu ul li span.text{
+        font-size:9px;
+        line-height:21px;
+    }
+    .sticky_menu ul li .arrow_right-up{
+        font-size:13px;
+        line-height:21px;
+    }
+
+}
+
+@media only screen and (max-width: 600px) {
+    .sticky_menu ul li a .thumb{
+        display:none;
+    }
+
+}
+
+@media only screen and (max-width: 680px) {
+
+    .sticky_close_bar p,
+    .sticky_close_bar a{
+        font-size:8px;
+    }
+
+}
+
+@media only screen and (max-width: 580px) {
+
+    .sticky_close_bar p{
+        display:none;
+    }
+
+
+}
+
+@media only screen and (max-width: 540px) {
+    .sticky_menu ul li span.text{
+        font-size:9px;
+    }
+
+    .sticky_menu ul li .arrow_right-up{
+        display:none;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+
+    .sticky_menu ul li span.text{
+        line-height:12px;
+        font-size:7px;
+    }
+
+}
+
+/* sticky toolbar -  end */

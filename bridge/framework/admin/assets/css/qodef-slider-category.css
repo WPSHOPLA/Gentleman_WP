@@ -1,0 +1,19 @@
+.form-field.slider-breakpoints{
+	display: none;
+}
+
+.form-field.slider-breakpoints input {
+	width: auto;
+}
+
+.form-field.slider-breakpoints .inline label {
+	float: left;
+	line-height: 28px;
+	margin-right: 5px;
+}
+
+.inline {
+	display: inline-block;
+	margin: 0px 10px 0px 0px;
+	font-size: 13px;
+}

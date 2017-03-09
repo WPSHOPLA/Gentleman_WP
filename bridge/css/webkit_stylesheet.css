@@ -1,0 +1,15 @@
+.full_width{
+	position: static;
+}
+
+.full_width_inner{
+    position: static;
+}
+
+.container{
+    position: static;
+}
+
+.container_inner{
+    position: relative;
+}

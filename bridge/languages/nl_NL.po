@@ -1,0 +1,4535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bridge v6.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-20 15:26+0100\n"
+"Last-Translator: Ruben Sissing <info@fressh.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ qode
+#: 404.php:14
+msgid "Back to homepage"
+msgstr "Terug naar de startpagina"
+
+# @ qode
+#: search.php:45 search.php:66 search.php:94 templates/blog-structure.php:108
+msgid "No posts were found."
+msgstr "Geen berichten gevonden"
+
+# @ qode
+#: templates/blog_large_image-loop.php:55
+#: templates/blog_large_image-loop.php:98
+#: templates/blog_large_image-loop.php:152
+#: templates/blog_large_image-loop.php:189
+#: templates/blog_large_image-loop.php:226
+#: templates/blog_large_image-loop.php:272
+#: templates/blog_large_image_whole_post-loop.php:55
+#: templates/blog_large_image_whole_post-loop.php:98
+#: templates/blog_large_image_whole_post-loop.php:135
+#: templates/blog_large_image_whole_post-loop.php:191
+#: templates/blog_large_image_whole_post-loop.php:228
+#: templates/blog_large_image_whole_post-loop.php:274
+#: templates/blog_search-loop.php:35 templates/blog_single-loop.php:53
+#: templates/blog_single-loop.php:90 templates/blog_single-loop.php:122
+#: templates/blog_single-loop.php:176 templates/blog_single-loop.php:209
+#: templates/blog_single-loop.php:252 templates/blog_small_image-loop.php:55
+#: templates/blog_small_image-loop.php:99
+#: templates/blog_small_image-loop.php:143
+#: templates/blog_small_image-loop.php:196
+#: templates/blog_small_image-loop.php:240
+#: templates/blog_small_image-loop.php:286
+msgid "in"
+msgstr "in"
+
+# @ qode
+#: templates/blog_large_image-loop.php:58
+#: templates/blog_large_image-loop.php:101
+#: templates/blog_large_image-loop.php:155
+#: templates/blog_large_image-loop.php:192
+#: templates/blog_large_image-loop.php:229
+#: templates/blog_large_image-loop.php:275
+#: templates/blog_large_image_whole_post-loop.php:58
+#: templates/blog_large_image_whole_post-loop.php:101
+#: templates/blog_large_image_whole_post-loop.php:138
+#: templates/blog_large_image_whole_post-loop.php:194
+#: templates/blog_large_image_whole_post-loop.php:231
+#: templates/blog_large_image_whole_post-loop.php:277
+#: templates/blog_search-loop.php:41 templates/blog_single-loop.php:55
+#: templates/blog_single-loop.php:92 templates/blog_single-loop.php:124
+#: templates/blog_single-loop.php:178 templates/blog_single-loop.php:211
+#: templates/blog_single-loop.php:254 templates/blog_small_image-loop.php:58
+#: templates/blog_small_image-loop.php:102
+#: templates/blog_small_image-loop.php:146
+#: templates/blog_small_image-loop.php:199
+#: templates/blog_small_image-loop.php:243
+#: templates/blog_small_image-loop.php:289
+msgid "by"
+msgstr "door"
+
+# @ qode
+#: comments.php:2 includes/shortcodes/shortcodes.php:1619
+#: includes/shortcodes/shortcodes.php:1784
+#: includes/shortcodes/shortcodes.php:1808
+#: templates/blog_large_image-loop.php:63
+#: templates/blog_large_image-loop.php:106
+#: templates/blog_large_image-loop.php:160
+#: templates/blog_large_image-loop.php:197
+#: templates/blog_large_image-loop.php:234
+#: templates/blog_large_image-loop.php:280
+#: templates/blog_large_image_whole_post-loop.php:63
+#: templates/blog_large_image_whole_post-loop.php:106
+#: templates/blog_large_image_whole_post-loop.php:143
+#: templates/blog_large_image_whole_post-loop.php:199
+#: templates/blog_large_image_whole_post-loop.php:236
+#: templates/blog_large_image_whole_post-loop.php:282
+#: templates/blog_masonry-loop.php:50 templates/blog_masonry-loop.php:74
+#: templates/blog_masonry-loop.php:91 templates/blog_masonry-loop.php:128
+#: templates/blog_masonry-loop.php:145 templates/blog_masonry-loop.php:176
+#: templates/blog_search-loop.php:46 templates/blog_single-loop.php:59
+#: templates/blog_single-loop.php:96 templates/blog_single-loop.php:128
+#: templates/blog_single-loop.php:182 templates/blog_single-loop.php:215
+#: templates/blog_single-loop.php:258 templates/blog_small_image-loop.php:63
+#: templates/blog_small_image-loop.php:107
+#: templates/blog_small_image-loop.php:151
+#: templates/blog_small_image-loop.php:204
+#: templates/blog_small_image-loop.php:248
+#: templates/blog_small_image-loop.php:294
+msgid "Comments"
+msgstr "Reactie's"
+
+# @ qode
+#: comments.php:2 includes/shortcodes/shortcodes.php:1616
+#: includes/shortcodes/shortcodes.php:1781
+#: includes/shortcodes/shortcodes.php:1805
+#: templates/blog_large_image-loop.php:63
+#: templates/blog_large_image-loop.php:106
+#: templates/blog_large_image-loop.php:160
+#: templates/blog_large_image-loop.php:197
+#: templates/blog_large_image-loop.php:234
+#: templates/blog_large_image-loop.php:280
+#: templates/blog_large_image_whole_post-loop.php:63
+#: templates/blog_large_image_whole_post-loop.php:106
+#: templates/blog_large_image_whole_post-loop.php:143
+#: templates/blog_large_image_whole_post-loop.php:199
+#: templates/blog_large_image_whole_post-loop.php:236
+#: templates/blog_large_image_whole_post-loop.php:282
+#: templates/blog_masonry-loop.php:50 templates/blog_masonry-loop.php:74
+#: templates/blog_masonry-loop.php:91 templates/blog_masonry-loop.php:128
+#: templates/blog_masonry-loop.php:145 templates/blog_masonry-loop.php:176
+#: templates/blog_search-loop.php:46 templates/blog_single-loop.php:59
+#: templates/blog_single-loop.php:96 templates/blog_single-loop.php:128
+#: templates/blog_single-loop.php:182 templates/blog_single-loop.php:215
+#: templates/blog_single-loop.php:258 templates/blog_small_image-loop.php:63
+#: templates/blog_small_image-loop.php:107
+#: templates/blog_small_image-loop.php:151
+#: templates/blog_small_image-loop.php:204
+#: templates/blog_small_image-loop.php:248
+#: templates/blog_small_image-loop.php:294
+msgid "Comment"
+msgstr "Reactie"
+
+# @ qode
+#: templates/blog_large_image-loop.php:76
+#: templates/blog_large_image-loop.php:119
+#: templates/blog_large_image-loop.php:173
+#: templates/blog_large_image-loop.php:293
+#: templates/blog_large_image_whole_post-loop.php:76
+#: templates/blog_large_image_whole_post-loop.php:119
+#: templates/blog_large_image_whole_post-loop.php:212
+#: templates/blog_large_image_whole_post-loop.php:295
+#: templates/blog_search-loop.php:64 templates/blog_small_image-loop.php:76
+#: templates/blog_small_image-loop.php:120
+#: templates/blog_small_image-loop.php:217
+#: templates/blog_small_image-loop.php:307
+msgid "Read More"
+msgstr "Lees meer"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:1742
+#: templates/blog_large_image-loop.php:90
+#: templates/blog_large_image_simple-loop.php:68
+#: templates/blog_large_image_whole_post-loop.php:90
+#: templates/blog_masonry-loop.php:64 templates/blog_single-loop.php:82
+msgid "Your browser don't support audio player"
+msgstr "Je browser ondersteund het afspelen van geluid niet"
+
+# @ qode
+#: comments.php:2
+msgid "No Comments"
+msgstr "Geen reactie's"
+
+# @ qode
+#: comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dit bericht is beveiligd met een wachtwoord. Voer het wachtwoord in om "
+"reactie's te bekijken."
+
+# @ qode
+#: comments.php:29
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Sorry, het is niet mogelijk om te reageren."
+
+# @ qode
+#: comments.php:42
+msgid "Post A Comment"
+msgstr "Geef een reactie"
+
+# @ qode
+#: comments.php:43
+#, php-format
+msgid "Post A Reply to %s"
+msgstr "Geef een reactie op %s"
+
+# @ qode
+#: comments.php:44
+msgid "Cancel Reply"
+msgstr "Annuleer reactie"
+
+# @ qode
+# @ wordpress-importer
+#: comments.php:45 includes/import/class.wordpress-importer.php:286
+msgid "Submit"
+msgstr "Verzend"
+
+# @ qode
+#: contact-page.php:87 contact-page.php:147
+msgid "Contact Us"
+msgstr "Verstuur bericht"
+
+# @ qode
+#: contact-page.php:174
+msgid "This is a required field"
+msgstr "Dit is een verplicht veld"
+
+# @ qode
+#: contact-page.php:182
+msgid "Please enter a valid email address."
+msgstr "Voer een geldig e-mailadres in."
+
+# @ qode
+#: contact-page.php:212
+msgid "THANK YOU!"
+msgstr "Bedankt!"
+
+# @ qode
+#: contact-page.php:212
+msgid ""
+"Your email was successfully sent. We will contact you as soon as possible."
+msgstr "Je e-mail is succesvol verzonden. We neem zo snel mogelijk contact op."
+
+# @ qode
+#: contact-page.php:221
+msgid "Invalid Captcha"
+msgstr "Ongeldige Captcha"
+
+# @ qode
+#: contact-page.php:226
+msgid "Email server problem"
+msgstr "E-mail server probleem"
+
+# @ qode
+#: export/qode-export.php:119
+msgid "Qode Export"
+msgstr "Qode Export "
+
+# @ qode
+#: extendvc/extend-vc.php:2492
+msgid "Please insert margin in format: 0px 0px 1px 0px"
+msgstr "Voer de marge in volgens dit formaat: 0px 0px 1px 0px"
+
+# @ qode
+# @ tgmpa
+#: extendvc/extend-vc.php:4537 includes/nav_menu/edit_custom_walker.php:205
+#: includes/plugins/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Type"
+
+# @ qode
+#: functions.php:341
+msgid "Top Navigation"
+msgstr "Top navigatie"
+
+# @ qode
+#: functions.php:981 header.php:373
+msgid "Search"
+msgstr "Zoeken"
+
+# @ qode
+#: includes/comment/comment.php:21
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wacht op moderatie"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:134
+#: includes/import/class.wordpress-importer.php:143
+#: includes/import/class.wordpress-importer.php:194
+#: includes/import/class.wordpress-importer.php:198
+#: includes/import/class.wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr "Sorry, er is een fout opgetreden"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr "Het bestand bestaat niet, probeer opnieuw"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:178
+msgid "All done."
+msgstr "Klaar."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:178
+msgid "Have fun!"
+msgstr "Veel plezier!"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Vergeet niet om wachtwoorden en roken van belangrijke gebruikers te updaten."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"Het export bestand kan niet worden gevonden in <code>%s</code>. "
+"Waarschijnlijk komt dit door een rechten probleem."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Het WXR bestand (versie %s) wordt waarschijnlijk niet ondersteund door deze "
+"versie van de importer. Overweeg een update."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Importeren van gebruiker %s mislukt. Berichten worden toegewezen aan de "
+"huidige gebruiker."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr "Gebruikers toewijzen"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Om het opslaan en bewerken van geïmporteerde inhoud makkelijker te maken kan "
+"het verstandig zijn om een bestaande gebruiker aan deze inhoud toe te "
+"voegen. Importeer bijvoorbeeld alle berichten als berichten geschreven door "
+"<code>admin</admin."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+"Wanneer er een nieuwe WordPress gebruiker wordt aangemaakt wordt er een "
+"automatisch wachtwoord gegenereerd en de rol ingesteld als %s. Het is "
+"noodzakelijk om de gebruikersgegevens handmatig aan te passen."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr "Importeer bijlagen"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr "Download en importeer bestandsbijlagen"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:299
+msgid "Import author:"
+msgstr "Importeer auteur:"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr "of maak een nieuwe gebruiker aan met loginnaam:"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:313
+msgid "as a new user:"
+msgstr "als een nieuwe gebruiker:"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr "wijs berichten toe aan bestaande gebruiker:"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr "of wijs berichten toe aan een bestaande gebruiker:"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:324
+msgid "- Select -"
+msgstr "- Selecteer -"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Nieuwe gebruiker aanmaken voor %s is mislukt. Zijn/haar berichten worden "
+"toegewezen aan de huidige gebruiker."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Importeren categorie %s mislukt"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Importeren berichten tag %s mislukt"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:511
+#: includes/import/class.wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Importeren %s %s mislukt"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Importeren &#8220;%s&#8221; mislukt: ongeldig bericht type %s"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; bestaat al"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Importeren %s &#8220;%s&#8221; mislukt"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Menu item overgeslagen vanwege een missende menu slug"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "Menu item overgeslagen vanwege een missende menu slug: %s"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:856
+msgid "Fetching attachments is not enabled"
+msgstr "Ophalen van bijlagen is niet ingeschakeld"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:869
+msgid "Invalid file type"
+msgstr "Ongeldig bestandsformaat"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:913
+msgid "Remote server did not respond"
+msgstr "Externe server reageerde niet"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:919
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Externe server gaf een foutmelding %1$d %2$s"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:926
+msgid "Remote file is incorrect size"
+msgstr "Extern bestand heeft onjuiste grote"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:931
+msgid "Zero size file downloaded"
+msgstr "Bestand met bestandsgrote 0 gedownload"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:937
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "Extern bestand is te groot, limiet is %s"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:1039
+msgid "Import WordPress"
+msgstr "Importeer WordPress"
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:1046
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Een nieuwe versie van de importer is beschikbaar. Update naar versie %s om "
+"nieuwere export bestanden te kunnen gebruiken."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:1061
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+"Hallo! Upload je WordPress eXtended RSS (WXR) bestand en wij zorgen voor het "
+"importeren van berichten, pagina's, reactie's, aangepaste velden, "
+"categorieën en tags."
+
+# @ wordpress-importer
+#: includes/import/class.wordpress-importer.php:1062
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Selecteer een WXR (.xml) bestand en klik vervolgens op Bestand uploaden en "
+"importeren."
+
+# @ wordpress-importer
+#: includes/import/parsers.php:42 includes/import/parsers.php:72
+#: includes/import/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr "Er is een fout opgetreden bij het lezen van dit WXR bestand."
+
+# @ wordpress-importer
+#: includes/import/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Details zijn hierboven weergegeven. De importeer functie zal opnieuw starten "
+"met een andere methode..."
+
+# @ wordpress-importer
+#: includes/import/parsers.php:84 includes/import/parsers.php:89
+#: includes/import/parsers.php:279 includes/import/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Dit lijkt geen WXR bestand te zijn, een WXR versie nummer ontbreek of is "
+"ongeldig"
+
+# @ qode
+#: includes/import/qode-import.php:40 includes/import/qode-import.php:61
+msgid "Content imported successfully"
+msgstr "Inhoud succesvol geïmporteerd"
+
+# @ qode
+#: includes/import/qode-import.php:58
+msgid "An Error Occurred During Import"
+msgstr "Er is een fout opgetreden tijdens het importeren"
+
+# @ qode
+#: includes/import/qode-import.php:65
+msgid "Error loading files"
+msgstr "Laden van bestanden mislukt"
+
+# @ qode
+#: includes/import/qode-import.php:76
+msgid "Widgets imported successfully"
+msgstr "Widgets succesvol geïmporteerd"
+
+# @ qode
+#: includes/import/qode-import.php:95
+msgid "Custom sidebars imported successfully"
+msgstr "Aangepaste zijbalken succesvol geïmporteerd"
+
+# @ qode
+#: includes/import/qode-import.php:101
+msgid "Options imported successfully"
+msgstr "Optie's succesvol geïmporteerd"
+
+# @ qode
+#: includes/import/qode-import.php:134
+msgid "File doesn't exist"
+msgstr "Bestand bestaat niet"
+
+# @ qode
+#: includes/import/qode-import.php:177
+msgid "Qode Import"
+msgstr "Qode Import"
+
+# @ qode
+#: includes/import/qode-import.php:193
+msgid "Import"
+msgstr "Importeer"
+
+# @ qode
+#: includes/import/qode-import.php:242
+msgid "Import attachments"
+msgstr "Importeer bijlagen"
+
+# @ qode
+#: includes/import/qode-import.php:248
+msgid "The import process may take some time. Please be patient."
+msgstr "Het importeren neemt wat tijd in beslag, heb geduld."
+
+# @ qode
+#: includes/import/qode-import.php:259
+msgid "Important notes:"
+msgstr "Belangrijke opmerkingen:"
+
+# @ qode
+#: includes/import/qode-import.php:260
+msgid ""
+"Please note that import process will take time needed to download all "
+"attachments from demo web site."
+msgstr ""
+"Het importeren zal even duren aangezien alle bijlagen moeten worden "
+"gedownload van de demo website."
+
+# @ qode
+#: includes/import/qode-import.php:261
+msgid ""
+"If you plan to use shop, please install WooCommerce before you run import."
+msgstr ""
+"Als je een winkel wil gebruiken installeer dan WooCommerce voordat je iets "
+"importeert."
+
+# @ qode
+#. translators: %s: title of menu item which is invalid
+#: includes/nav_menu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Invalid)"
+msgstr "%s (Ongeldig)"
+
+# @ qode
+#. translators: %s: title of menu item in draft status
+#: includes/nav_menu/edit_custom_walker.php:82
+#, php-format
+msgid "%s (Pending)"
+msgstr "%s (Bezig)"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:106
+msgid "Move up"
+msgstr "Verplaats naar boven"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:119
+msgid "Move down"
+msgstr "Verplaats naar onder"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:121
+#: includes/nav_menu/edit_custom_walker.php:123
+msgid "Edit Menu Item"
+msgstr "Bewerk menu item"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:132
+msgid "URL"
+msgstr "URL"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:139
+msgid "Navigation Label"
+msgstr "Navigatie label"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:145
+msgid "Title Attribute"
+msgstr "Titel attribuut"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:152
+msgid "Open link in a new window/tab"
+msgstr "Open een link in een nieuw venster/tabblad"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:157
+msgid "CSS Classes (optional)"
+msgstr "CSS classen (optioneel)"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:163
+msgid "Link Relationship (XFN)"
+msgstr "Link relatie (XFN)"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:169
+msgid "Description"
+msgstr "Beschrijving"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:171
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+"De omschrijving wordt alleen weergegeven in het menu als het huidige thema "
+"dat ondersteund."
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:179
+msgid "Anchor"
+msgstr "Anker"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:190
+msgid "Don't link"
+msgstr "Link niet"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:200
+msgid "Don't show"
+msgstr "Toon niet"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:215
+msgid "Wide menu position"
+msgstr "Positie breed menu"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:225
+msgid "Icon"
+msgstr "Icoon"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:237
+msgid "Only with \"wide with icons\" menu type"
+msgstr "Alleen met menu type \"met brede iconen\" "
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:244
+msgid "Custom widget area"
+msgstr "Aangepaste widget ruimte"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:260
+msgid "Only with \"wide & wide with icons\" menu type"
+msgstr "Alleen met menu type \"breed & met brede iconen\" "
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:279
+#, php-format
+msgid "Original: %s"
+msgstr "Origineel: %s"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:292
+msgid "Remove"
+msgstr "Verwijder"
+
+# @ qode
+# @ woocommerce
+#: includes/nav_menu/edit_custom_walker.php:293
+#: woocommerce/myaccount/my-orders.php:78
+msgid "Cancel"
+msgstr "Annuleer"
+
+# @ tgmpa
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:155
+#: includes/plugins/layer-slider.php:65
+#: includes/plugins/visual-composer.php:55
+msgid "Install Required Plugins"
+msgstr "Installeer benodigde plugins"
+
+# @ tgmpa
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:156
+#: includes/plugins/layer-slider.php:66
+#: includes/plugins/visual-composer.php:56
+msgid "Install Plugins"
+msgstr "Installeer plugins"
+
+# @ tgmpa
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:157
+#: includes/plugins/layer-slider.php:67
+#: includes/plugins/visual-composer.php:57
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Plugin installeren: %s"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Er is iets fout gegaan"
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:159
+#: includes/plugins/layer-slider.php:69
+#: includes/plugins/visual-composer.php:59
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dit thema vereist de volgende plugin: %1$s."
+msgstr[1] "Dit thema vereist de volgende plugins: %1$s."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:160
+#: includes/plugins/layer-slider.php:70
+#: includes/plugins/visual-composer.php:60
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dit thema raadt de volgende plugin aan: %1$s."
+msgstr[1] "Dit thema raadt de volgende plugins aan: %1$s."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:161
+#: includes/plugins/layer-slider.php:71
+#: includes/plugins/visual-composer.php:61
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Je hebt niet de juiste rechten om de %s plugin te installeren. Neem contact "
+"op met de beheerde van de website."
+msgstr[1] ""
+"Je hebt niet de juiste rechten om de %s plugins te installeren. Neem contact "
+"op met de beheerde van de website."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:162
+#: includes/plugins/layer-slider.php:72
+#: includes/plugins/visual-composer.php:62
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "De volgende vereiste plugin is inactief: %1$s."
+msgstr[1] "De volgende vereiste plugins zijn inactief: %1$s."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:163
+#: includes/plugins/layer-slider.php:73
+#: includes/plugins/visual-composer.php:63
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "De volgende aanbevolen plugin is inactief: %1$s."
+msgstr[1] "De volgende aanbevolen plugins zijn inactief: %1$s."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:164
+#: includes/plugins/layer-slider.php:74
+#: includes/plugins/visual-composer.php:64
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Je hebt niet de juiste rechten om de %s plugin te activeren. Neem contact op "
+"met de beheerde van de website."
+msgstr[1] ""
+"Je hebt niet de juiste rechten om de %s plugins te activeren. Neem contact "
+"op met de beheerde van de website."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:165
+#: includes/plugins/layer-slider.php:75
+#: includes/plugins/visual-composer.php:65
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"De volgende plugin moet bijgewerkt worden naar de meest recente versie om zo "
+"goed mogelijk te werken binnen dit thema: %1$s."
+msgstr[1] ""
+"De volgende plugins moeten bijgewerkt worden naar de meest recente versie om "
+"zo goed mogelijk te werken binnen dit thema: %1$s."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:166
+#: includes/plugins/layer-slider.php:76
+#: includes/plugins/visual-composer.php:66
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Je hebt niet de juiste rechten om de %s plugin bij te werken. Neem contact "
+"op met de beheerde van de website."
+msgstr[1] ""
+"Je hebt niet de juiste rechten om de %s plugins bij te werken. Neem contact "
+"op met de beheerde van de website."
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:167
+#: includes/plugins/layer-slider.php:77
+#: includes/plugins/visual-composer.php:67
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installeren plugin"
+msgstr[1] "Begin installeren plugins"
+
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:168
+#: includes/plugins/layer-slider.php:78
+#: includes/plugins/visual-composer.php:68
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activeer geïnstalleerde plugin"
+msgstr[1] "Activeer geïnstalleerde plugins"
+
+# @ tgmpa
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:169
+#: includes/plugins/layer-slider.php:79
+#: includes/plugins/visual-composer.php:69
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar Installeren van vereiste plugins"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Terug naar het dashboard"
+
+# @ tgmpa
+# @ qode
+#: includes/plugins/class-tgm-plugin-activation.php:171
+#: includes/plugins/class-tgm-plugin-activation.php:1840
+#: includes/plugins/layer-slider.php:80
+#: includes/plugins/visual-composer.php:70
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %1$s"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Verberg deze melding"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Externe link"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Privé omgeving"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Vooraf ingepakt"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "Wordpress omgeving"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Verplicht"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd maar niet geactiveerd"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Geen plugins om te activeren of installeren. <a href=\"%1$s\" title=\"Terug "
+"naar Dashboard\">Terug naar Dashboard</a>"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Bron"
+
+# @ tgmpa
+# @ woocommerce
+#: includes/plugins/class-tgm-plugin-activation.php:1294
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr "Status"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Installeer"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Activeer"
+
+# @ tgmpa
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/plugins/class-tgm-plugin-activation.php:1538
+#: includes/plugins/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "De volgende plugin is succesvol geactiveerd:"
+msgstr[1] "De volgende plugins zijn succesvol geactiveerd:"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Installeer pakket is niet beschikbaar"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Downloaden van installeer pakket van <span class=\"code\">%s</span>&#8230;"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Uitpakken van het pakket"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Plugin's installeren"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin installatie mislukt"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin succesvol geïnstalleerd."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin activeren mislukt."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr "Het installatie en activatie proces start. Dit proces kan even duren."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s succesvol geïnstalleerd en geactiveerd."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Toon details"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1950
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Verberg details"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activatie zijn afgerond."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en activeren plugin %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "Het installatie proces start. Dit proces kan even duren."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</"
+"strong>."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s succesvol geïnstalleerd."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Bezig met installeren plugin %1$s (%2$d/%3$d)"
+
+# @ tgmpa
+#: includes/plugins/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Terug naar het dashboard"
+
+# @ qode
+#: includes/plugins/layer-slider.php:68
+#: includes/plugins/visual-composer.php:58
+msgid "Something went wrong with the plugin API."
+msgstr "Er is iets fout gegaan met de plugin API."
+
+# @ qode
+#: includes/plugins/layer-slider.php:81
+#: includes/plugins/visual-composer.php:71
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins zijn succesvol geïnstalleerd en geactiveerd. %s"
+
+# @ qode
+#: includes/qode-breadcrumbs.php:15
+msgid "Home"
+msgstr "Home"
+
+# @ qode
+#: includes/qode-breadcrumbs.php:122
+msgid "Page"
+msgstr "Pagina"
+
+# @ qode
+#: includes/qode-custom-post-types.php:18
+msgid "Portfolio"
+msgstr "Portfolio"
+
+# @ qode
+#: includes/qode-custom-post-types.php:19
+msgid "Portfolio Item"
+msgstr "Portfolio item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:20
+msgid "New Portfolio Item"
+msgstr "Nieuw Portfolio Item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:21
+msgid "Add New Portfolio Item"
+msgstr "Voeg nieuw portfolio item toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:22
+msgid "Edit Portfolio Item"
+msgstr "Bewerk Portfolio Item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:36
+msgid "Testimonials"
+msgstr "Testimonials"
+
+# @ qode
+#: includes/qode-custom-post-types.php:37
+msgid "Testimonial"
+msgstr "Testimonial"
+
+# @ qode
+#: includes/qode-custom-post-types.php:38
+msgid "New Testimonial"
+msgstr "Nieuwe Testimonial"
+
+# @ qode
+#: includes/qode-custom-post-types.php:39
+msgid "Add New Testimonial"
+msgstr "Voeg nieuwe Testimonial toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:40
+msgid "Edit Testimonial"
+msgstr "Bewerk Testimonial"
+
+# @ qode
+#: includes/qode-custom-post-types.php:56
+#: includes/qode-custom-post-types.php:57
+msgid "Qode Slider"
+msgstr "Qode Slider"
+
+# @ qode
+#: includes/qode-custom-post-types.php:58
+msgid "Slides"
+msgstr "Slides"
+
+# @ qode
+#: includes/qode-custom-post-types.php:59
+#: includes/qode-custom-post-types.php:62
+msgid "Add New Slide"
+msgstr "Voeg nieuwe Slide toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:60
+msgid "Slide"
+msgstr "Slide"
+
+# @ qode
+#: includes/qode-custom-post-types.php:61
+msgid "New Slide"
+msgstr "Nieuwe Slide"
+
+# @ qode
+#: includes/qode-custom-post-types.php:63
+msgid "Edit Slide"
+msgstr "Bewerk Slide"
+
+# @ qode
+#: includes/qode-custom-post-types.php:80
+#: includes/qode-custom-post-types.php:81
+msgid "Qode Carousel"
+msgstr "Qode Carousel"
+
+# @ qode
+#: includes/qode-custom-post-types.php:82
+msgid "Carousel Items"
+msgstr "Carousel Items"
+
+# @ qode
+#: includes/qode-custom-post-types.php:83
+#: includes/qode-custom-post-types.php:86
+msgid "Add New Carousel Item"
+msgstr "Voeg nieuw Carousel Item toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:84
+msgid "Carousel Item"
+msgstr "Carousel Item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:85
+msgid "New Carousel Item"
+msgstr "Nieuw Carousel Item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:87
+msgid "Edit Carousel Item"
+msgstr "Bewerk Carousel Item"
+
+# @ qode
+#: includes/qode-custom-post-types.php:104
+#: includes/qode-custom-post-types.php:114
+msgid "Portfolio Categories"
+msgstr "Portfolio categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:105
+msgid "Portfolio Category"
+msgstr "Portfolio categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:106
+msgid "Search Portfolio Categories"
+msgstr "Zoek Portfolio categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:107
+msgid "All Portfolio Categories"
+msgstr "Alle Portfolio categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:108
+msgid "Parent Portfolio Category"
+msgstr "Hoofd Portfolio categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:109
+msgid "Parent Portfolio Category:"
+msgstr "Hoofd Portfolio categorie:"
+
+# @ qode
+#: includes/qode-custom-post-types.php:110
+msgid "Edit Portfolio Category"
+msgstr "Bewerk Portfolio categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:111
+msgid "Update Portfolio Category"
+msgstr "Werk Portfolio categorie bij"
+
+# @ qode
+#: includes/qode-custom-post-types.php:112
+msgid "Add New Portfolio Category"
+msgstr "Voeg nieuwe Portfolio categorie toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:113
+msgid "New Portfolio Category Name"
+msgstr "Naam nieuwe Portfolio categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:152
+#: includes/qode-custom-post-types.php:162
+msgid "Testimonials Categories"
+msgstr "Testimonials categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:153
+msgid "Testimonial Category"
+msgstr "Testimonial categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:154
+msgid "Search Testimonials Categories"
+msgstr "Zoek Testimonials categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:155
+msgid "All Testimonials Categories"
+msgstr "Alle Testimonials categorieën"
+
+# @ qode
+#: includes/qode-custom-post-types.php:156
+msgid "Parent Testimonial Category"
+msgstr "Hoofd Testimonial categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:157
+msgid "Parent Testimonial Category:"
+msgstr "Hoofd Testimonials categorie:"
+
+# @ qode
+#: includes/qode-custom-post-types.php:158
+msgid "Edit Testimonials Category"
+msgstr "Bewerk Testimonials categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:159
+msgid "Update Testimonials Category"
+msgstr "Werk Testimonials categorie bij"
+
+# @ qode
+#: includes/qode-custom-post-types.php:160
+msgid "Add New Testimonials Category"
+msgstr "Voeg nieuwe Testimonials categorie toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:161
+msgid "New Testimonials Category Name"
+msgstr "Naam nieuwe Testimonials categorie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:179
+#: includes/qode-custom-post-types.php:189
+msgid "Sliders"
+msgstr "Sliders"
+
+# @ qode
+#: includes/qode-custom-post-types.php:180
+msgid "Slider"
+msgstr "Slider"
+
+# @ qode
+#: includes/qode-custom-post-types.php:181
+msgid "Search Sliders"
+msgstr "Zoek Sliders"
+
+# @ qode
+#: includes/qode-custom-post-types.php:182
+msgid "All Sliders"
+msgstr "Alle Sliders"
+
+# @ qode
+#: includes/qode-custom-post-types.php:183
+msgid "Parent Slider"
+msgstr "Hoofd Slider"
+
+# @ qode
+#: includes/qode-custom-post-types.php:184
+msgid "Parent Slider:"
+msgstr "Hoofd Slider:"
+
+# @ qode
+#: includes/qode-custom-post-types.php:185
+msgid "Edit Slider"
+msgstr "Bewerk Slider"
+
+# @ qode
+#: includes/qode-custom-post-types.php:186
+msgid "Update Slider"
+msgstr "Werk Slider bij"
+
+# @ qode
+#: includes/qode-custom-post-types.php:187
+msgid "Add New Slider"
+msgstr "Voeg nieuwe Slider toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:188
+msgid "New Slider Name"
+msgstr "Naam nieuwe Slider"
+
+# @ qode
+#: includes/qode-custom-post-types.php:204
+#: includes/qode-custom-post-types.php:214
+msgid "Carousels"
+msgstr "Carrousels"
+
+# @ qode
+#: includes/qode-custom-post-types.php:205
+msgid "Carousel"
+msgstr "Carrousel"
+
+# @ qode
+#: includes/qode-custom-post-types.php:206
+msgid "Search Carousels"
+msgstr "Zoek Carrousels"
+
+# @ qode
+#: includes/qode-custom-post-types.php:207
+msgid "All Carousels"
+msgstr "Alle Carrousels"
+
+# @ qode
+#: includes/qode-custom-post-types.php:208
+msgid "Parent Carousel"
+msgstr "Hoofd Carrousel"
+
+# @ qode
+#: includes/qode-custom-post-types.php:209
+msgid "Parent Carousel:"
+msgstr "Hoofd Carrousel:"
+
+# @ qode
+#: includes/qode-custom-post-types.php:210
+msgid "Edit Carousel"
+msgstr "Bewerk Carrousel"
+
+# @ qode
+#: includes/qode-custom-post-types.php:211
+msgid "Update Carousel"
+msgstr "Werk Carrousel bij"
+
+# @ qode
+#: includes/qode-custom-post-types.php:212
+msgid "Add New Carousel"
+msgstr "Voeg nieuwe Carrousel toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:213
+msgid "New Carousel Name"
+msgstr "Naam nieuwe Carrousel"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:10
+msgid "Effect on header (dark/light style)"
+msgstr "Effect op header (donkere/lichte stijl)"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:43
+msgid "Slider shortcode"
+msgstr "Slider shortcode"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:47
+msgid "Use this shortcode to insert it on page"
+msgstr "Gebruik deze shortcode om in te voegen op een pagina"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:77
+msgid "Name"
+msgstr "Naam"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:78
+msgid "Shortcode"
+msgstr "Shortcode"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:80
+msgid "Slug"
+msgstr "Slug"
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:81
+msgid "Posts"
+msgstr "Berichten"
+
+# @ qode
+#: includes/qode-like.php:81 includes/qode-like.php:96
+msgid "Like this"
+msgstr "Vind dit leuk"
+
+# @ qode
+#: includes/qode-like.php:84 includes/qode-like.php:99
+msgid "You already like this!"
+msgstr "Je vind dit al leuk!"
+
+# @ qode
+#: includes/qode-options.php:545
+msgid "Qode Options"
+msgstr "Quode optie's"
+
+# @ qode
+#: includes/qode-options.php:552
+msgid "Options"
+msgstr "Optie's"
+
+# @ qode
+#: includes/qode-options.php:563
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+# @ qode
+#: includes/qode-options.php:584 includes/qode-options.php:587
+msgid "Reset to defaults"
+msgstr "Herstel naar standaardwaarden"
+
+# @ qode
+#: includes/qode-options.php:592 includes/qode-options.php:5014
+msgid "Save Changes"
+msgstr "Aanpassingen opslaan"
+
+# @ qode
+#: includes/qode-options.php:631
+msgid "First main color"
+msgstr "Eerste hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:636
+msgid "Default main color"
+msgstr "Standaard hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:642
+msgid "Second main color"
+msgstr "Tweede hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:647
+msgid "Default second main color"
+msgstr "Standaard tweede hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:653
+msgid "Third main color"
+msgstr "Derde hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:657
+msgid "Default third main color"
+msgstr "Standaard derde hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:662
+msgid "Fourth main color"
+msgstr "Vierde kleur"
+
+# @ qode
+#: includes/qode-options.php:666
+msgid "Default fourth main color"
+msgstr "Standaard vierde hoofdkleur"
+
+# @ qode
+#: includes/qode-options.php:671
+msgid "Background color (content)"
+msgstr "Achtergrondkleur (inhoud)"
+
+# @ qode
+#: includes/qode-options.php:675
+msgid "Default background color"
+msgstr "Standaard achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:680
+msgid "Background color (body)"
+msgstr "Achtergrondkleur (body)"
+
+# @ qode
+#: includes/qode-options.php:684
+msgid "Default boxed background color"
+msgstr "Standaard boxed achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:689
+msgid "Background boxes color"
+msgstr "Achtergrondkleur boxes"
+
+# @ qode
+#: includes/qode-options.php:693
+msgid "Background color for boxes (blog, portfolio...)"
+msgstr "Achtergrondkleur boxes (blog, portfolio...)"
+
+# @ qode
+#: includes/qode-options.php:698
+msgid "Highlight color"
+msgstr "Highlight kleur"
+
+# @ qode
+#: includes/qode-options.php:702
+msgid "Default highlight color"
+msgstr "Standaard Highlight kleur"
+
+# @ qode
+#: includes/qode-options.php:707
+msgid "Selection color"
+msgstr "Selectie kleur"
+
+# @ qode
+#: includes/qode-options.php:711
+msgid "Default selection color"
+msgstr "Standaard selectie kleur"
+
+# @ qode
+#: includes/qode-options.php:716
+msgid "Background image"
+msgstr "Achtergrondafbeelding"
+
+# @ qode
+#: includes/qode-options.php:725
+msgid "Pattern background image"
+msgstr "Patroon achtergrondafbeelding"
+
+# @ qode
+#: includes/qode-options.php:734
+msgid "Favicon image"
+msgstr "Favicon afbeelding"
+
+# @ qode
+#: includes/qode-options.php:743
+msgid "Google fonts"
+msgstr "Google fonts"
+
+# @ qode
+#: includes/qode-options.php:752
+msgid "Choose Font"
+msgstr "Kies lettertype"
+
+# @ qode
+#: includes/qode-options.php:756
+msgid "Page transition"
+msgstr "Pagina overgang"
+
+# @ qode
+#: includes/qode-options.php:765
+msgid ""
+"In order for animation to work properly, you must choose \"Post name\" in "
+"permalinks settings"
+msgstr ""
+"Om animaties te kunnen gebruiken dien je \"Berichtnaam\" te selecteren bij "
+"permalinks instellingen"
+
+# @ qode
+#: includes/qode-options.php:769
+msgid "Boxed"
+msgstr "Boxed"
+
+# @ qode
+#: includes/qode-options.php:793
+msgid "Loading animation"
+msgstr "Laden animatie"
+
+# @ qode
+#: includes/qode-options.php:824
+msgid "Loading image"
+msgstr "Laden afbeelding"
+
+# @ qode
+#: includes/qode-options.php:833
+msgid "Smooth scroll"
+msgstr "Smooth scroll"
+
+# @ qode
+#: includes/qode-options.php:843
+msgid "Responsiveness"
+msgstr "Responsiveness"
+
+# @ qode
+#: includes/qode-options.php:852
+msgid "Show back button"
+msgstr "Toon terug knop"
+
+# @ qode
+#: includes/qode-options.php:861
+msgid "Elements animation on mobile/touch devices"
+msgstr "Element animaties op mobiele/aanraak apparaten"
+
+# @ qode
+#: includes/qode-options.php:870
+msgid "Google Analytics Account ID"
+msgstr "Google Analytics Account ID"
+
+# @ qode
+#: includes/qode-options.php:876
+msgid "List of internal URLs loaded without AJAX (separated with comma)"
+msgstr ""
+"Lijst met interne URL's die niet via AJAX worden geladen (scheiden met een "
+"komma)"
+
+# @ qode
+#: includes/qode-options.php:885
+msgid "Custom css"
+msgstr "Aangepaste css"
+
+# @ qode
+#: includes/qode-options.php:894
+msgid "Custom js"
+msgstr "Aangepaste js"
+
+# @ qode
+#: includes/qode-options.php:899
+msgid "jQuery selector is \"$j\" because of the conflict mode"
+msgstr "jQuery selecteer is \"$j\" in verband met conflict mode"
+
+# @ qode
+#: includes/qode-options.php:903
+msgid "Meta Keywords"
+msgstr "Meta sleutelwoorden"
+
+# @ qode
+#: includes/qode-options.php:911
+msgid "Meta Description"
+msgstr "Meta omschrijving"
+
+# @ qode
+#: includes/qode-options.php:919
+msgid "Disable Qode SEO"
+msgstr "Schakel Qode SEO uit"
+
+# @ qode
+#: includes/qode-options.php:937
+msgid "H1 style"
+msgstr "H2 stijl"
+
+# @ qode
+#: includes/qode-options.php:940 includes/qode-options.php:1003
+#: includes/qode-options.php:1066 includes/qode-options.php:1130
+#: includes/qode-options.php:1194 includes/qode-options.php:1258
+#: includes/qode-options.php:1324 includes/qode-options.php:1379
+#: includes/qode-options.php:1428 includes/qode-options.php:1539
+#: includes/qode-options.php:1634 includes/qode-options.php:1999
+#: includes/qode-options.php:2099 includes/qode-options.php:2189
+#: includes/qode-options.php:2258 includes/qode-options.php:2326
+#: includes/qode-options.php:2380 includes/qode-options.php:2434
+#: includes/qode-options.php:2502 includes/qode-options.php:2685
+#: includes/qode-options.php:2842 includes/qode-options.php:2868
+#: includes/qode-options.php:2899 includes/qode-options.php:3132
+#: includes/qode-options.php:3189 includes/qode-options.php:3204
+#: includes/qode-options.php:3580 includes/qode-options.php:3634
+#: includes/qode-options.php:3688 includes/qode-options.php:3778
+#: includes/qode-options.php:3887 includes/qode-options.php:3950
+#: includes/qode-options.php:4940
+msgid "Color"
+msgstr "Kleur"
+
+# @ qode
+#: includes/qode-options.php:945 includes/qode-options.php:1008
+#: includes/qode-options.php:1071 includes/qode-options.php:1135
+#: includes/qode-options.php:1199 includes/qode-options.php:1263
+#: includes/qode-options.php:1329 includes/qode-options.php:1433
+#: includes/qode-options.php:1544 includes/qode-options.php:1639
+#: includes/qode-options.php:2031 includes/qode-options.php:2109
+#: includes/qode-options.php:2199 includes/qode-options.php:2268
+#: includes/qode-options.php:2336 includes/qode-options.php:2390
+#: includes/qode-options.php:2444 includes/qode-options.php:2512
+#: includes/qode-options.php:2909 includes/qode-options.php:3137
+#: includes/qode-options.php:3590 includes/qode-options.php:3644
+#: includes/qode-options.php:3698 includes/qode-options.php:3902
+#: includes/qode-options.php:3965 includes/qode-options.php:4899
+msgid "Font family"
+msgstr "Lettertype familie"
+
+# @ qode
+#: includes/qode-options.php:954 includes/qode-options.php:1017
+#: includes/qode-options.php:1080 includes/qode-options.php:1144
+#: includes/qode-options.php:1208 includes/qode-options.php:1272
+#: includes/qode-options.php:1338 includes/qode-options.php:1442
+#: includes/qode-options.php:1481 includes/qode-options.php:1510
+#: includes/qode-options.php:1553 includes/qode-options.php:1590
+#: includes/qode-options.php:1620 includes/qode-options.php:1648
+#: includes/qode-options.php:2040 includes/qode-options.php:2118
+#: includes/qode-options.php:2208 includes/qode-options.php:2277
+#: includes/qode-options.php:2345 includes/qode-options.php:2399
+#: includes/qode-options.php:2453 includes/qode-options.php:2521
+#: includes/qode-options.php:2918 includes/qode-options.php:3027
+#: includes/qode-options.php:3063 includes/qode-options.php:3099
+#: includes/qode-options.php:3146 includes/qode-options.php:3194
+#: includes/qode-options.php:3599 includes/qode-options.php:3653
+#: includes/qode-options.php:3707 includes/qode-options.php:3911
+#: includes/qode-options.php:3974 includes/qode-options.php:4908
+msgid "Font size (px)"
+msgstr "Lettergrote (px)"
+
+# @ qode
+#: includes/qode-options.php:958 includes/qode-options.php:1021
+#: includes/qode-options.php:1084 includes/qode-options.php:1148
+#: includes/qode-options.php:1212 includes/qode-options.php:1276
+#: includes/qode-options.php:1342 includes/qode-options.php:1446
+#: includes/qode-options.php:1485 includes/qode-options.php:1514
+#: includes/qode-options.php:1557 includes/qode-options.php:1594
+#: includes/qode-options.php:1624 includes/qode-options.php:1652
+#: includes/qode-options.php:2044 includes/qode-options.php:2122
+#: includes/qode-options.php:2212 includes/qode-options.php:2281
+#: includes/qode-options.php:2349 includes/qode-options.php:2403
+#: includes/qode-options.php:2457 includes/qode-options.php:2525
+#: includes/qode-options.php:2922 includes/qode-options.php:3150
+#: includes/qode-options.php:3603 includes/qode-options.php:3657
+#: includes/qode-options.php:3711 includes/qode-options.php:3915
+#: includes/qode-options.php:3978
+msgid "Line height (px)"
+msgstr "Lijn hoogte (px)"
+
+# @ qode
+#: includes/qode-options.php:962 includes/qode-options.php:1025
+#: includes/qode-options.php:1088 includes/qode-options.php:1152
+#: includes/qode-options.php:1216 includes/qode-options.php:1280
+#: includes/qode-options.php:1346 includes/qode-options.php:1389
+#: includes/qode-options.php:1450 includes/qode-options.php:1561
+#: includes/qode-options.php:1616 includes/qode-options.php:1656
+#: includes/qode-options.php:2048 includes/qode-options.php:2126
+#: includes/qode-options.php:2216 includes/qode-options.php:2285
+#: includes/qode-options.php:2353 includes/qode-options.php:2407
+#: includes/qode-options.php:2461 includes/qode-options.php:2529
+#: includes/qode-options.php:2930 includes/qode-options.php:3154
+#: includes/qode-options.php:3607 includes/qode-options.php:3661
+#: includes/qode-options.php:3715 includes/qode-options.php:3919
+#: includes/qode-options.php:3982
+msgid "Font style"
+msgstr "Lettertype stijl"
+
+# @ qode
+#: includes/qode-options.php:970 includes/qode-options.php:1033
+#: includes/qode-options.php:1097 includes/qode-options.php:1161
+#: includes/qode-options.php:1225 includes/qode-options.php:1289
+#: includes/qode-options.php:1355 includes/qode-options.php:1398
+#: includes/qode-options.php:1459 includes/qode-options.php:1489
+#: includes/qode-options.php:1518 includes/qode-options.php:1569
+#: includes/qode-options.php:1598 includes/qode-options.php:1664
+#: includes/qode-options.php:2057 includes/qode-options.php:2135
+#: includes/qode-options.php:2224 includes/qode-options.php:2293
+#: includes/qode-options.php:2361 includes/qode-options.php:2415
+#: includes/qode-options.php:2469 includes/qode-options.php:2537
+#: includes/qode-options.php:2939 includes/qode-options.php:3031
+#: includes/qode-options.php:3067 includes/qode-options.php:3103
+#: includes/qode-options.php:3163 includes/qode-options.php:3615
+#: includes/qode-options.php:3669 includes/qode-options.php:3723
+#: includes/qode-options.php:3796 includes/qode-options.php:3824
+#: includes/qode-options.php:3927 includes/qode-options.php:3990
+#: includes/qode-options.php:4916
+msgid "Font weight"
+msgstr "Lettergewicht"
+
+# @ qode
+#: includes/qode-options.php:984 includes/qode-options.php:1047
+#: includes/qode-options.php:1111 includes/qode-options.php:1175
+#: includes/qode-options.php:1239 includes/qode-options.php:1304
+#: includes/qode-options.php:1678 includes/qode-options.php:2072
+#: includes/qode-options.php:2159 includes/qode-options.php:2248
+#: includes/qode-options.php:2317 includes/qode-options.php:2493
+#: includes/qode-options.php:2551 includes/qode-options.php:3941
+#: includes/qode-options.php:4004
+msgid "Letter spacing (px)"
+msgstr "Letter afstand (px)"
+
+# @ qode
+#: includes/qode-options.php:1000
+msgid "H2 style"
+msgstr "H2 stijl"
+
+# @ qode
+#: includes/qode-options.php:1063
+msgid "H3 style"
+msgstr "H3 stijl"
+
+# @ qode
+#: includes/qode-options.php:1127
+msgid "H4 style"
+msgstr "H4 stijl"
+
+# @ qode
+#: includes/qode-options.php:1191
+msgid "H5 style"
+msgstr "H5 stijl"
+
+# @ qode
+#: includes/qode-options.php:1255
+msgid "H6 style"
+msgstr "H6 stijl"
+
+# @ qode
+#: includes/qode-options.php:1321
+msgid "Text style"
+msgstr "Tekst stijl"
+
+# @ qode
+#: includes/qode-options.php:1370
+msgid "Top/Bottom margin (px)"
+msgstr "Top/beneden margin (px)"
+
+# @ qode
+#: includes/qode-options.php:1376
+msgid "Link style"
+msgstr "Link stijl"
+
+# @ qode
+#: includes/qode-options.php:1384 includes/qode-options.php:2194
+#: includes/qode-options.php:2507 includes/qode-options.php:2904
+#: includes/qode-options.php:3892 includes/qode-options.php:3955
+msgid "Hover color"
+msgstr "Hover kleur"
+
+# @ qode
+#: includes/qode-options.php:1413
+msgid "Font decoration"
+msgstr "Lettertype decoratie"
+
+# @ qode
+#: includes/qode-options.php:1425
+msgid "Page title style"
+msgstr "Pagina titel stijl"
+
+# @ qode
+#: includes/qode-options.php:3230
+msgid "Icon Color"
+msgstr "Icoon kleur"
+
+# @ qode
+#: includes/qode-options.php:1703
+msgid "Header in grid"
+msgstr "Header in grid"
+
+# @ qode
+#: includes/qode-options.php:1714
+msgid "Show header top area"
+msgstr "Toon bovenste gebied in header"
+
+# @ qode
+#: includes/qode-options.php:1725
+msgid "Scroll header top area"
+msgstr "Scroll bovenste gebied in header"
+
+# @ qode
+#: includes/qode-options.php:1779
+msgid "Header bottom appearance"
+msgstr "Vormgeving onderste gebied in header"
+
+# @ qode
+#: includes/qode-options.php:1794
+msgid "Header style"
+msgstr "Header stijl"
+
+# @ qode
+#: includes/qode-options.php:1806
+msgid "Menu position"
+msgstr "Menu positie"
+
+# @ qode
+#: includes/qode-options.php:1817
+msgid "Top background color"
+msgstr "Top achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:1820 includes/qode-options.php:2993
+#: includes/qode-options.php:3209 includes/qode-options.php:3227
+#: includes/qode-options.php:3766 includes/qode-options.php:4010
+#: includes/qode-options.php:4072 includes/qode-options.php:4423
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:1827
+msgid "Bottom background color"
+msgstr "Achtergrondkleur onderkant"
+
+# @ qode
+#: includes/qode-options.php:1830 includes/qode-options.php:1850
+#: includes/qode-options.php:1888
+msgid "Initial"
+msgstr "Initieel"
+
+# @ qode
+#: includes/qode-options.php:1835 includes/qode-options.php:1892
+msgid "Scrolled (fixed style)"
+msgstr "Scrollen (vastgezette stijl)"
+
+# @ qode
+#: includes/qode-options.php:1840 includes/qode-options.php:1896
+msgid "Sticky"
+msgstr "Klevend"
+
+# @ qode
+#: includes/qode-options.php:1867
+msgid "Header separator color"
+msgstr "Header scheiding kleur"
+
+# @ qode
+#: includes/qode-options.php:1885
+msgid "Transparency"
+msgstr "Transparantie"
+
+# @ qode
+#: includes/qode-options.php:1902
+msgid "Logo"
+msgstr "Logo"
+
+# @ qode
+#: includes/qode-options.php:1933
+msgid "Center logo"
+msgstr "Centreer logo"
+
+# @ qode
+#: includes/qode-options.php:1952
+msgid "Header height"
+msgstr "Header hoogte"
+
+# @ qode
+#: includes/qode-options.php:1955
+msgid "Initial (px)"
+msgstr "Initieel (px)"
+
+# @ qode
+#: includes/qode-options.php:1959
+msgid "Scrolled - fixed style (px)"
+msgstr "Scrollen - vastgezette stijl (px)"
+
+# @ qode
+#: includes/qode-options.php:1963
+msgid "Sticky (px)"
+msgstr "Klevend (px)"
+
+# @ qode
+#: includes/qode-options.php:1974
+msgid "Scroll amount for sticky appear (px)"
+msgstr "Afstand om te scrollen voordat klevend element verschijnt (px)"
+
+# @ qode
+#: includes/qode-options.php:1982
+msgid "Dropdown main menu"
+msgstr "Hoofdmenu dropdown"
+
+# @ qode
+#: includes/qode-options.php:1985 includes/qode-options.php:2488
+#: includes/qode-options.php:2586 includes/qode-options.php:2796
+#: includes/qode-options.php:2822 includes/qode-options.php:2955
+#: includes/qode-options.php:3179 includes/qode-options.php:3489
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:1990 includes/qode-options.php:4017
+msgid "Transparency (From 0 to 1)"
+msgstr "Transparantie (van 0 tot 1)"
+
+# @ qode
+#: includes/qode-options.php:1996 includes/qode-options.php:3577
+msgid "1st level menu style"
+msgstr "1e niveau menu stijl"
+
+# @ qode
+#: includes/qode-options.php:2104 includes/qode-options.php:2263
+#: includes/qode-options.php:2331 includes/qode-options.php:2385
+#: includes/qode-options.php:2439 includes/qode-options.php:3585
+#: includes/qode-options.php:3639 includes/qode-options.php:3693
+msgid "Hover/Active color"
+msgstr "Hover/actief kleur"
+
+# @ qode
+#: includes/qode-options.php:2096 includes/qode-options.php:3631
+msgid "2nd level menu style"
+msgstr "2e niveau menu stijl"
+
+# @ qode
+#: includes/qode-options.php:2255 includes/qode-options.php:3685
+msgid "3rd level menu style"
+msgstr "3e niveau menu stijl"
+
+# @ qode
+#: includes/qode-options.php:2323
+msgid "Fixed menu"
+msgstr "Gefixeerd menu"
+
+# @ qode
+#: includes/qode-options.php:2377
+msgid "Sticky menu"
+msgstr "Klevend menu"
+
+# @ qode
+#: includes/qode-options.php:2431
+msgid "Mobile menu style"
+msgstr "Mobiel menu stijl"
+
+# @ qode
+#: includes/qode-options.php:2483
+msgid "Separator color"
+msgstr "Scheidingsteken kleur"
+
+# @ qode
+# @ js_composer
+#: includes/qode-options.php:2567 includes/qode-options.php:3812
+#: includes/qode-options.php:3815 includes/qode-options.php:4693
+#: vc_templates/vc_text_separator.php:4
+msgid "Title"
+msgstr "Titel"
+
+# @ qode
+#: includes/qode-options.php:2570
+msgid "Animate title area"
+msgstr "Animeer het titel gebied"
+
+# @ qode
+#: includes/qode-options.php:2579
+msgid "Text shadow"
+msgstr "Tekst schaduw"
+
+# @ qode
+#: includes/qode-options.php:2592
+msgid "Responsive title image"
+msgstr "Responsive titel afbeelding"
+
+# @ qode
+#: includes/qode-options.php:2599
+msgid "Parallax title image"
+msgstr "Parallax titel afbeelding"
+
+# @ qode
+#: includes/qode-options.php:2605 includes/qode-options.php:2623
+msgid "Only if title image is not responsive"
+msgstr "Alleen als de afbeelding niet responsive is"
+
+# @ qode
+#: includes/qode-options.php:2609
+msgid "Title image"
+msgstr "Titel afbeelding"
+
+# @ qode
+#: includes/qode-options.php:2615
+msgid "Title pattern overlay image"
+msgstr "Titel patroonbedekking afbeelding"
+
+# @ qode
+#: includes/qode-options.php:2621
+msgid "Title height (px)"
+msgstr "Titel hoogte (px)"
+
+# @ qode
+#: includes/qode-options.php:2627
+msgid "Title position"
+msgstr "Titel positie"
+
+# @ qode
+#: includes/qode-options.php:2653
+msgid "Predefined title sizes"
+msgstr "Voorgedefinieerde titel afmetingen"
+
+# @ qode
+#: includes/qode-options.php:2713
+msgid "Uncovering footer"
+msgstr "Onthullen van footer"
+
+# @ qode
+#: includes/qode-options.php:2724
+msgid "Footer in grid"
+msgstr "Footer in grid"
+
+# @ qode
+#: includes/qode-options.php:2735
+msgid "Show footer top"
+msgstr "Toon footer bovenkant"
+
+# @ qode
+#: includes/qode-options.php:2746
+msgid "Footer top columns"
+msgstr "Footer bovenkant kolommen"
+
+# @ qode
+#: includes/qode-options.php:2761
+msgid "Show footer bottom"
+msgstr "Toon footer onderkant"
+
+# @ qode
+#: includes/qode-options.php:2773
+msgid "Footer top colors"
+msgstr "Footer bovenkant kleuren"
+
+# @ qode
+#: includes/qode-options.php:2776
+msgid "Title color"
+msgstr "Titel kleur"
+
+# @ qode
+#: includes/qode-options.php:2781 includes/qode-options.php:2812
+#: includes/qode-options.php:3499
+msgid "Text color"
+msgstr "Tekst kleur"
+
+# @ qode
+#: includes/qode-options.php:2786
+msgid "Link color"
+msgstr "Link kleur"
+
+# @ qode
+#: includes/qode-options.php:2791
+msgid "Link hover color"
+msgstr "Link hover kleur"
+
+# @ qode
+#: includes/qode-options.php:2809
+msgid "Footer bottom colors"
+msgstr "Footer onderkant kleuren"
+
+# @ qode
+#: includes/qode-options.php:2851 includes/qode-options.php:2877
+msgid "Thickness (px)"
+msgstr "Dikte (px)"
+
+# @ qode
+#: includes/qode-options.php:2855 includes/qode-options.php:2885
+msgid "Top margin (px)"
+msgstr "Top margin (px)"
+
+# @ qode
+#: includes/qode-options.php:2859 includes/qode-options.php:2889
+msgid "Bottom margin (px)"
+msgstr "Onderkant margin (px)"
+
+# @ qode
+#: includes/qode-options.php:2960
+msgid "Hover background color"
+msgstr "Hover achtergrond kleur"
+
+# @ qode
+#: includes/qode-options.php:2556 includes/qode-options.php:2965
+#: includes/qode-options.php:3494
+msgid "Border color"
+msgstr "Rand kleur"
+
+# @ qode
+#: includes/qode-options.php:3129
+msgid "Message box style"
+msgstr "Berichten box stijl"
+
+# @ qode
+#: includes/qode-options.php:3186
+msgid "Message icon style"
+msgstr "Berichten icoon stijl"
+
+# @ qode
+#: includes/qode-options.php:3201
+msgid "Blockquote style"
+msgstr "Blokquote stijl"
+
+# @ qode
+#: includes/qode-options.php:2988 includes/qode-options.php:3214
+#: includes/qode-options.php:3434 includes/qode-options.php:4418
+msgid "Border Color"
+msgstr "Rand kleur"
+
+# @ qode
+#: includes/qode-options.php:3219
+msgid "Quote Icon Color"
+msgstr "Quote icoon kleur"
+
+# @ qode
+#: includes/qode-options.php:3240
+msgid "Icon Border Color"
+msgstr "Icoon rand kleur"
+
+# @ qode
+#: includes/qode-options.php:3747
+msgid "Enable Side Area"
+msgstr "Schakel zijkant-gebied in"
+
+# @ qode
+#: includes/qode-options.php:3758
+msgid "Side Area Title"
+msgstr "Zijkant-gebied titel"
+
+# @ qode
+#: includes/qode-options.php:2998
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+# @ qode
+#: includes/qode-options.php:4031
+msgid "Enable Content Bottom Area"
+msgstr "Schakel inhoud onderkant gebied in"
+
+# @ qode
+#: includes/qode-options.php:4042
+msgid "Content bottom sidebar to display"
+msgstr "Inhoud onderkant zijbalk om weer te geven"
+
+# @ qode
+#: includes/qode-options.php:4061
+msgid "Content bottom in grid"
+msgstr "Inhoud onderkant in grid"
+
+# @ qode
+#: includes/qode-options.php:4089
+msgid "Parallax on touch devices"
+msgstr "Parallax op aanraakgevoelige apparaten"
+
+# @ qode
+#: includes/qode-options.php:4100
+msgid "Parallax min height (px)"
+msgstr "Parallax minimum hoogte (px)"
+
+# @ qode
+#: includes/qode-options.php:4104
+msgid "Set min-height for last two stages"
+msgstr "Stel minimum hoogte in voor de laatste twee onderdelen"
+
+# @ qode
+#: includes/qode-options.php:4117
+msgid "Portfolio style"
+msgstr "Portfolio stijl"
+
+# @ qode
+#: includes/qode-options.php:4131
+msgid "Portfolio Qode Like"
+msgstr "Portfolio Qode Like"
+
+# @ qode
+#: includes/qode-options.php:4140
+msgid "Lightbox for single project"
+msgstr "Lightbox voor één project"
+
+# @ qode
+#: includes/qode-options.php:4151
+msgid "Number of columns for Portfolio gallery style"
+msgstr "Aantal kolommen in het Portfolio met galerij stijl"
+
+# @ qode
+#: includes/qode-options.php:4195
+msgid "Portfolio single slug"
+msgstr "Portfolio enkel project slug"
+
+# @ qode
+#: includes/qode-options.php:4199
+msgid "When you put the slug for portfolio page, you should navigate to "
+msgstr "Als je een slug voor de portfolio pagina in wilt stellen, ga dan naar "
+
+# @ qode
+#: includes/qode-options.php:4199
+msgid " and click save button."
+msgstr "en klik op de knop opslaan."
+
+# @ qode
+#: includes/qode-options.php:4199
+msgid "Settings -> Permalinks"
+msgstr "Instellingen -> Permalinks"
+
+# @ qode
+#: includes/qode-options.php:4223
+msgid "Quote/Link box color"
+msgstr "Quote/link box kleur"
+
+# @ qode
+#: includes/qode-options.php:4231
+msgid "Pagination"
+msgstr "Paginering"
+
+# @ qode
+#: includes/qode-options.php:4240
+msgid "Choose blog layout"
+msgstr "Kies blog layout"
+
+# @ qode
+#: includes/qode-options.php:4243
+msgid "Blog Large Image"
+msgstr "Blog grote afbeelding"
+
+# @ qode
+#: includes/qode-options.php:4244
+msgid "Blog Masonry"
+msgstr "Blog Masonry"
+
+# @ qode
+#: includes/qode-options.php:4246
+msgid "Blog Large Image Whole Post"
+msgstr "Blog grote afbeelding volledig bericht"
+
+# @ qode
+#: includes/qode-options.php:4247
+msgid "Blog Small Image"
+msgstr "Blog kleine afbeelding"
+
+# @ qode
+#: includes/qode-options.php:4253
+msgid "Blog sidebar"
+msgstr "Blog zijbalk"
+
+# @ qode
+#: includes/qode-options.php:4263
+msgid "For category list"
+msgstr "Voor categorie lijst"
+
+# @ qode
+#: includes/qode-options.php:4267
+msgid "Hide comments"
+msgstr "Verberg reactie's"
+
+# @ qode
+#: includes/qode-options.php:4285
+msgid "Blog Qode Like"
+msgstr "Blog Qode Like"
+
+# @ qode
+#: includes/qode-options.php:4294
+msgid "Page Range For Pagination"
+msgstr "Pagina-bereik voor paginering"
+
+# @ qode
+#: includes/qode-options.php:4300
+msgid "Number of words"
+msgstr "Aantal woorden"
+
+# @ qode
+#: includes/qode-options.php:4303
+msgid "Number of words in blog listing"
+msgstr "Aantal woorden in blog overzicht"
+
+# @ qode
+#: includes/qode-options.php:4307
+msgid "Number of words in masonry blog template"
+msgstr "Aantal woorden in masonry blog template"
+
+# @ qode
+#: includes/qode-options.php:4313
+msgid "Number of words in large image blog template"
+msgstr "Aantal woorden in grote afbeelding blog template"
+
+# @ qode
+#: includes/qode-options.php:4318
+msgid "Number of words in small image blog template"
+msgstr "Number of words in large image blog template"
+
+# @ qode
+#: includes/qode-options.php:4163 includes/qode-options.php:4435
+msgid "Sidebar layout"
+msgstr "Zijbalk layout"
+
+# @ qode
+#: includes/qode-options.php:4176 includes/qode-options.php:4448
+msgid "Sidebar to display"
+msgstr "Zijbalk om weer te geven"
+
+# @ qode
+#: includes/qode-options.php:4467
+msgid "Show Blog Author"
+msgstr "Toon blog auteur"
+
+# @ qode
+#: includes/qode-options.php:4485
+msgid "Mail send to"
+msgstr "E-mail verzenden naar"
+
+# @ qode
+#: includes/qode-options.php:4491
+msgid "Enable Contact Form"
+msgstr "Schakel contactformulier in"
+
+# @ qode
+#: includes/qode-options.php:4500
+msgid "Hide Website Field"
+msgstr "Verberg website veld"
+
+# @ qode
+#: includes/qode-options.php:4509
+msgid "Email From"
+msgstr "E-mail van-adres"
+
+# @ qode
+#: includes/qode-options.php:4515
+msgid "Email Subject"
+msgstr "E-mail onderwerp"
+
+# @ qode
+#: includes/qode-options.php:4521
+msgid "Use reCaptcha"
+msgstr "Gebruik reCaptcha"
+
+# @ qode
+#: includes/qode-options.php:4530
+msgid "ReCaptcha public key"
+msgstr "ReCaptcha publieke sleutel"
+
+# @ qode
+#: includes/qode-options.php:4537
+msgid "ReCaptcha private key"
+msgstr "ReCaptcha privé sleutel"
+
+# @ qode
+#: includes/qode-options.php:4544
+msgid "Heading above contact form"
+msgstr "Kop boven contactformulier"
+
+# @ qode
+#: includes/qode-options.php:4582
+msgid "Enable Google Map"
+msgstr "Schakel Google Map kaart in"
+
+# @ qode
+#: includes/qode-options.php:4593
+msgid "Pin image"
+msgstr "Pin afbeelding"
+
+# @ qode
+#: includes/qode-options.php:4602
+msgid "Google map address"
+msgstr "Google map adres"
+
+# @ qode
+#: includes/qode-options.php:4605
+msgid "Example (Louvre Museum, Paris, France)"
+msgstr "Voorbeeld (Louvre museum, Parijs, Frankrijk)"
+
+# @ qode
+#: includes/qode-options.php:4609
+msgid "Google map address 2"
+msgstr "Google map adres 2"
+
+# @ qode
+#: includes/qode-options.php:4615
+msgid "Google map address 3"
+msgstr "Google map adres 3"
+
+# @ qode
+#: includes/qode-options.php:4621
+msgid "Google map address 4"
+msgstr "Google map adres 4"
+
+# @ qode
+#: includes/qode-options.php:4627
+msgid "Google map address 5"
+msgstr "Google map adres 5"
+
+# @ qode
+#: includes/qode-options.php:4633
+msgid "Google map zoom"
+msgstr "Google map zoom"
+
+# @ qode
+#: includes/qode-options.php:4639
+msgid "Google map height (px)"
+msgstr "Google map hoogte(px)"
+
+# @ qode
+#: includes/qode-options.php:4645
+msgid "Google map style"
+msgstr "Google map stijl"
+
+# @ qode
+#: includes/qode-options.php:4654
+msgid "Google map color"
+msgstr "Google map kleur"
+
+# @ qode
+#: includes/qode-options.php:4675
+msgid "Google map scroll on mouse wheel"
+msgstr "Google map scrollen via muis"
+
+# @ qode
+#: includes/qode-options.php:4699
+msgid "Subtitle"
+msgstr "Ondertitel"
+
+# @ qode
+#: includes/qode-options.php:3775 includes/qode-options.php:4705
+msgid "Text"
+msgstr "Tekst"
+
+# @ qode
+#: includes/qode-options.php:4711
+msgid "Back to home label"
+msgstr "Label Terug naar home"
+
+# @ qode
+#: includes/qode-options.php:4725
+msgid "Enable Social Share"
+msgstr "Schakel Social Delen in"
+
+# @ qode
+#: includes/qode-options.php:4734
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ qode
+#: includes/qode-options.php:4737
+msgid "Enable Facebook"
+msgstr "Facebook inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4744 includes/qode-options.php:4761
+#: includes/qode-options.php:4782 includes/qode-options.php:4799
+msgid "Share Icon"
+msgstr "Deel icoon"
+
+# @ qode
+#: includes/qode-options.php:4751
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ qode
+#: includes/qode-options.php:4754
+msgid "Enable Twitter"
+msgstr "Twitter inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4766
+msgid "Via"
+msgstr "Via"
+
+# @ qode
+#: includes/qode-options.php:4772
+msgid "Google +"
+msgstr "Google +"
+
+# @ qode
+#: includes/qode-options.php:4775
+msgid "Enable Google +"
+msgstr "Google + inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4789
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+# @ qode
+#: includes/qode-options.php:4792
+msgid "Enable LinkedIn"
+msgstr "LinkedIn inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4806
+msgid "Tumblr"
+msgstr "Tumblr"
+
+# @ qode
+#: includes/qode-options.php:4809
+msgid "Enable Tumblr"
+msgstr "Tumblr inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4816
+msgid "Tumblr Icon"
+msgstr "Tumblr icoon"
+
+# @ qode
+#: includes/qode-options.php:4823
+msgid "Pinterest"
+msgstr "Pinterest"
+
+# @ qode
+#: includes/qode-options.php:4826
+msgid "Enable Pinterest"
+msgstr "Pinterest inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4833
+msgid "Pinterest Icon"
+msgstr "Pinterest icoon"
+
+# @ qode
+#: includes/qode-options.php:4840
+msgid "VK"
+msgstr "VK"
+
+# @ qode
+#: includes/qode-options.php:4843
+msgid "Enable VK"
+msgstr "VK inschakelen"
+
+# @ qode
+#: includes/qode-options.php:4850
+msgid "VK Icon"
+msgstr "VK icoon"
+
+# @ qode
+#: includes/qode-options.php:4857
+msgid "Show For"
+msgstr "Toon aan"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:1613
+#: includes/shortcodes/shortcodes.php:1778
+#: includes/shortcodes/shortcodes.php:1802
+msgid "No comment"
+msgstr "Geen reactie"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2369
+#: includes/shortcodes/shortcodes.php:2400
+#: includes/shortcodes/shortcodes.php:2609 templates/masonry-filter.php:28
+msgid "All"
+msgstr "Alles"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2589
+#: includes/shortcodes/shortcodes.php:2751
+#: includes/shortcodes/shortcodes.php:2882
+#: includes/shortcodes/shortcodes.php:3968
+#: includes/shortcodes/shortcodes.php:4796
+#: includes/shortcodes/shortcodes.php:4906
+msgid "Sorry, no posts matched your criteria."
+msgstr "Sorry, geen berichten gevonden voor opgegeven criteria"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2597 templates/blog-structure.php:116
+#: templates/blog-structure.php:121
+msgid "Show more"
+msgstr "Toon meer"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3371
+msgid "Share"
+msgstr "Deel"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:4777
+msgid "Sorry, no slides matched your criteria."
+msgstr "Sorry, geen slider gevonden voor opgegeven criteria"
+
+# @ qode
+#: includes/sidebar/qode-custom-sidebar.php:18
+msgid "Custom Widget Area"
+msgstr "Aangepaste widget gebied"
+
+# @ default
+#: includes/sidebar/qode-custom-sidebar.php:42
+msgid "Enter Name of the new Widget Area"
+msgstr "Voer naam in voor het nieuwe Widget gebied"
+
+# @ default
+#: includes/sidebar/qode-custom-sidebar.php:43
+msgid "Add Widget Area"
+msgstr "Widget gebied toevoegen"
+
+# @ qode
+#: js/default_dynamic.php:22
+msgid "Comment has been sent!"
+msgstr "Reactie is verzonden!"
+
+# @ qode
+#: searchform.php:3
+msgid "Search Here"
+msgstr "Zoek hier"
+
+# @ qode
+# @ woocommerce
+#: templates/portfolio-loop.php:210 templates/portfolio-loop.php:393
+#: templates/portfolio-loop.php:575 templates/portfolio-loop.php:769
+#: templates/portfolio-loop.php:984 woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr "Datum"
+
+# @ qode
+#: templates/portfolio-loop.php:221 templates/portfolio-loop.php:404
+#: templates/portfolio-loop.php:586 templates/portfolio-loop.php:780
+#: templates/portfolio-loop.php:995
+msgid "Category "
+msgstr "Categorie"
+
+# @ qode
+#: templates/portfolio-loop.php:253 templates/portfolio-loop.php:436
+#: templates/portfolio-loop.php:541 templates/portfolio-loop.php:735
+#: templates/portfolio-loop.php:950
+msgid "About This Project"
+msgstr "Over dit project"
+
+# @ qode
+#: functions.php:1021
+msgid "Archive"
+msgstr "Archief"
+
+# @ js_composer
+#: vc_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr "Sectie"
+
+# @ js_composer
+#: vc_templates/vc_accordion_tab.php:40 vc_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr "Lege sectie. Pas de pagina aan om hier inhoud toe te voegen."
+
+# @ js_composer
+#: vc_templates/vc_tabs.php:68
+msgid "Previous slide"
+msgstr "Vorige slide"
+
+# @ js_composer
+#: vc_templates/vc_tabs.php:68
+msgid "Next slide"
+msgstr "Volgende slide"
+
+# @ text_domain
+#: widgets/call_to_action_widget.php:8
+msgid "Call to Action Widget"
+msgstr "Call to Action Widget"
+
+# @ qode
+#: widgets/call_to_action_widget.php:97
+msgid "Text:"
+msgstr "Tekst:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:102
+msgid "Text Color:"
+msgstr "Tekst kleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:107
+msgid "Text Size:"
+msgstr "Tekst grote:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:134
+msgid "Background Color:"
+msgstr "Achtergrondkleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:154
+msgid "Show Button:"
+msgstr "Toon knop:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:167
+msgid "Button Text:"
+msgstr "Tekst knop:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:202
+msgid "Button Border Color:"
+msgstr "Kleur knoprand:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:162
+msgid "Button Link:"
+msgstr "Knop link:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:172
+msgid "Button Target:"
+msgstr "Knop doel:"
+
+# @ text_domain
+#: widgets/latest_posts_menu.php:8
+msgid "Menu Latest Posts"
+msgstr "Menu laatste berichten"
+
+# @ qode
+#: widgets/latest_posts_menu.php:50
+msgid "Posted in"
+msgstr "Geplaatst in"
+
+# @ qode
+#: widgets/latest_posts_menu.php:51
+msgid " by"
+msgstr "door"
+
+# @ qode
+#: widgets/latest_posts_menu.php:83 widgets/relate_posts_widget.php:75
+msgid "Title:"
+msgstr "Titel:"
+
+# @ qode
+#: widgets/latest_posts_menu.php:87 widgets/relate_posts_widget.php:79
+msgid "Number of posts:"
+msgstr "Aantal berichten:"
+
+# @ qode
+#: widgets/latest_posts_menu.php:91
+msgid "Category:"
+msgstr "Categorie:"
+
+# @ text_domain
+#: widgets/relate_posts_widget.php:8
+msgid "Related Posts Widget"
+msgstr "Gerelateerde berichten widget:"
+
+# @ qode
+#: widgets/relate_posts_widget.php:15
+msgid "Related Posts"
+msgstr "Gerelateerde berichten"
+
+# @ qode
+#: widgets/woocommerce-dropdown-cart.php:8
+msgid "Woocommerce Dropdown Cart"
+msgstr "Woocommerce Dropdown winkelwagen"
+
+# @ woocommerce
+#: widgets/woocommerce-dropdown-cart.php:64
+msgid "No products in the cart."
+msgstr "Geen producten in het winkelwagentje."
+
+# @ woocommerce
+#: widgets/woocommerce-dropdown-cart.php:74
+msgid "Cart"
+msgstr "Winkelwagentje"
+
+# @ woocommerce
+#: widgets/woocommerce-dropdown-cart.php:76 woocommerce/cart/cart.php:30
+#: woocommerce/myaccount/my-orders.php:35
+msgid "Total"
+msgstr "Totaal"
+
+# @ woocommerce
+#: woocommerce/cart/cart-empty.php:17
+msgid "Your cart is currently empty."
+msgstr "Je winkelwagentje is leeg."
+
+# @ woocommerce
+#: woocommerce/cart/cart-empty.php:21
+msgid "Return To Shop"
+msgstr "Terug naar winkel"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr "Product"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr "Prijs"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr "Aantal"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr "Verwijder dit product"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr "Beschikbaar als nalevering"
+
+# @ woocommerce
+#: woocommerce/global/quantity-input.php:12
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Aantal"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:118
+msgid "Coupon"
+msgstr "Kortingscode"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:26
+msgid "Apply Coupon"
+msgstr "Kortingscode toepassen"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:125
+msgid "Update Cart"
+msgstr "Winkelwagentje bijwerken"
+
+# @ woocommerce
+#: woocommerce/checkout/form-coupon.php:17
+msgid "Have a coupon?"
+msgstr "Heeft u een kortingscode?"
+
+# @ woocommerce
+#: woocommerce/checkout/form-coupon.php:20
+msgid "Click here to enter your code"
+msgstr "Klik hier om een kortingscode in te voeren"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:118 woocommerce/checkout/form-coupon.php:25
+msgid "Enter coupon code"
+msgstr "Voer kortingscode in"
+
+# @ woocommerce
+#: woocommerce/checkout/form-login.php:14
+msgid "Returning customer?"
+msgstr "Terugkerende klant?"
+
+# @ woocommerce
+#: woocommerce/checkout/form-login.php:17
+msgid "Click here to login"
+msgstr "Klik hier om in te loggen"
+
+# @ woocommerce
+#: woocommerce/checkout/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Heeft u eerder gewinkeld bij ons, voer dan hieronder uw gegevens in. Als u "
+"een nieuwe klant bent gaat u door naar het onderdeel Betalen&Verzenden."
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+"Uw order kan niet worden verwerkt omdat de bank/verkoper uw transactie heeft "
+"geweigerd."
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr "Probeer opnieuw te bestellen of ga naar uw account pagina."
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr "Probeer opnieuw te bestellen."
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:71
+msgid "Pay"
+msgstr "Betaal"
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr "Mijn account"
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr "Bedankt. Uw bestelling is ontvangen."
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order:"
+msgstr "Bestelling:"
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr "Datum:"
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr "Totaal:"
+
+# @ woocommerce
+#: woocommerce/checkout/thankyou.php:53
+msgid "Payment method:"
+msgstr "Betalingsmethode:"
+
+# @ woocommerce
+#: woocommerce/loop/add-to-cart.php:14
+msgid "Out of stock"
+msgstr "Niet op voorraad"
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:28
+msgid "Showing the single result"
+msgstr "Tonen één resultaat"
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:30
+#, php-format
+msgid "Showing all %d results"
+msgstr "Tonen alle %d resultaten"
+
+# @ woocommerce
+#: woocommerce/loop/result-count.php:32
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid "%1$d–%2$d of %3$d results"
+msgstr "%1$d–%2$d van %3$d resultaten"
+
+# @ woocommerce
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "Sale"
+msgstr "Uitverkoop"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-change-password.php:20
+#: woocommerce/myaccount/form-lost-password.php:31
+#: woocommerce/myaccount/form-lost-password.php:32
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-change-password.php:21
+#: woocommerce/myaccount/form-lost-password.php:35
+#: woocommerce/myaccount/form-lost-password.php:36
+msgid "Re-enter new password"
+msgstr "Bevestig nieuw wachtwoord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-change-password.php:25
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr "Opslaan"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr "Verzendadres"
+
+# @ woocommerce
+#: woocommerce/global/form-login.php:35
+#: woocommerce/myaccount/form-login.php:25
+#: woocommerce/myaccount/form-login.php:43
+msgid "Login"
+msgstr "Login"
+
+# @ woocommerce
+#: woocommerce/global/form-login.php:24
+#: woocommerce/myaccount/form-login.php:32
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr "Gebruikersnaam of wachtwoord"
+
+# @ woocommerce
+#: woocommerce/global/form-login.php:27
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:76
+msgid "Password"
+msgstr "Wachtwoord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:44
+msgid "Lost Password?"
+msgstr "Wachtwoord vergeten?"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:59
+#: woocommerce/myaccount/form-login.php:87
+msgid "Register"
+msgstr "Registreer"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:66
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+# @ woocommerce
+# @ qode
+#: woocommerce/myaccount/form-login.php:72
+#: woocommerce/woocommerce_configuration.php:58
+msgid "Email"
+msgstr "Email"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+"Wachtwoord vergeten? Vul uw gebruikersnaam of e-mailadres in. U ontvangt een "
+"e-mail met een link om een nieuw wachtwoord aan te maken."
+
+# @ woocommerce
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr "Voer hieronder een nieuw wachtwoord in."
+
+# @ woocommerce
+#: woocommerce/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr "Wachtwoord herstellen"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr "Mijn adressen"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr "Mijn adres"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+"Het volgende adres wordt standaard gebruikt wanneer u een bestelling plaatst."
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr "Aanpassen"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr "U heeft dit type adres nog niet ingesteld."
+
+# @ woocommerce
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr "Recente bestellingen"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr "Bestelling"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-orders.php:62
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] "%s voor %s product"
+msgstr[1] "%s voor %s producten"
+
+# @ woocommerce
+#: woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr "Bekijk"
+
+# @ woocommerce
+#: woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr "Aanvullende informatie"
+
+# @ woocommerce
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr "Product omschrijving"
+
+# @ woocommerce
+#: woocommerce/woocommerce_configuration.php:206
+msgid "Search for:"
+msgstr "Zoek naar:"
+
+# @ woocommerce
+#: woocommerce/woocommerce_configuration.php:207
+msgid "Search Products"
+msgstr "Zoek producten"
+
+# @ qode
+#: 404.php:12
+msgid ""
+"The page you are looking for does not exist. It may have been moved, or "
+"removed altogether. Perhaps you can return back to the site’s homepage and "
+"see if you can find what you are looking for."
+msgstr ""
+"De pagina die je zoekt bestaat niet. Hij kan verplaatst of geheel verwijderd "
+"zijn. Wellicht kun je terugkeren naar de home pagina om te zien of je kunt "
+"vinden wat je zoekt."
+
+# @ qode
+#: comments.php:46
+msgid "Write your comment here..."
+msgstr "Schrijf hier uw reactie..."
+
+# @ qode
+#: comments.php:50
+msgid "Your full name"
+msgstr "Uw volledige naam"
+
+# @ qode
+#: comments.php:51
+msgid "E-mail address"
+msgstr "E-mailadres"
+
+# @ qode
+#: comments.php:52 contact-page.php:115
+msgid "Website"
+msgstr "Website"
+
+# @ qode
+#: contact-page.php:69
+msgid "Get in touch with us"
+msgstr "Neem contact met ons op"
+
+# @ qode
+#: contact-page.php:92
+msgid "First Name *"
+msgstr "Voornaam *"
+
+# @ qode
+#: contact-page.php:98
+msgid "Last Name *"
+msgstr "Achternaam *"
+
+# @ qode
+#: contact-page.php:103 contact-page.php:109
+msgid "Email *"
+msgstr "E-mail *"
+
+# @ qode
+#: contact-page.php:120
+msgid "Message"
+msgstr "Bericht"
+
+# @ default
+#: extendvc/extend-vc.php:4353
+msgid "Select Yes if you want to use custom icon size and margin"
+msgstr ""
+"Selecteer Ja als je gebruik wilt maken van een aangepast icoon en margin"
+
+# @ qode
+#: includes/comment/comment.php:12 templates/blog_large_image-loop.php:54
+#: templates/blog_large_image-loop.php:97
+#: templates/blog_large_image-loop.php:151
+#: templates/blog_large_image-loop.php:188
+#: templates/blog_large_image-loop.php:225
+#: templates/blog_large_image-loop.php:271
+#: templates/blog_large_image_whole_post-loop.php:54
+#: templates/blog_large_image_whole_post-loop.php:97
+#: templates/blog_large_image_whole_post-loop.php:134
+#: templates/blog_large_image_whole_post-loop.php:190
+#: templates/blog_large_image_whole_post-loop.php:227
+#: templates/blog_large_image_whole_post-loop.php:273
+#: templates/blog_search-loop.php:31 templates/blog_single-loop.php:52
+#: templates/blog_single-loop.php:89 templates/blog_single-loop.php:121
+#: templates/blog_single-loop.php:175 templates/blog_single-loop.php:208
+#: templates/blog_single-loop.php:251 templates/blog_small_image-loop.php:54
+#: templates/blog_small_image-loop.php:98
+#: templates/blog_small_image-loop.php:142
+#: templates/blog_small_image-loop.php:195
+#: templates/blog_small_image-loop.php:239
+#: templates/blog_small_image-loop.php:285
+msgid "Posted at"
+msgstr "Geplaatst op"
+
+# @ qode
+#: includes/import/qode-import.php:185
+msgid "Bridge - One-Click Import Demo Content"
+msgstr "Bridge - Eén-klik import demo inhoud"
+
+# @ qode
+#: includes/qode-like.php:48 includes/qode-like.php:65
+msgid " Likes"
+msgstr "Likes"
+
+# @ qode
+#: includes/qode-like.php:50 includes/qode-like.php:67
+msgid " Like"
+msgstr "Like"
+
+# @ qode
+#: includes/qode-options.php:839
+msgid "For Chrome and Opera browsers"
+msgstr "Voor Chrome en Opera browsers"
+
+# @ qode
+#: includes/qode-options.php:1905
+msgid "Logo image - normal"
+msgstr "Logo afbeelding - normaal"
+
+# @ qode
+#: includes/qode-options.php:1910
+msgid "Logo image - light"
+msgstr "Logo afbeelding - licht"
+
+# @ qode
+#: includes/qode-options.php:1915
+msgid "Logo image - dark"
+msgstr "Logo afbeelding - donker"
+
+# @ qode
+#: includes/qode-options.php:1920
+msgid "Logo image - sticky header"
+msgstr "Logo afbeelding - klevende header"
+
+# @ qode
+#: includes/qode-options.php:2636
+msgid "Show title separator"
+msgstr "Toon titel scheiding"
+
+# @ qode
+#: includes/qode-options.php:2682
+msgid "Header Buttons"
+msgstr "Header knoppen"
+
+# @ qode
+#: includes/qode-options.php:2004 includes/qode-options.php:2691
+#: includes/qode-options.php:3478 includes/qode-options.php:3783
+msgid "Hover Color"
+msgstr "Hover kleur"
+
+# @ qode
+#: includes/qode-options.php:2697 includes/qode-options.php:3788
+#: includes/qode-options.php:3820
+msgid "Font Size (px)"
+msgstr "Tekstgrote (px)"
+
+# @ qode
+#: includes/qode-options.php:2970
+msgid "Border Hover color"
+msgstr "Rand Hover kleur"
+
+# @ qode
+#: includes/qode-options.php:3235
+msgid "Icon Background Color"
+msgstr "Achtergrondkleur icoon"
+
+# @ qode
+#: includes/qode-options.php:4276
+msgid "Hide author"
+msgstr "Verberg auteur"
+
+# @ qode
+#: includes/qode-options.php:4324
+msgid "Choose Pagination on Masonry type"
+msgstr "Kies paginering voor Masonry stijl"
+
+# @ qode
+#: includes/qode-options.php:4334
+msgid "Show category filter on masonry style"
+msgstr "Toon categorie filter voor Masonry stijl"
+
+# @ qode
+#: includes/qode-options.php:4550
+msgid "Show Section beetwen map and form"
+msgstr "Toon sectie tussen kaart en formulier"
+
+# @ qode
+#: includes/qode-options.php:4570
+msgid "Title in section between map and form"
+msgstr "Titel in sectie tussen kaart en formulier"
+
+# @ qode
+#: includes/qode-options.php:4576
+msgid "Subtitle in section between map and form"
+msgstr "Ondertitel in sectie tussen kaart en formulier"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2498
+#: includes/shortcodes/shortcodes.php:2537
+#: includes/shortcodes/shortcodes.php:2731
+#: includes/shortcodes/shortcodes.php:2867
+msgid "zoom"
+msgstr "zoom"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2500
+#: includes/shortcodes/shortcodes.php:2539
+#: includes/shortcodes/shortcodes.php:2733
+#: includes/shortcodes/shortcodes.php:2869
+msgid "view"
+msgstr "bekijk"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3497
+msgid "Share on: "
+msgstr "Deel op:"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3502
+msgid "Share on Facebook"
+msgstr "Deel op Facebook"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3518
+msgid "Share on Twitter"
+msgstr "Deel op Twitter"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3530
+msgid "Share on Google+"
+msgstr "Deel op Google+"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3542
+msgid "Share on LinkedIn"
+msgstr "Deel op LinkedIn"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3554
+msgid "Share on Tumblr"
+msgstr "Deel op Tumblr"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3567
+msgid "Share on Pinterest"
+msgstr "Deel op Pinterest"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:3580
+msgid "Share on VK"
+msgstr "Deel op VK"
+
+# @ qode
+#: js/default_dynamic.php:93
+msgid "Loading new posts..."
+msgstr "Nieuwe berichten laden..."
+
+# @ qode
+#: js/default_dynamic.php:97
+msgid "No more posts"
+msgstr "Geen berichten meer"
+
+# @ qode
+#: templates/blog_large_image-loop.php:54
+#: templates/blog_large_image-loop.php:97
+#: templates/blog_large_image-loop.php:151
+#: templates/blog_large_image-loop.php:188
+#: templates/blog_large_image-loop.php:225
+#: templates/blog_large_image-loop.php:271
+#: templates/blog_large_image_whole_post-loop.php:54
+#: templates/blog_large_image_whole_post-loop.php:97
+#: templates/blog_large_image_whole_post-loop.php:134
+#: templates/blog_large_image_whole_post-loop.php:190
+#: templates/blog_large_image_whole_post-loop.php:227
+#: templates/blog_large_image_whole_post-loop.php:273
+#: templates/blog_search-loop.php:31 templates/blog_single-loop.php:52
+#: templates/blog_single-loop.php:89 templates/blog_single-loop.php:121
+#: templates/blog_single-loop.php:175 templates/blog_single-loop.php:208
+#: templates/blog_single-loop.php:251 templates/blog_small_image-loop.php:54
+#: templates/blog_small_image-loop.php:98
+#: templates/blog_small_image-loop.php:142
+#: templates/blog_small_image-loop.php:195
+#: templates/blog_small_image-loop.php:239
+#: templates/blog_small_image-loop.php:285
+msgid "h"
+msgstr "h"
+
+# @ qode
+#: functions.php:992
+msgid "404 - Page not found"
+msgstr "404 - Pagina niet gevonden"
+
+# @ qode
+#: widgets/call_to_action_widget.php:81
+msgid "Full Width:"
+msgstr "Volledige breedte:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:83 widgets/call_to_action_widget.php:91
+#: widgets/call_to_action_widget.php:156
+msgid "Yes"
+msgstr "Ja"
+
+# @ qode
+#: widgets/call_to_action_widget.php:84 widgets/call_to_action_widget.php:92
+#: widgets/call_to_action_widget.php:157
+msgid "No"
+msgstr "Nee"
+
+# @ qode
+#: widgets/call_to_action_widget.php:89
+msgid "Content In Grid:"
+msgstr "Inhoud in Grid:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:126
+msgid "Type:"
+msgstr "Type:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:128
+msgid "Normal"
+msgstr "Normaal"
+
+# @ qode
+#: widgets/call_to_action_widget.php:129
+msgid "With Icon"
+msgstr "Met Icoon"
+
+# @ qode
+#: widgets/call_to_action_widget.php:182
+msgid "Button Text Color:"
+msgstr "Knop tekstkleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:187
+msgid "Button Hover Text Color:"
+msgstr "Knop hover tekstkleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:192
+msgid "Button Background Color:"
+msgstr "Knop achtergrondkleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:197
+msgid "Button Hover Background Color:"
+msgstr "Knop hover achtergrondkleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:207
+msgid "Button Hover Border Color:"
+msgstr "Knop hover kleur rand:"
+
+# @ woocommerce
+#: woocommerce/cart/cart.php:125
+msgid "Proceed to Checkout"
+msgstr "Ga door met bestellen"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:22
+msgid "Calculate Shipping"
+msgstr "Verzendkosten berekenen"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:28
+msgid "Select a country&hellip;"
+msgstr "Selecteer een land"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+msgid "State / county"
+msgstr "Provincie"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:52
+msgid "Select a state&hellip;"
+msgstr "Selecteer een provincie"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "City"
+msgstr "Stad"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:80
+msgid "Postcode / Zip"
+msgstr "Postcode"
+
+# @ woocommerce
+#: woocommerce/cart/shipping-calculator.php:85
+msgid "Update Totals"
+msgstr "Werk totaal bij"
+
+# @ woocommerce
+#: woocommerce/global/form-login.php:36
+msgid "Lost your password?"
+msgstr "Wachtwoord verloren?"
+
+# @ woocommerce
+#: woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-login.php:46
+msgid "Remember me"
+msgstr "Onthoudt mij"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:66
+msgid "username"
+msgstr "gebruikersnaam"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:72
+msgid "email"
+msgstr "e-mail"
+
+# @ default
+#: woocommerce/myaccount/form-login.php:76
+msgid "password"
+msgstr "wachtwoord"
+
+# @ woocommerce
+#: woocommerce/myaccount/form-login.php:80
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr "Selecteer een optie"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr "Leeg selectie"
+
+# @ woocommerce
+#: woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr "Dit product is op dit moment niet op voorraad en niet beschikbaar."
+
+# @ woocommerce
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Gerelateerde producten"
+
+# @ woocommerce
+#: woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr "Je vind dit misschien ook leuk"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:54
+#: woocommerce/woocommerce_configuration.php:65
+msgid "First name"
+msgstr "Voornaam"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:55
+#: woocommerce/woocommerce_configuration.php:66
+msgid "Last name"
+msgstr "Achternaam"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:56
+#: woocommerce/woocommerce_configuration.php:67
+msgid "Company name"
+msgstr "Bedrijfsnaam"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:57
+#: woocommerce/woocommerce_configuration.php:68
+msgid "Address"
+msgstr "Adres"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:59
+msgid "Phone"
+msgstr "Telefoonnummer"
+
+# @ qode
+#: woocommerce/woocommerce_configuration.php:60
+#: woocommerce/woocommerce_configuration.php:69
+msgid "Postcode / ZIP"
+msgstr "Postcode"
+
+# @ default
+#: includes/qode-options.php:571
+msgid "Theme Options - Version"
+msgstr "Thema optie's - versie"
+
+# @ qode
+#: templates/portfolio-loop.php:245 templates/portfolio-loop.php:428
+#: templates/portfolio-loop.php:610 templates/portfolio-loop.php:804
+#: templates/portfolio-loop.php:1019
+msgid "Tags"
+msgstr "Tags"
+
+# @ qode
+#: contact-page.php:72
+msgid "Say Hello! Don’t be shy."
+msgstr "Zeg Hallo! Niet verlegen zijn."
+
+# @ qode
+#: includes/qode-custom-taxonomy-field.php:32
+msgid "Parallax effect"
+msgstr "Parallax effect"
+
+# @ qode
+#: includes/qode-options.php:3514
+msgid "Enable left menu area"
+msgstr "Schakel linker menu gebied in"
+
+# @ qode
+#: includes/qode-options.php:3536
+msgid "Left menu area background"
+msgstr "Linker menu gebied achtergrond"
+
+# @ qode
+#: includes/qode-options.php:4480
+msgid "Contact Page"
+msgstr "Contact pagina"
+
+# @ default
+#: extendvc/extend-vc.php:1010
+msgid "Speed of slide animation in milliseconds"
+msgstr "Snelheid van de slide animatie in milliseconden"
+
+# @ qode
+#: extendvc/extend-vc.php:2500
+msgid "Please insert border radius(Rounded corners) in px. For example: 4 "
+msgstr "Voer de border radius(afgeronde hoeken) in pixels in. Bijvoorbeeld: 4 "
+
+# @ qode
+#: functions.php:348
+msgid "Fullscreen Navigation"
+msgstr "Volledig scherm navigatie"
+
+# @ qode
+#: includes/qode-custom-post-types.php:128
+#: includes/qode-custom-post-types.php:138
+msgid "Portfolio Tags"
+msgstr "Portfolio Tags"
+
+# @ qode
+#: includes/qode-custom-post-types.php:129
+msgid "Portfolio Tag"
+msgstr "Portfolio Tag"
+
+# @ qode
+#: includes/qode-custom-post-types.php:130
+msgid "Search Portfolio Tags"
+msgstr "Zoek Portfolio Tags"
+
+# @ qode
+#: includes/qode-custom-post-types.php:131
+msgid "All Portfolio Tags"
+msgstr "Alle Portfolio Tags"
+
+# @ qode
+#: includes/qode-custom-post-types.php:132
+msgid "Parent Portfolio Tag"
+msgstr "Hoofd Portfolio Tag"
+
+# @ qode
+#: includes/qode-custom-post-types.php:133
+msgid "Parent Portfolio Tags:"
+msgstr "Hoofd Portfolio Tags"
+
+# @ qode
+#: includes/qode-custom-post-types.php:134
+msgid "Edit Portfolio Tag"
+msgstr "Bewerk Portfolio Tag"
+
+# @ qode
+#: includes/qode-custom-post-types.php:135
+msgid "Update Portfolio Tag"
+msgstr "Werk Portfolio Tag bij"
+
+# @ qode
+#: includes/qode-custom-post-types.php:136
+msgid "Add New Portfolio Tag"
+msgstr "Voeg nieuw Portfolio Tag toe"
+
+# @ qode
+#: includes/qode-custom-post-types.php:137
+msgid "New Portfolio Tag Name"
+msgstr "Naam nieuwe Portfolio Tag"
+
+# @ qode
+#: includes/qode-options.php:802
+msgid "Loading animation spinner"
+msgstr "Laden animatie spinner"
+
+# @ qode
+#: includes/qode-options.php:819
+msgid "Spinner color"
+msgstr "Spinner kleur"
+
+# @ qode
+#: includes/qode-options.php:988 includes/qode-options.php:1051
+#: includes/qode-options.php:1115 includes/qode-options.php:1179
+#: includes/qode-options.php:1243 includes/qode-options.php:1308
+#: includes/qode-options.php:1682 includes/qode-options.php:2149
+#: includes/qode-options.php:2238 includes/qode-options.php:2307
+#: includes/qode-options.php:3340 includes/qode-options.php:4924
+msgid "Text Transform"
+msgstr "Tekst transformatie"
+
+# @ qode
+#: includes/qode-options.php:1477
+msgid "Predefined medium type"
+msgstr "Voorgedefinieerde medium stijl"
+
+# @ qode
+#: includes/qode-options.php:1506
+msgid "Predefined large type"
+msgstr "Voorgedefinieerde grote stijl"
+
+# @ qode
+#: includes/qode-options.php:1536
+msgid "Subtitle style"
+msgstr "Ondertitel stijl"
+
+# @ qode
+#: includes/qode-options.php:1586
+msgid "Subtitle for predefined large style"
+msgstr "Ondertitel voor voorgedefinieerde grote stijl"
+
+# @ qode
+#: includes/qode-options.php:1631
+msgid "Categories Filter"
+msgstr "Categorieën filter"
+
+# @ qode
+#: includes/qode-options.php:1736
+msgid "Enable breadcrumbs"
+msgstr "Schakel broodkruimels in"
+
+# @ qode
+#: includes/qode-options.php:1747
+msgid "Enable Qode Search"
+msgstr "Schakel Qode zoeken in"
+
+# @ qode
+#: includes/qode-options.php:1759
+msgid "Qode Search Background Color"
+msgstr "Qode Search achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:1768
+msgid "Qode Search Text Color"
+msgstr "Qode Search tekstkleur"
+
+# @ qode
+#: includes/qode-options.php:1847
+msgid "Header Bottom Border Color"
+msgstr "Header onderkant kleur rand"
+
+# @ qode
+#: includes/qode-options.php:1853
+msgid "If field is empty, header will not have border bottom"
+msgstr "Als dit veld leg is krijgt de header geen rand aan de onderkant"
+
+# @ qode
+#: includes/qode-options.php:1858
+msgid "Header bottom border transparency"
+msgstr "Transparantie header onderkant rand"
+
+# @ qode
+#: includes/qode-options.php:1863
+msgid "Work only if Header Bottom Border Color is filled"
+msgstr "Werkt alleen als een kleur is ingesteld voor de header onderkant rand"
+
+# @ qode
+#: includes/qode-options.php:1876
+msgid "Breadcrumbs color"
+msgstr "Broodkruimels kleur"
+
+# @ qode
+#: includes/qode-options.php:2009
+msgid "Active Color"
+msgstr "Actieve kleur"
+
+# @ qode
+#: includes/qode-options.php:2022 includes/qode-options.php:3008
+#: includes/qode-options.php:3453
+msgid "Hover Background Color"
+msgstr "Hover achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:2027
+msgid "Hover Background Color Transparency"
+msgstr "Hover achtergrondkleur transparantie"
+
+# @ qode
+#: includes/qode-options.php:2163
+msgid "Padding Top/Bottom"
+msgstr "Padding boven/onder"
+
+# @ qode
+#: includes/qode-options.php:2168
+msgid "Dropdow separator between items(Only for classic menu style(not wide))"
+msgstr ""
+"Dropdown scheidingstekens tussen item(Alleen voor klassieke menu stijl(niet "
+"wijde))"
+
+# @ qode
+#: includes/qode-options.php:2176
+msgid "Border around dropdown menu"
+msgstr "Rand rondom dropdown menu"
+
+# @ qode
+#: includes/qode-options.php:2186
+msgid "2nd level menu style for wide menu"
+msgstr "2e niveau menu stijl voor breed menu"
+
+# @ qode
+#: includes/qode-options.php:2499
+msgid "Top Header"
+msgstr "Top header"
+
+# @ qode
+#: includes/qode-options.php:2561
+msgid "Border Weight (px)"
+msgstr "Dikte van rand (px)"
+
+# @ qode
+#: includes/qode-options.php:2643
+msgid "Title Separator Color"
+msgstr "Kleur scheidingsteken titel"
+
+# @ qode
+#: includes/qode-options.php:2662
+msgid "Border Bottom on Title Area"
+msgstr "Rand onderkant van het titel gebied"
+
+# @ qode
+#: includes/qode-options.php:2702
+msgid "Size for side menu/fullscreen menu button"
+msgstr "Grote voor zijmenu/volledig scherm menu knop"
+
+# @ qode
+#: includes/qode-options.php:2881
+msgid "Width (px)"
+msgstr "Breedte (px)"
+
+# @ qode
+#: includes/qode-options.php:2896
+msgid "Default button style"
+msgstr "Standaard knop stijl"
+
+# @ qode
+#: includes/qode-options.php:2926 includes/qode-options.php:3792
+#: includes/qode-options.php:3838 includes/qode-options.php:4912
+msgid "Letter Spacing (px)"
+msgstr "Letterafstand (px)"
+
+# @ qode
+#: includes/qode-options.php:2975
+msgid "Border Width"
+msgstr "Rand breedte"
+
+# @ qode
+#: includes/qode-options.php:2979 includes/qode-options.php:3050
+#: includes/qode-options.php:3086 includes/qode-options.php:3122
+msgid "Border Radius (px)"
+msgstr "Rand Radius (px)"
+
+# @ qode
+#: includes/qode-options.php:2985
+msgid "Predifined White Button"
+msgstr "Voorgedefinieerde witte knop"
+
+# @ qode
+#: includes/qode-options.php:3003
+msgid "Hover Border Color"
+msgstr "Kleur rand hover"
+
+# @ qode
+#: includes/qode-options.php:3013
+msgid "Hover Text Color"
+msgstr "Kleur tekst hover"
+
+# @ qode
+#: includes/qode-options.php:3020
+msgid "Small Button"
+msgstr "Kleine knop"
+
+# @ qode
+#: includes/qode-options.php:3023 includes/qode-options.php:3059
+#: includes/qode-options.php:3095
+msgid "Height (px)"
+msgstr "Hoogte (px)"
+
+# @ qode
+#: includes/qode-options.php:3046 includes/qode-options.php:3082
+#: includes/qode-options.php:3118
+msgid "Padding left/right (px)"
+msgstr "Padding links/rechts (px)"
+
+# @ qode
+#: includes/qode-options.php:3056
+msgid "Large Button"
+msgstr "Grote knop"
+
+# @ qode
+#: includes/qode-options.php:3092
+msgid "Large Big Button"
+msgstr "Grote grote knop"
+
+# @ qode
+#: includes/qode-options.php:3248
+msgid "Testimonials style"
+msgstr "Testimonials stijl"
+
+# @ qode
+#: includes/qode-options.php:3251
+msgid "Text Font Size"
+msgstr "Tekst lettertypegrootte"
+
+# @ qode
+#: includes/qode-options.php:3255
+msgid "Navigation Border radius (px)"
+msgstr "Navigatie rand radius (px)"
+
+# @ qode
+#: includes/qode-options.php:3262
+msgid "Counters style"
+msgstr "Counters stijl"
+
+# @ qode
+#: includes/qode-options.php:3265
+msgid "Counter Color"
+msgstr "Counter kleur"
+
+# @ qode
+#: includes/qode-options.php:3270
+msgid "Counter Text Color"
+msgstr "Counter tekst kleur"
+
+# @ qode
+#: includes/qode-options.php:3275
+msgid "Counter Separator Color"
+msgstr "Counter scheidingsteken kleur"
+
+# @ qode
+#: includes/qode-options.php:3280
+msgid "Number Font Size (px)"
+msgstr "Getal lettergrootte (px)"
+
+# @ qode
+#: includes/qode-options.php:3297
+msgid "Numbers Font Weight"
+msgstr "Getal lettergewicht"
+
+# @ qode
+#: includes/qode-options.php:3312
+msgid "Text Font Size (px)"
+msgstr "Tekstgrootte (px)"
+
+# @ qode
+#: includes/qode-options.php:3325
+msgid "Text Font Weight"
+msgstr "Tekst lettergewicht"
+
+# @ qode
+#: includes/qode-options.php:3350
+msgid "Text Letter Spacing (px)"
+msgstr "Tekst letterafstand (px)"
+
+# @ qode
+#: includes/qode-options.php:3357 includes/qode-options.php:3382
+msgid "Percentage style"
+msgstr "Percentage stijl"
+
+# @ qode
+#: includes/qode-options.php:3360 includes/qode-options.php:3385
+msgid "Font size"
+msgstr "Lettergrootte"
+
+# @ qode
+#: includes/qode-options.php:3364 includes/qode-options.php:3389
+#: includes/qode-options.php:3463
+msgid "Font Weight"
+msgstr "Lettergewicht"
+
+# @ qode
+#: includes/qode-options.php:3407
+msgid "Tabs style"
+msgstr "Tabs stijl"
+
+# @ qode
+#: includes/qode-options.php:3410
+msgid "Tab Text Size"
+msgstr "Tabs lettergrootte"
+
+# @ qode
+#: includes/qode-options.php:3414
+msgid "Tab Font Weight)"
+msgstr "Tabs lettergewicht"
+
+# @ qode
+#: includes/qode-options.php:3431
+msgid "Vertical and Box tabs style"
+msgstr "Verticale en Box tabs stijl"
+
+# @ qode
+#: includes/qode-options.php:3439
+msgid "Border radius (px)"
+msgstr "Rand radius (px)"
+
+# @ qode
+#: includes/qode-options.php:3443
+msgid "Border width (px)"
+msgstr "Rand dikte (px)"
+
+# @ qode
+#: includes/qode-options.php:3450
+msgid "Circle styles"
+msgstr "Cirkel stijl"
+
+# @ qode
+#: includes/qode-options.php:3460
+msgid "Text in circle style"
+msgstr "Tekst in cirkel stijl"
+
+# @ qode
+#: includes/qode-options.php:3486
+msgid "Input fields style"
+msgstr "Invoervelden stijl"
+
+# @ qode
+#: includes/qode-options.php:3525
+msgid "Enable transparent left menu area"
+msgstr "Pas transparantie toe op linkermenu"
+
+# @ qode
+#: includes/qode-options.php:3545
+msgid "Left menu area background image"
+msgstr "Linkermenu achtergrondafbeelding"
+
+# @ qode
+#: includes/qode-options.php:3554
+msgid "Left menu area text color (for widgets)"
+msgstr "Linkermenu tekstkleur (voor widgets)"
+
+# @ qode
+#: includes/qode-options.php:3844
+msgid "Close Icon Style"
+msgstr "Sluit icoon stijl"
+
+# @ qode
+#: includes/qode-options.php:3864
+msgid "Enable Fullscreen Menu"
+msgstr "Schakel volledig scherm menu in"
+
+# @ qode
+#: includes/qode-options.php:3875
+msgid "Logo image for Fullscreen menu"
+msgstr "Logo afbeelding voor volledig scherm menu"
+
+# @ qode
+#: includes/qode-options.php:3884
+msgid "1st level style"
+msgstr "1e niveau stijl"
+
+# @ qode
+#: includes/qode-options.php:3897 includes/qode-options.php:3960
+msgid "Background hover color"
+msgstr "Achtergrond hover kleur"
+
+# @ qode
+#: includes/qode-options.php:3947
+msgid "2nd level style"
+msgstr "2e niveau stijl"
+
+# @ qode
+#: includes/qode-options.php:4245
+msgid "Blog Masonry Full Width"
+msgstr "Blog Masonry volledige breedte"
+
+# @ qode
+#: includes/qode-options.php:4343
+msgid "Blog Large Image style"
+msgstr "Blog grote afbeelding stijl"
+
+# @ qode
+#: includes/qode-options.php:4346 includes/qode-options.php:4382
+msgid "Text in box"
+msgstr "Tekst in box"
+
+# @ qode
+#: includes/qode-options.php:4355 includes/qode-options.php:4391
+msgid "Text Box Border"
+msgstr "Tekst box rand"
+
+# @ qode
+#: includes/qode-options.php:4363 includes/qode-options.php:4399
+msgid "Text Box Border Color"
+msgstr "Tekst box rand kleur"
+
+# @ qode
+#: includes/qode-options.php:4368 includes/qode-options.php:4404
+msgid "Text Box Border width(px)"
+msgstr "Tekst box rand breedte(px)"
+
+# @ qode
+#: includes/qode-options.php:4372 includes/qode-options.php:4408
+msgid "Text Box Background Color"
+msgstr "Tekst box achtergrondkleur"
+
+# @ qode
+#: includes/qode-options.php:4415
+msgid "Blog Masonry Style"
+msgstr "Blog Masonry stijl"
+
+# @ qode
+#: includes/qode-options.php:4428
+msgid "Border Raidus(px)"
+msgstr "Rand radius (px)"
+
+# @ qode
+#: widgets/call_to_action_widget.php:139
+msgid "Border Color:"
+msgstr "Rand kleur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:144
+msgid "Padding Top (px):"
+msgstr "Padding top (px):"
+
+# @ qode
+#: widgets/call_to_action_widget.php:149
+msgid "Padding Bottom (px):"
+msgstr "Padding onderkant (px):"
+
+# @ qode
+#: includes/qode-options.php:1926
+msgid "Logo image - fixed header with hidden menu"
+msgstr "Logo afbeelding - gefixeerde header met verborgen menu"
+
+# @ qode
+#: includes/qode-options.php:1942
+msgid "Animate centered logo"
+msgstr "Animeer gecentreerd logo"
+
+# @ qode
+#: includes/qode-options.php:1947
+msgid "(in this case, logo is \"retina\")"
+msgstr "(in dit geval is het logo \"retine\")"
+
+# @ qode
+#: includes/qode-options.php:1968
+msgid "Scrolled - visible part in fixed with hidden menu style (px)"
+msgstr ""
+"Gescrolled - stijl zichtbare gedeelte is gefixeerd met verbogen menu (px)"
+
+# @ qode
+#: includes/qode-options.php:2648
+msgid "Title Separator Width (px)"
+msgstr "Breedte scheidingsteken titel (px)"
+
+# @ qode
+#: includes/qode-options.php:2670
+msgid "Border Bottom on Title Area Color"
+msgstr "Kleur van rand aan de onderkant van het titel gebied"
+
+# @ qode
+#: includes/qode-options.php:2676
+msgid "Margin after title for default template (px)"
+msgstr "Margin na de titel in het standaard template (px)"
+
+# @ qode
+#: includes/qode-options.php:2817
+msgid "Link Hover color"
+msgstr "Link hover kleur"
+
+# @ qode
+#: includes/qode-options.php:2847 includes/qode-options.php:2873
+msgid "Transparency (between 0 and 1)"
+msgstr "Transparantie (tussen 0 en 1)"
+
+# @ qode
+#: includes/qode-options.php:3284
+msgid "Number Font family"
+msgstr "Getal lettertype familie"
+
+# @ qode
+#: includes/qode-options.php:3316
+msgid "Text Font family"
+msgstr "Tekst lettertype familie"
+
+# @ qode
+#: includes/qode-options.php:4204
+msgid "Enable Portfolio text following"
+msgstr "Schakel Portfolio tekst volgen in"
+
+# @ qode
+#: includes/qode-options.php:4379
+msgid "Blog Medium Image style"
+msgstr "Blog medium afbeelding stijl"
+
+# @ qode
+#: includes/qode-options.php:4588
+msgid ""
+" If you choose Yes and save, then come back to this section and you will get "
+"additional fields for google map settings."
+msgstr ""
+" Wanneer je kiest voor Ja en opslaan keer dan terug naar dit gedeelte om "
+"aanvullende velden voor Google Maps te configureren."
+
+# @ qode
+#: includes/qode-options.php:4663
+msgid "Google map saturation (-100 to 100)"
+msgstr "Google map saturatie (-100 tot 100)"
+
+# @ qode
+#: includes/qode-options.php:4669
+msgid "Google map lightness (-100 to 100)"
+msgstr "Google map lichtheid (-100 tot 100)"
+
+# @ qode
+#: functions.php:963
+msgid "Author:"
+msgstr "Auteur:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:112
+msgid "Text Letter Spacing:"
+msgstr "Tekst letterafstand:"
+
+# @ qode
+#: widgets/call_to_action_widget.php:117
+msgid "Text Font Weight:"
+msgstr "Tekst lettergewicht:"
+
+# @ qode
+#: export/qode-export.php:131
+msgid "Qode Options - Export"
+msgstr "Qode Options - Exporteer"
+
+# @ qode
+#: extendvc/extend-vc.php:6355
+msgid "Qode Elements Holder"
+msgstr "Qode Options Holder"
+
+# @ qode
+#: extendvc/extend-vc.php:6392
+msgid "Qode Elements Holder Item"
+msgstr "Qode Options Holder item"
+
+# @ qode
+#: includes/nav_menu/edit_custom_walker.php:270
+msgid "Show custom widget area in popup (only for 'wide' menu types)"
+msgstr "Toon aangepast widget gebied in pop-up (alleen voor menu type 'breed')"
+
+# @ qode
+#: includes/qode-options.php:2076
+msgid "Text transform"
+msgstr "Tekst transformatie"
+
+# @ qode
+#: includes/qode-options.php:2803
+msgid "Footer top title styles"
+msgstr "Footer bovenkant titel stijlen"
+
+# @ qode
+#: includes/qode-options.php:3293
+msgid "Number Letter Spacing (px)"
+msgstr "Nummer tekstafstand (px)"
+
+# @ qode
+#: includes/qode-options.php:4559
+msgid "Alignment of section between map and form"
+msgstr "Uitlijning van het gedeelte tussen de kaart en het formulier"
+
+# @ qode
+#: includes/qode-options.php:4932
+msgid "Text Style"
+msgstr "Tekststijl"
+
+# @ qode
+#: 404.php:11
+msgid "The page you are looking for is not found"
+msgstr "De pagina die je zoekt is niet gevonden"
+
+# @ default
+#: extendvc/extend-vc.php:4362
+msgid "Enter just number, omit px"
+msgstr "Voer alleen een getal in, laat px dus weg"
+
+# @ default
+#: extendvc/extend-vc.php:4372
+msgid "Enter just number, omit px. Applied only for circle or square icon type"
+msgstr ""
+"Voer alleen een getal in, laat px dus weg. Wordt alleen toegepast op "
+"cirkelvorming of vierkante iconen"
+
+# @ default
+#: extendvc/extend-vc.php:4382
+msgid ""
+"Spacing between icon and text (for left icon/margin position). Enter just "
+"number, omit px"
+msgstr ""
+"Afstand tussen icoon en tekst (voor linker icoon/margin positie). Voer "
+"alleen een getal in, laat px dus weg."
+
+# @ qode
+#: functions.php:355
+msgid "Left Top Navigation"
+msgstr "Navigatie linksboven"
+
+# @ qode
+#: functions.php:361
+msgid "Right Top Navigation"
+msgstr "Navigatie rechtsboven"
+
+# @ qode
+#: includes/qode-options.php:2085
+msgid "Separator Color"
+msgstr "Kleur scheidingsteken"
+
+# @ qode
+#: includes/qode-options.php:2090
+msgid "Show Separator Between Items"
+msgstr "Toon scheidingsteken tussen items"
+
+# @ qode
+#: includes/qode-options.php:3563
+msgid "Left Menu Area Alignment"
+msgstr "Uitlening linker menu gebied"
+
+# @ qode
+#: includes/qode-options.php:4248
+msgid "Blog Large Image Simple"
+msgstr "Simpel blog afbeelding groot"
+
+# @ qode
+#: includes/shortcodes/shortcodes.php:2598 templates/blog-structure.php:117
+msgid "Loading..."
+msgstr "Laden..."

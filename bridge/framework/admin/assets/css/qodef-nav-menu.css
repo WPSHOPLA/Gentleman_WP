@@ -1,0 +1,10 @@
+/*used on admin menus page*/
+.description-thin-custom {
+	height: auto;
+}
+
+.menu-item-handle .spinner {
+    position: absolute;
+    left: -25px;
+    top: 9px;
+}
